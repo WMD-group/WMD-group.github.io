@@ -4,12 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<h1 class="page-heading">
+<strong>
+    Our goal is the accelerated design and optimisation of novel functional materials using computer simulations.
+</strong>
+</h1>
 
+<br>
+
+<h1 class="page-heading">Research themes (M<sup>3</sup>):</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -18,6 +24,15 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<br>
+
+The research group of Professor Aron Walsh, Royal Society University Research Fellow and Chair of Materials Theory in Chemistry at the University of Bath.
+
+</p>
+
+Key application areas involve energy conversion, storage and transport, including thermoelectric, electrocaloric, electrochromic and photovoltaic devices. 
+
+Our interests in computational materials science cover the condensed-matter physics and solid-state chemistry of advanced materials, including the bulk and 
+defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
 </div>

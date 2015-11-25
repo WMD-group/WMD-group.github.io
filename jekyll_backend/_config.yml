@@ -1,7 +1,7 @@
 # Site settings
 title: Walsh Materials Design Group 
 email: a.walsh@bath.ac.uk 
-description: Research group of Prof. Aron Walsh, University of Bath 
+description: Computational Materials Science 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wmd-group.github.io" # the base hostname & protocol for your site
 twitter_username: lonepair
