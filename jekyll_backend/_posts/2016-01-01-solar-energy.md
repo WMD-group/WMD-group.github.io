@@ -5,35 +5,40 @@ date:   2016-01-04
 categories: research themes
 ---
 
+![](/gifs/mapi_18.gif){: .center-image }
+
 The direct conversion of sunlight to electricity in solar cells is a sustainable solution to future global energy supply.
 
-New materials are required to satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing performance.
+New materials are required to satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost and performance.
 
-We are involved in the development of materials for thin-film solar cells including:
-
-![](/gifs/mapi_18.gif) 
+We are involved in the development of materials for thin-film solar cells:
 
 ## Metal oxide solar cells 
-Including Cu2O, PbO and BiFeO3.
+Including Cu<sub>2</sub>O, PbO and BiFeO<sub>3</sub>.
 
 ## Metal sulfide solar cells
-Including SnS, FeS2, CuSbS2, CuBiS2 and Sb2S3.
+Including SnS, FeS<sub>2</sub>, CuSbS<sub>2</sub>, CuBiS<sub>2</sub> and Sb<sub>2</sub>S<sub>3</sub>.
 
 ## Multi-component semiconductors
-Including Cu2ZnSnS4 and Ag2ZnSnS4.
+Including Cu<sub>2</sub>ZnSnS<sub>4</sub> and Ag<sub>2</sub>ZnSnS<sub>4</sub>.
 
 ## Hybrid organic-inorganic perovskites 
-Including CH3NH3PbI3 and [HC(NH2)2]PbI3.
+Including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>.
+
+<br>
 
 ###Select Publications
 
 - [Principles of chemical bonding and band gap engineering in hybrid organic−inorganic halide perovskites (Journal of Physical Chemistry C, 2015)](http://dx.doi.org/10.1021/jp512420b)
 
-- [The dynamics of methylammonium ions in hybrid organic–inorganic perovskite solar cells (Nature Communications, 2015)](dx.doi.org/10.1038/ncomms8124)
+- [The dynamics of methylammonium ions in hybrid organic–inorganic perovskite solar cells (Nature Communications, 2015)](http://dx.doi.org/10.1038/ncomms8124)
 
 - [Role of microstructure in the electron–hole interaction of hybrid lead halide perovskites (Nature Photonics, 2015)](http://dx.doi.org/10.1038/nphoton.2015.151)
 
 - [Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal, and cubic phases of methylammonium lead iodide (Physical Review B, 2015)](http://dx.doi.org/10.1103/PhysRevB.92.144308)
 
-- [Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu2ZnSnS4 and Cu2ZnSnSe4 (APL Materials, 2015))](http://dx.doi.org/10.1063/1.4917044)
+- [Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu2ZnSnS4 and Cu2ZnSnSe4 (APL Materials, 2015)](http://dx.doi.org/10.1063/1.4917044)
 
+<br>
+
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)

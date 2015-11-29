@@ -19,6 +19,7 @@ Ferroelectrics...
 ## Crystal Engineering
 Growth... directed crystallisation into new polymorphs.
 
+<br>
 
 ###Select Publications
 
@@ -31,3 +32,7 @@ Growth... directed crystallisation into new polymorphs.
 - [Polymorph engineering of CuMO2 (M = Al, Ga, Sc, Y) semiconductors for solar energy applications: from delafossite to wurtzite (Acta Cryst B, 2015)](http://dx.doi.org/10.1107/S2052520615018387)
 
 - [The quest for new functionality (Nature Chemistry, 2015)](http://dx.doi.org/10.1039/c5sc01489a)
+
+<br>
+
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227)

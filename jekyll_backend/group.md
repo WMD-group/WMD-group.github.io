@@ -4,6 +4,13 @@ title: Researchers
 permalink: /group/
 ---
 
+The research group of Professor Aron Walsh, Royal Society University Research Fellow and Chair of Materials Theory in Chemistry at the University of Bath.
+
+Our interests in computational materials science cover the condensed matter physics 
+and solid state chemistry of advanced materials, including the bulk and 
+defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
+Key application areas involve energy conversion, storage and transport.
+
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
