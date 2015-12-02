@@ -4,7 +4,10 @@ title: Researchers
 permalink: /group/
 ---
 
-The research group of Professor Aron Walsh, Royal Society University Research Fellow and Chair of Materials Theory in Chemistry at the University of Bath.
+The research group of Professor Aron Walsh, Royal Society University Research Fellow and Chair of Materials Theory in Chemistry at the University of Bath. 
+He also holds a dual faculty position in Materials Science and Engineering at Yonsei University, Korea.
+
+Aron studied at Trinity College Dublin, and later held positions at the National Renewable Energy Laboratory and University College London.
 
 Our interests in computational materials science cover the condensed matter physics 
 and solid state chemistry of advanced materials, including the bulk and 
