@@ -9,23 +9,23 @@ categories: research themes
 
 The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy supply.
 
-New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost and performance.
+New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.
 
 We are involved in the development of a range of novel materials for thin-film solar cells:
 
 ## Metal oxide solar cells 
-Including Cu<sub>2</sub>O and BiFeO<sub>3</sub>.
+including Cu<sub>2</sub>O and BiFeO<sub>3</sub>.
 
 ## Metal sulfide solar cells
-Including SnS, FeS<sub>2</sub>, CuSbS<sub>2</sub>, CuBiS<sub>2</sub> and Sb<sub>2</sub>S<sub>3</sub>.
+including SnS, FeS<sub>2</sub>, CuSbS<sub>2</sub>, CuBiS<sub>2</sub> and Sb<sub>2</sub>S<sub>3</sub>.
 
 ## Multi-component semiconductors
-Including Cu<sub>2</sub>ZnSnS<sub>4</sub>, Ag<sub>2</sub>ZnSnS<sub>4</sub>, and 
+including Cu<sub>2</sub>ZnSnS<sub>4</sub>, Ag<sub>2</sub>ZnSnS<sub>4</sub>, and 
 photoferroics such as SbSI.
 
 ## Hybrid organic-inorganic perovskites 
-Including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>
-([Mendeley perovskite group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
+including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>
+([see Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
 
 <br>
 

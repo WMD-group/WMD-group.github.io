@@ -7,9 +7,9 @@ permalink: /group/
 The research group of Professor Aron Walsh, Royal Society University Research Fellow and Chair of Materials Theory in Chemistry at the University of Bath. 
 He also holds a dual faculty position in Materials Science and Engineering at Yonsei University, Korea.
 
-Aron studied at Trinity College Dublin, and later held positions at the National Renewable Energy Laboratory and University College London.
+Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) and University College London (UK).
 
-Our interests in computational materials science cover the condensed matter physics 
+Our interests in materials modelling cover the condensed matter physics 
 and solid state chemistry of advanced materials, including the bulk and 
 defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 Key application areas involve energy conversion, storage and transport.
@@ -39,3 +39,10 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Dr. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=0cqrNGkAAAAJ&hl=en)
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
+
+### Former Visitors
+- [Dr. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
+- [Dr. Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
+- [Chang-Eun Kim](https://scholar.google.co.uk/citations?user=20AziH8AAAAJ&hl=en)
+- [Su-Hyun Yoo](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
+

@@ -4,7 +4,8 @@ title: Publications
 permalink: /papers/
 ---
 
-See 
+[Paper server](http://people.bath.ac.uk/aw558/publications/).
+Also see 
 [Google Scholar](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en),
 [Mendeley](https://www.mendeley.com/profiles/aron-walsh/),
 or
