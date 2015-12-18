@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walsh Materials Design Group</title>
+    <description>Computational Materials Science</description>
+    <link>http://wmd-group.github.io/</link>
+    <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 16 Dec 2015 20:01:30 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 20:01:30 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Materials for Solar Energy</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/gifs/mapi_18.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy supply.&lt;/p&gt;
+
+&lt;p&gt;New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.&lt;/p&gt;
+
+&lt;p&gt;We are involved in the development of a range of novel materials for thin-film solar cells:&lt;/p&gt;
+
+&lt;h2 id=&quot;metal-oxide-solar-cells&quot;&gt;Metal oxide solar cells&lt;/h2&gt;
+&lt;p&gt;including Cu&lt;sub&gt;2&lt;/sub&gt;O and BiFeO&lt;sub&gt;3&lt;/sub&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;metal-sulfide-solar-cells&quot;&gt;Metal sulfide solar cells&lt;/h2&gt;
+&lt;p&gt;including SnS, FeS&lt;sub&gt;2&lt;/sub&gt;, CuSbS&lt;sub&gt;2&lt;/sub&gt;, CuBiS&lt;sub&gt;2&lt;/sub&gt; and Sb&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;multi-component-semiconductors&quot;&gt;Multi-component semiconductors&lt;/h2&gt;
+&lt;p&gt;including Cu&lt;sub&gt;2&lt;/sub&gt;ZnSnS&lt;sub&gt;4&lt;/sub&gt;, Ag&lt;sub&gt;2&lt;/sub&gt;ZnSnS&lt;sub&gt;4&lt;/sub&gt;, and 
+photoferroics such as SbSI.&lt;/p&gt;
+
+&lt;h2 id=&quot;hybrid-organic-inorganic-perovskites&quot;&gt;Hybrid organic-inorganic perovskites&lt;/h2&gt;
+&lt;p&gt;including CH&lt;sub&gt;3&lt;/sub&gt;NH&lt;sub&gt;3&lt;/sub&gt;PbI&lt;sub&gt;3&lt;/sub&gt; and [HC(NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;]PbI&lt;sub&gt;3&lt;/sub&gt;
+(&lt;a href=&quot;https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/&quot;&gt;see Mendeley group&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;select-publications&quot;&gt;Select Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/jp512420b&quot;&gt;Principles of chemical bonding and band gap engineering in hybrid organic−inorganic halide perovskites (Journal of Physical Chemistry C, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/ncomms8124&quot;&gt;The dynamics of methylammonium ions in hybrid organic–inorganic perovskite solar cells (Nature Communications, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/nphoton.2015.151&quot;&gt;Role of microstructure in the electron–hole interaction of hybrid lead halide perovskites (Nature Photonics, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.92.144308&quot;&gt;Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal, and cubic phases of methylammonium lead iodide (Physical Review B, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4917044&quot;&gt;Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu2ZnSnS4 and Cu2ZnSnSe4 (APL Materials, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://wmd-group.github.io/research/themes/2016/01/04/solar-energy/</link>
+        <guid isPermaLink="true">http://wmd-group.github.io/research/themes/2016/01/04/solar-energy/</guid>
+        
+        
+        <category>research</category>
+        
+        <category>themes</category>
+        
+      </item>
+    
+      <item>
+        <title>Metal-Organic Frameworks</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/gifs/mof.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Metal-organic frameworks are crystalline materials formed of organic and inorganic building blocks. 
+The chemical space for synthesising these systems is large with the potential for engineering novel
+functionality.&lt;/p&gt;
+
+&lt;h2 id=&quot;electroactive-hybrid-solids&quot;&gt;Electroactive hybrid solids&lt;/h2&gt;
+&lt;p&gt;We are developing principles to control optical properties, magnetism, and electrical conductivity. 
+Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe complex nanoporous solids. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;select-publications&quot;&gt;Select Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc01489a&quot;&gt;Chemical principles underpinning the performance of the metal–organic framework HKUST-1 (Chemical Science, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/jacs.5b02897&quot;&gt;Million-fold electrical conductivity enhancement in Fe&lt;sub&gt;2&lt;/sub&gt;(DEBDC) versus Mn&lt;sub&gt;2&lt;/sub&gt;(DEBDC) (E = S, O) (Journal of the American Chemical Society, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5tc02633d&quot;&gt;Magnetoelastic coupling in the cobalt adipate metal–organic framework from quasi-harmonic lattice dynamics (Journal of Materials Chemistry, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/ja512437u&quot;&gt;Cation-dependent intrinsic electrical conductivity in isostructural tetrathiafulvalene-based microporous metal−organic frameworks (Journal of the American Chemical Society, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5cc06190c&quot;&gt;Role of entropic effects in controlling the polymorphism in formate ABX&lt;sub&gt;3&lt;/sub&gt; metal–organic frameworks (Chemical Communications, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;funded-by-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://wmd-group.github.io/research/themes/2016/01/03/metal-organic-frameworks/</link>
+        <guid isPermaLink="true">http://wmd-group.github.io/research/themes/2016/01/03/metal-organic-frameworks/</guid>
+        
+        
+        <category>research</category>
+        
+        <category>themes</category>
+        
+      </item>
+    
+      <item>
+        <title>Metastable States</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/gifs/helix.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli.&lt;/p&gt;
+
+&lt;h2 id=&quot;optical&quot;&gt;Optical&lt;/h2&gt;
+&lt;p&gt;including single-crystal phase and property transitions due to linkage isomerism.&lt;/p&gt;
+
+&lt;h2 id=&quot;thermal&quot;&gt;Thermal&lt;/h2&gt;
+&lt;p&gt;involving phase changes and displacive instabilities, including systems where there exists large differences between local and average structures.&lt;/p&gt;
+
+&lt;h2 id=&quot;electric&quot;&gt;Electric&lt;/h2&gt;
+&lt;p&gt;including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field. &lt;/p&gt;
+
+&lt;h2 id=&quot;kinetic&quot;&gt;Kinetic&lt;/h2&gt;
+&lt;p&gt;covering crystal engineering into new polymorphs, as well as the fabrication of 
+artificial heterostructures and material composites.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;select-publications&quot;&gt;Select Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c4fd00168k&quot;&gt;Electronic excitations in molecular solids: bridging theory and experiment (Faraday Discussions, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/acs.chemmater.5b00230&quot;&gt;Polymorph engineering of TiO&lt;sub&gt;2&lt;/sub&gt;: demonstrating how absolute reference potentials are determined by local coordination (Chemistry of Materials, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c4ce01411a&quot;&gt;Energetics, thermal isomerisation and photochemistry of the linkage-isomer [Ni(Et&lt;sub&gt;4&lt;/sub&gt;dien)(η&lt;sup&gt;2&lt;/sup&gt;-O,ON)(η&lt;sup&gt;1&lt;/sup&gt;-NO&lt;sub&gt;2&lt;/sub&gt;)] (CrystEngComm, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1107/S2052520615018387&quot;&gt;Polymorph engineering of CuMO&lt;sub&gt;2&lt;/sub&gt; (M = Al, Ga, Sc, Y) semiconductors for solar energy applications: from delafossite to wurtzite (Acta Cryst B, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc01489a&quot;&gt;The quest for new functionality (Nature Chemistry, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://wmd-group.github.io/research/themes/2016/01/02/metastable-states/</link>
+        <guid isPermaLink="true">http://wmd-group.github.io/research/themes/2016/01/02/metastable-states/</guid>
+        
+        
+        <category>research</category>
+        
+        <category>themes</category>
+        
+      </item>
+    
+      <item>
+        <title>Method Development</title>
+        <description>&lt;p&gt;To strengthen our application areas, we also develop techniques and software tools in computational chemistry and physics. &lt;/p&gt;
+
+&lt;h2 id=&quot;lattice-dynamics&quot;&gt;Lattice dynamics&lt;/h2&gt;
+&lt;p&gt;working closely with Atsushi Togo (Kyoto University) on the development and testing of &lt;a href=&quot;http://phonopy.sourceforge.net/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is vibrational spectroscopy and anharmonic interactions (lifetime effects).&lt;/p&gt;
+
+&lt;h2 id=&quot;thermodynamics&quot;&gt;Thermodynamics&lt;/h2&gt;
+&lt;p&gt;in addition to electronic properties, first-principles techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields. &lt;/p&gt;
+
+&lt;h2 id=&quot;imperfect-crystals&quot;&gt;Imperfect crystals&lt;/h2&gt;
+&lt;p&gt;all crystals are defective owing to configurational entropy. Materials modelling can probe both the probability of defect formation as well as their structural, vibrational and optical properties.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gifs/defect.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;select-publications&quot;&gt;Select Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4934716&quot;&gt;Crystal structure optimisation using an auxiliary equation of state (Journal of Chemical Physics 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4928058&quot;&gt;Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors (Journal of Chemical Physics 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc03088a&quot;&gt;A universal chemical potential for sulfur vapours (Chemical Science, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.114.016405&quot;&gt;Determination of the nitrogen vacancy as a shallow compensating centre in GaN doped with divalent metals (Physical Review Letters, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://wmd-group.github.io/research/themes/2016/01/01/methods/</link>
+        <guid isPermaLink="true">http://wmd-group.github.io/research/themes/2016/01/01/methods/</guid>
+        
+        
+        <category>research</category>
+        
+        <category>themes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
