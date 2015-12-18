@@ -41,8 +41,9 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
 ### Former Visitors
-- [Dr. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
+- [Prof. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
 - [Dr. Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
 - [Chang-Eun Kim](https://scholar.google.co.uk/citations?user=20AziH8AAAAJ&hl=en)
+- [Dr. Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
+- [Prof. Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
-
