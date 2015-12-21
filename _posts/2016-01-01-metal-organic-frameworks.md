@@ -13,8 +13,9 @@ The chemical space for synthesising these systems is large with the potential fo
 functionality.
 
 ## Electroactive hybrid solids 
-We are developing principles to control optical properties, magnetism, and electrical conductivity. 
-Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe complex nanoporous solids. 
+We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
+Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
+physical processes in complex nanoporous solids. 
 
 <br>
 
@@ -32,4 +33,4 @@ Our research combines electronic structure theory with universal forcefields to 
 
 <br>
 
-#### Funded by the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)

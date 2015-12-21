@@ -11,10 +11,10 @@ categories: research themes
 We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli.
 
 ## Optical
-including single-crystal phase and property transitions due to linkage isomerism.
+including single-crystal phase transitions due to linkage isomerism.
 
 ## Thermal
-involving phase changes and displacive instabilities, including systems where there exists large differences between local and average structures.
+involving displacive instabilities, including highly anharmonic systems where there exists large differences between local and average structures.
 
 ## Electric
 including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field. 
@@ -39,4 +39,4 @@ artificial heterostructures and material composites.
 
 <br>
 
-#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227)
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)

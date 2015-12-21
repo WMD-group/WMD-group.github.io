@@ -7,7 +7,7 @@ categories: research themes
 
 ![](/gifs/mapi_18.gif){: .center-image }
 
-The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy supply.
+The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy demand.
 
 New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.
 
@@ -25,7 +25,7 @@ photoferroics such as SbSI.
 
 ## Hybrid organic-inorganic perovskites 
 including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>
-([see Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
+([see our Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
 
 <br>
 
