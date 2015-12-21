@@ -5,15 +5,15 @@
     <description>Computational Materials Science</description>
     <link>http://wmd-group.github.io/</link>
     <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Dec 2015 20:01:30 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2015 20:01:30 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 14:28:52 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 14:28:52 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Materials for Solar Energy</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/mapi_18.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy supply.&lt;/p&gt;
+&lt;p&gt;The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy demand.&lt;/p&gt;
 
 &lt;p&gt;New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.&lt;/p&gt;
 
@@ -31,7 +31,7 @@ photoferroics such as SbSI.&lt;/p&gt;
 
 &lt;h2 id=&quot;hybrid-organic-inorganic-perovskites&quot;&gt;Hybrid organic-inorganic perovskites&lt;/h2&gt;
 &lt;p&gt;including CH&lt;sub&gt;3&lt;/sub&gt;NH&lt;sub&gt;3&lt;/sub&gt;PbI&lt;sub&gt;3&lt;/sub&gt; and [HC(NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;]PbI&lt;sub&gt;3&lt;/sub&gt;
-(&lt;a href=&quot;https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/&quot;&gt;see Mendeley group&lt;/a&gt;).&lt;/p&gt;
+(&lt;a href=&quot;https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/&quot;&gt;see our Mendeley group&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -79,8 +79,9 @@ The chemical space for synthesising these systems is large with the potential fo
 functionality.&lt;/p&gt;
 
 &lt;h2 id=&quot;electroactive-hybrid-solids&quot;&gt;Electroactive hybrid solids&lt;/h2&gt;
-&lt;p&gt;We are developing principles to control optical properties, magnetism, and electrical conductivity. 
-Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe complex nanoporous solids. &lt;/p&gt;
+&lt;p&gt;We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
+Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
+physical processes in complex nanoporous solids. &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -106,7 +107,7 @@ Our research combines electronic structure theory with universal forcefields to 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/03/metal-organic-frameworks/</link>
@@ -126,10 +127,10 @@ Our research combines electronic structure theory with universal forcefields to 
 &lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli.&lt;/p&gt;
 
 &lt;h2 id=&quot;optical&quot;&gt;Optical&lt;/h2&gt;
-&lt;p&gt;including single-crystal phase and property transitions due to linkage isomerism.&lt;/p&gt;
+&lt;p&gt;including single-crystal phase transitions due to linkage isomerism.&lt;/p&gt;
 
 &lt;h2 id=&quot;thermal&quot;&gt;Thermal&lt;/h2&gt;
-&lt;p&gt;involving phase changes and displacive instabilities, including systems where there exists large differences between local and average structures.&lt;/p&gt;
+&lt;p&gt;involving displacive instabilities, including highly anharmonic systems where there exists large differences between local and average structures.&lt;/p&gt;
 
 &lt;h2 id=&quot;electric&quot;&gt;Electric&lt;/h2&gt;
 &lt;p&gt;including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field. &lt;/p&gt;
@@ -162,7 +163,7 @@ artificial heterostructures and material composites.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/02/metastable-states/</link>
@@ -177,18 +178,19 @@ artificial heterostructures and material composites.&lt;/p&gt;
     
       <item>
         <title>Method Development</title>
-        <description>&lt;p&gt;To strengthen our application areas, we also develop techniques and software tools in computational chemistry and physics. &lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/gifs/sns2.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To support our three application areas, we also develop techniques and software tools in computational chemistry and physics. &lt;/p&gt;
 
 &lt;h2 id=&quot;lattice-dynamics&quot;&gt;Lattice dynamics&lt;/h2&gt;
-&lt;p&gt;working closely with Atsushi Togo (Kyoto University) on the development and testing of &lt;a href=&quot;http://phonopy.sourceforge.net/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is vibrational spectroscopy and anharmonic interactions (lifetime effects).&lt;/p&gt;
+&lt;p&gt;working closely with &lt;a href=&quot;http://atztogo.github.io/&quot;&gt;Atsushi Togo&lt;/a&gt; (Kyoto University) on the development and testing of &lt;a href=&quot;http://phonopy.sourceforge.net/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is vibrational spectroscopy and anharmonic phonon-phonon interactions (lifetime effects).&lt;/p&gt;
 
 &lt;h2 id=&quot;thermodynamics&quot;&gt;Thermodynamics&lt;/h2&gt;
-&lt;p&gt;in addition to electronic properties, first-principles techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields. &lt;/p&gt;
+&lt;p&gt;in addition to electronic properties, first-principles techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields 
+as a function of temperature and pressure. &lt;/p&gt;
 
 &lt;h2 id=&quot;imperfect-crystals&quot;&gt;Imperfect crystals&lt;/h2&gt;
 &lt;p&gt;all crystals are defective owing to configurational entropy. Materials modelling can probe both the probability of defect formation as well as their structural, vibrational and optical properties.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gifs/defect.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -206,6 +208,9 @@ artificial heterostructures and material composites.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.114.016405&quot;&gt;Determination of the nitrogen vacancy as a shallow compensating centre in GaN doped with divalent metals (Physical Review Letters, 2015)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4917044&quot;&gt;Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu&lt;sub&gt;2&lt;/sub&gt;ZnSnS&lt;sub&gt;4&lt;/sub&gt; and Cu&lt;sub&gt;2&lt;/sub&gt;ZnSnSe&lt;sub&gt;4&lt;/sub&gt; (APL Materials, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
