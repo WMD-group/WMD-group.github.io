@@ -39,7 +39,7 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 - [Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal, and cubic phases of methylammonium lead iodide (Physical Review B, 2015)](http://dx.doi.org/10.1103/PhysRevB.92.144308)
 
-- [Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu2ZnSnS4 and Cu2ZnSnSe4 (APL Materials, 2015)](http://dx.doi.org/10.1063/1.4917044)
+- [Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu<sub>2</sub>ZnSnS<sub>4</sub> and Cu<sub>2</sub>ZnSnSe<sub>4</sub> (APL Materials, 2015)](http://dx.doi.org/10.1063/1.4917044)
 
 <br>
 

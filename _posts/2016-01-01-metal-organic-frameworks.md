@@ -14,6 +14,7 @@ functionality.
 
 ## Electroactive hybrid solids 
 We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
+These principles include ion exchange, ligand modification, and defect engineering.
 Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
 physical processes in complex nanoporous solids. 
 
