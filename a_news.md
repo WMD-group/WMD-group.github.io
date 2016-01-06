@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+* 06.01.16 - Lee finalised a study into the layered dichalcogenide SnS<sub>2</sub> with [Liverpool](https://www.liverpool.ac.uk/physics/staff/timothy-veal/) and [Bristol](http://www.bris.ac.uk/chemistry/people/david-j-fermin/) in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C5TA08214E#!divAbstract).
 * 05.01.16 - Jess shows how the pore geometry of metal-organic frameworks can be controlled by composotion with the [Burrows group](http://people.bath.ac.uk/chsadb/Welcome.html) in a special issue of [Dalton Transactions](http://pubs.rsc.org/en/content/articlelanding/2016/dt/c5dt04045k).
 * 04.01.16 - A new study of Raman scattering in ZnS/ZnSe alloys in collaboration with [IREC](http://www.irec.cat/contact/dr.-edgardo-saucedo.html) is published in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp04498g#!divAbstract).
 * 03.01.16 - A collaboration with the [Cheetham group](http://www.fihm.msm.cam.ac.uk/directory/akc30@cam.ac.uk) on the chemical bonding of ferroelectric formate perovskite frameworks appears in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04143). 
