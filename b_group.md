@@ -28,6 +28,7 @@ Key application areas involve energy conversion, storage and transport.
 - [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
 - [Daniel Davies]()
+- [Youngkwang Jung (정영광)]()
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
