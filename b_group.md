@@ -14,6 +14,8 @@ and solid state chemistry of advanced materials, including the bulk and
 defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 Key application areas involve energy conversion, storage and transport.
 
+![](/assets/group_2014.jpg){: .center-image }
+
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
@@ -48,6 +50,3 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
 - [Prof. Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
-
-![](/assets/group_2014.jpg){: .center-image }
-
