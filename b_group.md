@@ -24,7 +24,7 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Clovis Caetano]()
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
-- [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
+- [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
 ### PhD Students
 - [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
