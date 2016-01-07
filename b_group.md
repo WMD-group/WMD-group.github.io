@@ -48,3 +48,6 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
 - [Prof. Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
+
+![](/assets/group_2014.jpg){: .center-image }
+
