@@ -15,4 +15,5 @@ In addition to hosting visiting scientists in the fields of computational chemis
 * [EPSRC fellowship](https://www.epsrc.ac.uk/skills/fellows/areas/)
 * [1851 fellowship](http://www.royalcommission1851.org/awards/?award=research)
 
+![](/assets/bath.jpg){: .center-image }
 
