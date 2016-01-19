@@ -14,7 +14,7 @@ and solid state chemistry of advanced materials, including the bulk and
 defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 Key application areas involve energy conversion, storage and transport.
 
-![](/assets/group_2013.jpg){: .center-image }
+![](/assets/pdra_2016.jpg){: .center-image }
 
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
