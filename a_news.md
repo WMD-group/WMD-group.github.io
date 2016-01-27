@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+* 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A Europen Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
 * 21.01.16 - Jarvist's work on [polar domains in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](http://dx.doi.org/10.1063/1.4890246) has been named as the most accessed APL Materials article in 2015.
 * 14.01.16 - A collaboration with [UCL](http://davidscanlon.com) has explored the potential photovoltaic materials BiSI and BiSeI in [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta09612j).
 * 08.01.16 - Keith spent last summer at [Tokyo Institute of Technology](http://www.msl.titech.ac.jp/~oba), which has resulted in a new method and paper on screening solar cell interfaces in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04091D#!divAbstract).
