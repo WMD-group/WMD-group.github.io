@@ -11,7 +11,7 @@ The direct conversion of sunlight to electricity in solar cells is one sustainab
 
 New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.
 
-We are involved in the development of a range of novel materials for thin-film solar cells:
+As members of the UK [Energy Materials](http://www.energy-materials.org.uk), [PVTEAM](http://pvteam.org.uk) and [SUPERSOLAR](https://connect.innovateuk.org/web/supersolar-hub) consortia, we are involved in the development of a range of novel materials for thin-film solar cells:
 
 ## Metal oxide solar cells 
 including Cu<sub>2</sub>O and BiFeO<sub>3</sub>.
