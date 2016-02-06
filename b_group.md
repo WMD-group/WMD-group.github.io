@@ -21,7 +21,6 @@ Key application areas involve energy conversion, storage and transport.
 
 ### Postdocs
 - [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
-- [Dr. Clovis Caetano]()
 - [Dr. Daniel Fritsch]()
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
@@ -45,6 +44,7 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
 ### Former Visitors
+- [Prof. Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
 - [Prof. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
 - [Dr. Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
 - [Chang-Eun Kim](https://scholar.google.co.uk/citations?user=20AziH8AAAAJ&hl=en)

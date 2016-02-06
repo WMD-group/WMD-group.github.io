@@ -29,7 +29,7 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 <br>
 
-###Select Publications
+### Select Publications
 
 - [Principles of chemical bonding and band gap engineering in hybrid organic−inorganic halide perovskites (Journal of Physical Chemistry C, 2015)](http://dx.doi.org/10.1021/jp512420b)
 

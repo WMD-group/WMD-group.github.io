@@ -25,7 +25,7 @@ artificial heterostructures and material composites.
 
 <br>
 
-###Select Publications
+### Select Publications
 
 - [Electronic excitations in molecular solids: bridging theory and experiment (Faraday Discussions, 2015)](http://dx.doi.org/10.1039/c4fd00168k)
 

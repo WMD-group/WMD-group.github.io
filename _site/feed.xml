@@ -5,9 +5,9 @@
     <description>Computational Materials Science</description>
     <link>http://wmd-group.github.io/</link>
     <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Dec 2015 14:43:19 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 14:43:19 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sat, 06 Feb 2016 14:28:22 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Feb 2016 14:28:22 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Materials for Solar Energy</title>
@@ -17,7 +17,7 @@
 
 &lt;p&gt;New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.&lt;/p&gt;
 
-&lt;p&gt;We are involved in the development of a range of novel materials for thin-film solar cells:&lt;/p&gt;
+&lt;p&gt;As members of the UK &lt;a href=&quot;http://www.energy-materials.org.uk&quot;&gt;Energy Materials&lt;/a&gt;, &lt;a href=&quot;http://pvteam.org.uk&quot;&gt;PVTEAM&lt;/a&gt; and &lt;a href=&quot;https://connect.innovateuk.org/web/supersolar-hub&quot;&gt;SUPERSOLAR&lt;/a&gt; consortia, we are involved in the development of a range of novel materials for thin-film solar cells:&lt;/p&gt;
 
 &lt;h2 id=&quot;metal-oxide-solar-cells&quot;&gt;Metal oxide solar cells&lt;/h2&gt;
 &lt;p&gt;including Cu&lt;sub&gt;2&lt;/sub&gt;O and BiFeO&lt;sub&gt;3&lt;/sub&gt;.&lt;/p&gt;
@@ -51,7 +51,7 @@ photoferroics such as SbSI.&lt;/p&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.92.144308&quot;&gt;Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal, and cubic phases of methylammonium lead iodide (Physical Review B, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4917044&quot;&gt;Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu2ZnSnS4 and Cu2ZnSnSe4 (APL Materials, 2015)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4917044&quot;&gt;Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu&lt;sub&gt;2&lt;/sub&gt;ZnSnS&lt;sub&gt;4&lt;/sub&gt; and Cu&lt;sub&gt;2&lt;/sub&gt;ZnSnSe&lt;sub&gt;4&lt;/sub&gt; (APL Materials, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -80,8 +80,9 @@ functionality.&lt;/p&gt;
 
 &lt;h2 id=&quot;electroactive-hybrid-solids&quot;&gt;Electroactive hybrid solids&lt;/h2&gt;
 &lt;p&gt;We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
+These principles include ion exchange, ligand modification, and defect engineering.
 Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
-physical processes in complex nanoporous solids. &lt;/p&gt;
+physical processes in complex nanoporous solids.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -124,7 +125,7 @@ physical processes in complex nanoporous solids. &lt;/p&gt;
         <title>Metastable States</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/helix.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli.&lt;/p&gt;
+&lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. We have a close connection with time-resolved crystallography through the EPSRC &lt;a href=&quot;http://www.metastable-materials.org.uk&quot;&gt;Applying Long-lived Metastable States with Switchable Functionality&lt;/a&gt; programme.&lt;/p&gt;
 
 &lt;h2 id=&quot;optical&quot;&gt;Optical&lt;/h2&gt;
 &lt;p&gt;including single-crystal phase transitions due to linkage isomerism.&lt;/p&gt;
@@ -133,7 +134,7 @@ physical processes in complex nanoporous solids. &lt;/p&gt;
 &lt;p&gt;involving displacive instabilities, including highly anharmonic systems where there exists large differences between local and average structures.&lt;/p&gt;
 
 &lt;h2 id=&quot;electric&quot;&gt;Electric&lt;/h2&gt;
-&lt;p&gt;including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field. &lt;/p&gt;
+&lt;p&gt;including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field.&lt;/p&gt;
 
 &lt;h2 id=&quot;kinetic&quot;&gt;Kinetic&lt;/h2&gt;
 &lt;p&gt;covering crystal engineering into new polymorphs, as well as the fabrication of 
@@ -180,17 +181,19 @@ artificial heterostructures and material composites.&lt;/p&gt;
         <title>Method Development</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/sns2.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To support our three application areas, we also develop techniques and software tools in computational chemistry and physics. &lt;/p&gt;
+&lt;p&gt;To support our three application areas, we also develop techniques and software tools in computational chemistry and physics.&lt;/p&gt;
 
 &lt;h2 id=&quot;lattice-dynamics&quot;&gt;Lattice dynamics&lt;/h2&gt;
-&lt;p&gt;working closely with &lt;a href=&quot;http://atztogo.github.io/&quot;&gt;Atsushi Togo&lt;/a&gt; (Kyoto University) on the development and testing of &lt;a href=&quot;http://phonopy.sourceforge.net/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is vibrational spectroscopy and anharmonic phonon-phonon interactions (lifetime effects).&lt;/p&gt;
+&lt;p&gt;working closely with &lt;a href=&quot;http://atztogo.github.io/&quot;&gt;Atsushi Togo&lt;/a&gt; (Kyoto University) on the development and testing of &lt;a href=&quot;http://phonopy.sourceforge.net/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is theoretical vibrational spectroscopy (IR and Raman) and anharmonic phonon-phonon interactions (lifetime effects).&lt;/p&gt;
 
 &lt;h2 id=&quot;thermodynamics&quot;&gt;Thermodynamics&lt;/h2&gt;
 &lt;p&gt;in addition to electronic properties, first-principles techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields 
-as a function of temperature and pressure. &lt;/p&gt;
+as a function of temperature and pressure. 
+These can be used to identify processing windows for entirely new phases and properties.&lt;/p&gt;
 
 &lt;h2 id=&quot;imperfect-crystals&quot;&gt;Imperfect crystals&lt;/h2&gt;
-&lt;p&gt;all crystals are defective owing to configurational entropy. Materials modelling can probe both the probability of defect formation as well as their structural, vibrational and optical properties.&lt;/p&gt;
+&lt;p&gt;all crystals are defective owing to configurational entropy. Materials modelling can probe both the probability of defect formation as well as their structural, vibrational and optical properties.
+This includes the effect of structural defects on electron-hole recombination in photovoltaic devices.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -198,10 +201,10 @@ as a function of temperature and pressure. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4934716&quot;&gt;Crystal structure optimisation using an auxiliary equation of state (Journal of Chemical Physics 2015)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4934716&quot;&gt;Crystal structure optimisation using an auxiliary equation of state (Journal of Chemical Physics, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4928058&quot;&gt;Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors (Journal of Chemical Physics 2015)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4928058&quot;&gt;Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors (Journal of Chemical Physics, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc03088a&quot;&gt;A universal chemical potential for sulfur vapours (Chemical Science, 2015)&lt;/a&gt;&lt;/p&gt;
