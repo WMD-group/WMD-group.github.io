@@ -8,6 +8,7 @@ permalink: /news/
 * 08.02.16 - Keith's paper on perovskite interfaces has made it to the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
 
 ![](/assets/jmcc-2016.jpg) 
+
 * 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A Europen Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
 * 21.01.16 - Jarvist's work on [polar domains in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](http://dx.doi.org/10.1063/1.4890246) has been named as the most accessed APL Materials article in 2015.
 * 14.01.16 - A collaboration with [UCL](http://davidscanlon.com) has explored the potential photovoltaic materials BiSI and BiSeI in [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta09612j).
