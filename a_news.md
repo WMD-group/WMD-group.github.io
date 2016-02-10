@@ -7,7 +7,7 @@ permalink: /news/
 * 10.02.16 - We have contributed to a special issue of [Accounts of Chemical Research](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431) on the dynamics inside perovskite solar cells. 
 * 08.02.16 - Keith's paper on perovskite interfaces has made it to the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
 
-![](/assets/jmcc-2016.jpg) 
+![](/assets/jmcc-2016.jpg){: .center-image }
 
 * 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A Europen Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
 * 21.01.16 - Jarvist's work on [polar domains in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](http://dx.doi.org/10.1063/1.4890246) has been named as the most accessed APL Materials article in 2015.
