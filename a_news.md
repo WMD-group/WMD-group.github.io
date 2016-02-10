@@ -5,7 +5,7 @@ permalink: /news/
 ---
 ### February 2016
 * 10.02.16 - We have contributed to a special issue of [Accounts of Chemical Research](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431) on the dynamics inside perovskite solar cells. 
-* 08.02.16 - Keith's paper on perovskite interfaces has made it onto the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
+* 08.02.16 - Keith's paper on screening photovoltaic contacts has made it onto the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
  
 ### January 2016
 * 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A Europen Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
