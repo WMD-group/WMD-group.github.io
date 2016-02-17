@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 ### February 2016
+* 17.02.16 - The group has been sucessful in two [PRACE](http://www.prace-ri.eu) projects that provide access to the largest European supercomputers: one on photoferroics and one on metastable switches. Happy computing!
 * 10.02.16 - We have contributed to a special issue of [Accounts of Chemical Research](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431) on the dynamics inside perovskite solar cells. 
 * 08.02.16 - Keith's paper on screening photovoltaic contacts has made it onto the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
  
