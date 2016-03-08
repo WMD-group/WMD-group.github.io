@@ -3,6 +3,10 @@ layout: page
 title: News
 permalink: /news/
 ---
+
+### March 2016
+* 08.03.16 - Federico and Clovis explain the unusual behaviour of mixed halide perovskites in [Journal of Physical Chemistry Letters](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00226) this week.
+
 ### February 2016
 * 19.02.16 - Aron has been appointed as a Fellow of the [Royal Society of Chemistry](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Chemistry).
 * 17.02.16 - The group has been sucessful in two [PRACE](http://www.prace-ri.eu) projects that provide access to the largest European supercomputers: one on photoferroics and one on metastable switches. Happy computing!
