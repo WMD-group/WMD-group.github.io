@@ -5,7 +5,8 @@ permalink: /news/
 ---
 
 ### March 2016
-* 15.05.16 - V-VI-VII semiconductors are heating up this week. Sb compounds in [Applied Physics Letters](http://scitation.aip.org/content/aip/journal/apl/108/11/10.1063/1.4943973) and Bi compounds in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00349) and [Chemical Science](http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc00389c#!divAbstract)!
+* 30.03.16 - While Aron, Jonathan and Dan are in Korea, our introduction to materials design has been published in [Chemical Society Reviews](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CS/C5CS00841G), while a perspective on kesterite solar cells appears in [Advanced Energy Materials](http://onlinelibrary.wiley.com/wol1/doi/10.1002/aenm.201502276/abstract).
+* 15.03.16 - V-VI-VII semiconductors are heating up this week. Sb compounds in [Applied Physics Letters](http://scitation.aip.org/content/aip/journal/apl/108/11/10.1063/1.4943973) and Bi compounds in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00349) and [Chemical Science](http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc00389c#!divAbstract)!
 * 08.03.16 - Federico and Clovis explain the unusual behaviour of mixed halide perovskites in [Journal of Physical Chemistry Letters](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00226) this week.
 
 ### February 2016
