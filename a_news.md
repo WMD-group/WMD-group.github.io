@@ -5,6 +5,7 @@ permalink: /news/
 ---
 
 ### April 2016
+* 17.04.16 - Jess has been working hard on defects in MOFs and her study of UiO-66 has just appeared in [Journal of Physical Chemistry C](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01659), which is our first collaboration with [Curtin University](http://oasisapps.curtin.edu.au/staff/profile/view/J.Gale). 
 * 02.04.16 - Aron, Dan and Jonathan have been delivering a course on *Advanced Materials for Solar Energy* at Yonsei University to 22 enthusiastic postgraduate students. 
 
 ![](/assets/yonsei_2016.jpg){: .center-image }

@@ -8,7 +8,7 @@ For more information on our work, or if you are interested in joining the group 
 Our main research lab is located in Room 1.14, Building 1 South, [University of Bath](http://www.bath.ac.uk/travel-advice/). 
 Also visit us on [GitHub](https://github.com/WMD-group), [Mendeley](https://www.mendeley.com/profiles/aron-walsh/) and [Speaker Deck](https://speakerdeck.com/aronwalsh).
 
-In addition to hosting visiting scientists in the fields of computational chemistry and physics, we are always keen to support emerging early-career researchers, and there are a number of excellent funding options available (however, they need to be applied for 6 - 12 months in advance).
+In addition to hosting visiting scientists in the fields of computational chemistry and physics, we are always keen to support emerging early-career researchers, and there are a number of excellent funding options available (most require applications 6 - 12 months in advance).
 
 * [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/)
 * [Newton fellowship](http://www.newtonfellowships.org/)

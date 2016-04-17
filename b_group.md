@@ -10,8 +10,8 @@ He also holds a dual faculty position in [Materials Science and Engineering](htt
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) and University College London (UK).
 
 Our interests in materials modelling cover the condensed matter physics 
-and solid state chemistry of advanced materials, including the bulk and 
-defect properties of metal oxides, chalcogenides, halides, and metal-organic frameworks. 
+and solid state chemistry of advanced materials, including 
+metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 Key application areas involve energy conversion, storage and transport.
 
 ![](/assets/pdra_2016.jpg){: .center-image }
@@ -21,20 +21,20 @@ Key application areas involve energy conversion, storage and transport.
 
 ### Postdocs
 - [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
-- [Dr. Daniel Fritsch]()
+- [Dr. Daniel Fritsch](http://www.bath.ac.uk/person/1205975)
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
+- [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
 ### PhD Students
 - [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
-- [Daniel Davies]()
-- [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
-- [Youngkwang Jung (정영광)]()
+- [Daniel Davies](http://www.bath.ac.uk/person/1205975)
+- [Youngkwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
-- [Lucy Whalley]()
+- [Lucy Whalley](http://www.cdt-pv.org/user/profile/researcher/19/)
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
 ### Former Members
