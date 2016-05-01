@@ -4,14 +4,18 @@ title: News
 permalink: /news/
 ---
 
+### May 2016
+* 01.04.16 - Clovis' study of four-component oxide perovskite alloys is in [Physical Review B](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.144205).
+
 ### April 2016
-* 17.04.16 - Jess has been working hard on defects in MOFs and her study of UiO-66 has just appeared in [Journal of Physical Chemistry C](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01659), which is our first collaboration with [Curtin University](http://oasisapps.curtin.edu.au/staff/profile/view/J.Gale). 
-* 02.04.16 - Aron, Dan and Jonathan have been delivering a course on *Advanced Materials for Solar Energy* at Yonsei University to 22 enthusiastic postgraduate students. 
+* 28.04.16 - Why are d0 metal-organic frameworks photoactive? Find out in [Scientific Reports](http://www.nature.com/articles/srep23676), in collaboration with [Delft University](http://cheme.nl/ce/people/jorge-gascon/).
+* 17.04.16 - Jess has been working hard on defects in MOFs and her study of UiO-66 is in [Journal of Physical Chemistry C](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01659), our first collaboration with [Curtin University](http://oasisapps.curtin.edu.au/staff/profile/view/J.Gale). 
+* 02.04.16 - Aron, Dan and Jonathan delivered a course on *Advanced Materials for Solar Energy* at Yonsei University to 22 enthusiastic postgraduate students. 
 
 ![](/assets/yonsei_2016.jpg){: .center-image }
 
 ### March 2016
-* 30.03.16 - While Aron, Jonathan and Dan are in Korea, our introduction to materials design has been published in [Chemical Society Reviews](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CS/C5CS00841G), while a perspective on kesterite solar cells appears in [Advanced Energy Materials](http://onlinelibrary.wiley.com/wol1/doi/10.1002/aenm.201502276/abstract).
+* 30.03.16 - While Aron, Jonathan and Dan are in Korea, our introduction to materials design has been published in [Chemical Society Reviews](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CS/C5CS00841G), while a perspective on kesterite solar cells appeared in [Advanced Energy Materials](http://onlinelibrary.wiley.com/wol1/doi/10.1002/aenm.201502276/abstract).
 * 15.03.16 - V-VI-VII semiconductors are heating up this week. Sb compounds in [Applied Physics Letters](http://scitation.aip.org/content/aip/journal/apl/108/11/10.1063/1.4943973) and Bi compounds in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00349) and [Chemical Science](http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc00389c#!divAbstract)!
 * 08.03.16 - Federico and Clovis explain the unusual behaviour of mixed halide perovskites in [Journal of Physical Chemistry Letters](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00226) this week.
 

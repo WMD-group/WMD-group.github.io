@@ -7,7 +7,7 @@ permalink: /group/
 The research group of Professor Aron Walsh FRSC, Royal Society University Research Fellow and Chair of Materials Theory in [Chemistry](http://www.bath.ac.uk/chemistry/) at the University of Bath. 
 He also holds a dual faculty position in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
 
-Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) and University College London (UK).
+Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) followed by University College London (UK).
 
 Our interests in materials modelling cover the condensed matter physics 
 and solid state chemistry of advanced materials, including 
@@ -23,7 +23,6 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
 - [Dr. Daniel Fritsch](http://www.bath.ac.uk/person/1205975)
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
-- [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
@@ -41,6 +40,7 @@ Key application areas involve energy conversion, storage and transport.
 - [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Dr. Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Dr. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=0cqrNGkAAAAJ&hl=en)
+- [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
 ### Former Visitors
