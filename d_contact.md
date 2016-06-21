@@ -12,6 +12,7 @@ From October 2016 we will be moving to the [Department of Materials, Imperial Co
 
 In addition to hosting visiting scientists in the fields of computational chemistry and physics, we are always keen to support emerging early-career researchers, and there are a number of excellent funding options available (most require applications 6 - 12 months in advance).
 
+* [Imperial PhD Scholarship](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
 * [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
 * [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/)
 * [Newton fellowship](http://www.newtonfellowships.org/)
