@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+### June 2016
+* 21.06.16 - We have been delighted to collaborate with [Ken Sakai](http://www.scc.kyushu-u.ac.jp/Sakutai/index.eng.html) on Pt chain compounds, which appeared today in [Nature Communications](http://www.nature.com/ncomms/2016/160620/ncomms11950/abs/ncomms11950.html).
+
 ### May 2016
 * 01.04.16 - Clovis' study of four-component oxide perovskite alloys is in [Physical Review B](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.144205).
 
@@ -21,7 +24,7 @@ permalink: /news/
 
 ### February 2016
 * 19.02.16 - Aron has been appointed as a Fellow of the [Royal Society of Chemistry](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Chemistry).
-* 17.02.16 - The group has been sucessful in two [PRACE](http://www.prace-ri.eu) projects that provide access to the largest European supercomputers: one on photoferroics and one on metastable switches. Happy computing!
+* 17.02.16 - The group has been successful in two [PRACE](http://www.prace-ri.eu) projects that provide access to the largest European supercomputers: one on photoferroics and one on metastable switches. Happy computing!
 * 10.02.16 - We have contributed to a special issue of [Accounts of Chemical Research](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431) on the dynamics inside perovskite solar cells. 
 * 08.02.16 - Keith's paper on screening photovoltaic contacts has made it onto the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
  
@@ -31,7 +34,7 @@ permalink: /news/
 * 14.01.16 - A collaboration with [UCL](http://davidscanlon.com) has explored the potential photovoltaic materials BiSI and BiSeI in [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta09612j).
 * 08.01.16 - Keith spent last summer at [Tokyo Institute of Technology](http://www.msl.titech.ac.jp/~oba), which has resulted in a new method and paper on screening solar cell interfaces in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04091D#!divAbstract).
 * 06.01.16 - Lee finalised a study into the layered dichalcogenide SnS<sub>2</sub> with [Liverpool](https://www.liverpool.ac.uk/physics/staff/timothy-veal/) and [Bristol](http://www.bris.ac.uk/chemistry/people/david-j-fermin/) in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C5TA08214E#!divAbstract).
-* 05.01.16 - Jess shows how the pore geometry of metal-organic frameworks can be controlled by composotion with the [Burrows group](http://people.bath.ac.uk/chsadb/Welcome.html) in a special issue of [Dalton Transactions](http://pubs.rsc.org/en/content/articlelanding/2016/dt/c5dt04045k).
+* 05.01.16 - Jess shows how the pore geometry of metal-organic frameworks can be controlled by composition with the [Burrows group](http://people.bath.ac.uk/chsadb/Welcome.html) in a special issue of [Dalton Transactions](http://pubs.rsc.org/en/content/articlelanding/2016/dt/c5dt04045k).
 * 04.01.16 - A new study of Raman scattering in ZnS/ZnSe alloys in collaboration with [IREC](http://www.irec.cat/contact/dr.-edgardo-saucedo.html) is published in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp04498g#!divAbstract).
 * 03.01.16 - A collaboration with the [Cheetham group](http://www.fihm.msm.cam.ac.uk/directory/akc30@cam.ac.uk) on the chemical bonding of ferroelectric formate perovskite frameworks appears in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04143). 
 * 02.01.16 - Adam reports a new chemical potential to describe sulfur vapours in [Chemical Science](http://pubs.rsc.org/en/Content/ArticleLanding/2016/SC/C5SC03088A).
