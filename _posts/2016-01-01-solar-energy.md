@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Materials for Solar Energy"
+title:  "New materials for solar energy"
 date:   2016-01-04
 categories: research themes
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metastable States"
+title:  "Metastable states"
 date:   2016-01-02 
 categories: research themes
 ---

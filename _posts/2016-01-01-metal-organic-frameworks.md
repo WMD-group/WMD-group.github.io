@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metal-Organic Frameworks"
+title:  "Electroactive metal-organic frameworks"
 date:   2016-01-03
 categories: research themes
 ---
