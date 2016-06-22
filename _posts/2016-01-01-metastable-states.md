@@ -8,7 +8,9 @@ categories: research themes
 ![](/gifs/helix.gif){: .center-image }
 
 
-We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. We have a close connection with time-resolved crystallography through the EPSRC [Applying Long-lived Metastable States with Switchable Functionality](http://www.metastable-materials.org.uk) programme. 
+We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. 
+Applications include solid-state sensors and switches.
+We have a close connection with time-resolved crystallography through the EPSRC [Applying Long-lived Metastable States with Switchable Functionality](http://www.metastable-materials.org.uk) programme. 
 
 ## Optical
 including single-crystal phase transitions due to linkage isomerism.
