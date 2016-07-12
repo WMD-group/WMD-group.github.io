@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 ### July 2016
-* 12.07.16 - What happens to thermal conductivity as more elements are introduced by the average mass is conserved? We now know the answer thanks to Taizo and Jonathan's study in [APL Materials](http://scitation.aip.org/content/aip/journal/aplmater/4/10/10.1063/1.4955401).
+* 12.07.16 - What happens to thermal conductivity as more elements are introduced but the average mass is conserved? We now know the answer thanks to Taizo and Jonathan's study in [APL Materials](http://scitation.aip.org/content/aip/journal/aplmater/4/10/10.1063/1.4955401).
 
 ### June 2016
 * 21.06.16 - We have been delighted to collaborate with [Ken Sakai](http://www.scc.kyushu-u.ac.jp/Sakutai/index.eng.html) on Pt chain compounds, which appeared today in [Nature Communications](http://www.nature.com/ncomms/2016/160620/ncomms11950/abs/ncomms11950.html).
