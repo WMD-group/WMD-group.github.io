@@ -5,7 +5,7 @@ permalink: /group/
 ---
 
 The research group of Professor Aron Walsh FRSC, Royal Society University Research Fellow and Chair of Materials Theory in [Chemistry](http://www.bath.ac.uk/chemistry/) at the University of Bath. 
-He also holds a dual faculty position in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
+He also Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) followed by University College London (UK).
 
