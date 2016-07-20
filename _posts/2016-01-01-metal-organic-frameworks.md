@@ -9,14 +9,14 @@ categories: research themes
 
 
 Metal-organic frameworks are crystalline materials formed of organic and inorganic building blocks. 
-The chemical space for synthesising these systems is large with the potential for engineering novel
+The chemical space for synthesising these systems is large. There is immense potential for engineering novel
 functionality.
 
 ## Electroactive hybrid solids 
 We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
 These principles include ion exchange, ligand modification, and defect engineering.
-Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
-physical processes in complex nanoporous solids. 
+Our research combines electronic structure theory and universal forcefields to build multi-scale models with the ability to accurately describe 
+physical processes in nanoporous solids. 
 
 <br>
 
@@ -34,4 +34,4 @@ physical processes in complex nanoporous solids.
 
 <br>
 
-#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/), the [European Research Council](https://erc.europa.eu/) and [H2020](https://ec.europa.eu/programmes/horizon2020/)

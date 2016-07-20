@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New materials for solar energy"
+title:  "Next-generation solar energy"
 date:   2016-01-04
 categories: research themes
 ---
@@ -43,4 +43,4 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 <br>
 
-#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/) and the [European Research Council](https://erc.europa.eu/)
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/), the [European Research Council](https://erc.europa.eu/) and [H2020](https://ec.europa.eu/programmes/horizon2020/)

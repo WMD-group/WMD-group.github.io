@@ -5,12 +5,12 @@
     <description>Computational Materials Science</description>
     <link>http://wmd-group.github.io/</link>
     <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Feb 2016 13:27:42 +0000</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 13:27:42 +0000</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Sun, 17 Jul 2016 18:27:40 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2016 18:27:40 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Materials for Solar Energy</title>
+        <title>Next-generation solar energy</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/mapi_18.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The direct conversion of sunlight to electricity in solar cells is one sustainable solution to future global energy demand.&lt;/p&gt;
@@ -31,7 +31,7 @@ photoferroics such as SbSI.&lt;/p&gt;
 
 &lt;h2 id=&quot;hybrid-organic-inorganic-perovskites&quot;&gt;Hybrid organic-inorganic perovskites&lt;/h2&gt;
 &lt;p&gt;including CH&lt;sub&gt;3&lt;/sub&gt;NH&lt;sub&gt;3&lt;/sub&gt;PbI&lt;sub&gt;3&lt;/sub&gt; and [HC(NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;]PbI&lt;sub&gt;3&lt;/sub&gt;
-(&lt;a href=&quot;https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/&quot;&gt;see our Mendeley group&lt;/a&gt;).&lt;/p&gt;
+(see our &lt;a href=&quot;/assets/wmd_perovskites.pdf&quot;&gt;perovskite publications&lt;/a&gt; and &lt;a href=&quot;https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/&quot;&gt;Mendeley group&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -57,7 +57,7 @@ photoferroics such as SbSI.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-the-european-research-councilhttpserceuropaeu-and-h2020httpseceuropaeuprogrammeshorizon2020&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt;, the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt; and &lt;a href=&quot;https://ec.europa.eu/programmes/horizon2020/&quot;&gt;H2020&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/04/solar-energy/</link>
@@ -71,18 +71,18 @@ photoferroics such as SbSI.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Metal-Organic Frameworks</title>
+        <title>Electroactive metal-organic frameworks</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/mof.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Metal-organic frameworks are crystalline materials formed of organic and inorganic building blocks. 
-The chemical space for synthesising these systems is large with the potential for engineering novel
+The chemical space for synthesising these systems is large. There is immense potential for engineering novel
 functionality.&lt;/p&gt;
 
 &lt;h2 id=&quot;electroactive-hybrid-solids&quot;&gt;Electroactive hybrid solids&lt;/h2&gt;
 &lt;p&gt;We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
 These principles include ion exchange, ligand modification, and defect engineering.
-Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe 
-physical processes in complex nanoporous solids.&lt;/p&gt;
+Our research combines electronic structure theory and universal forcefields to build multi-scale models with the ability to accurately describe 
+physical processes in nanoporous solids.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -108,7 +108,7 @@ physical processes in complex nanoporous solids.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-the-european-research-councilhttpserceuropaeu-and-h2020httpseceuropaeuprogrammeshorizon2020&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt;, the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt; and &lt;a href=&quot;https://ec.europa.eu/programmes/horizon2020/&quot;&gt;H2020&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/03/metal-organic-frameworks/</link>
@@ -122,10 +122,12 @@ physical processes in complex nanoporous solids.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Metastable States</title>
+        <title>Metastable materials</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/helix.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. We have a close connection with time-resolved crystallography through the EPSRC &lt;a href=&quot;http://www.metastable-materials.org.uk&quot;&gt;Applying Long-lived Metastable States with Switchable Functionality&lt;/a&gt; programme.&lt;/p&gt;
+&lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. 
+Applications include solid-state sensors and switches.
+We have a close connection with time-resolved crystallography through the EPSRC &lt;a href=&quot;http://www.metastable-materials.org.uk&quot;&gt;Applying Long-lived Metastable States with Switchable Functionality&lt;/a&gt; programme.&lt;/p&gt;
 
 &lt;h2 id=&quot;optical&quot;&gt;Optical&lt;/h2&gt;
 &lt;p&gt;including single-crystal phase transitions due to linkage isomerism.&lt;/p&gt;
@@ -164,7 +166,7 @@ artificial heterostructures and material composites.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-the-european-research-councilhttpserceuropaeu-and-h2020httpseceuropaeuprogrammeshorizon2020&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt;, the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt; and &lt;a href=&quot;https://ec.europa.eu/programmes/horizon2020/&quot;&gt;H2020&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/02/metastable-states/</link>
@@ -178,22 +180,25 @@ artificial heterostructures and material composites.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Method Development</title>
+        <title>Multi-scale techniques</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/sns2.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To support our three application areas, we also develop techniques and software tools in computational chemistry and physics.&lt;/p&gt;
+&lt;p&gt;To support our application areas, we also develop techniques and software tools in computational chemistry and physics.&lt;/p&gt;
 
 &lt;h2 id=&quot;lattice-dynamics&quot;&gt;Lattice dynamics&lt;/h2&gt;
-&lt;p&gt;working closely with &lt;a href=&quot;http://atztogo.github.io/&quot;&gt;Atsushi Togo&lt;/a&gt; (Kyoto University) on the development and testing of &lt;a href=&quot;http://atztogo.github.io/phonopy/&quot;&gt;Phonopy&lt;/a&gt;. Our current focus is theoretical vibrational spectroscopy (IR and Raman), anharmonic phonon-phonon interactions (lifetime effects), and thermal conductivity.&lt;/p&gt;
+&lt;p&gt;working closely with &lt;a href=&quot;http://atztogo.github.io/&quot;&gt;Atsushi Togo&lt;/a&gt; (Kyoto University) on the development and testing of &lt;a href=&quot;http://atztogo.github.io/phonopy/&quot;&gt;Phonopy&lt;/a&gt; and &lt;a href=&quot;http://atztogo.github.io/phono3py/&quot;&gt;Phono3py&lt;/a&gt;. Our current focus is theoretical vibrational spectroscopy (IR and Raman), anharmonic phonon-phonon interactions (lifetime effects), and thermal conductivity.&lt;/p&gt;
+
+&lt;h2 id=&quot;high-throughput-screening&quot;&gt;High-throughput screening&lt;/h2&gt;
+&lt;p&gt;we have been developing a low-cost screening package based on exploring new materials using simple chemical descriptors. Our implementation is in the open-source Python package &lt;a href=&quot;https://github.com/WMD-group/SMACT&quot;&gt;SMACT&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;thermodynamics&quot;&gt;Thermodynamics&lt;/h2&gt;
-&lt;p&gt;in addition to electronic properties, first-principles techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields 
+&lt;p&gt;in addition to electronic properties, first-principles simulation techniques also provide accurate total energies, which can be used to construct phase diagrams and reaction fields 
 as a function of temperature and pressure. 
 These can be used to identify processing windows for entirely new phases and properties.&lt;/p&gt;
 
 &lt;h2 id=&quot;imperfect-crystals&quot;&gt;Imperfect crystals&lt;/h2&gt;
 &lt;p&gt;all crystals are defective owing to configurational entropy. Materials modelling can probe both the probability of defect formation as well as their structural, vibrational and optical properties.
-This includes the effect of structural defects on electron-hole recombination in photovoltaic devices.&lt;/p&gt;
+This includes the effect of disorder and defects on electron-hole recombination in photovoltaic devices.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -219,7 +224,7 @@ This includes the effect of structural defects on electron-hole recombination in
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-and-the-european-research-councilhttpserceuropaeu&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt; and the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;funded-by-epsrchttpgowepsrcacukngboviewpersonaspxpersonid-250227-the-royal-societyhttpsroyalsocietyorggrants-schemes-awardsgrantsuniversity-research-the-european-research-councilhttpserceuropaeu-and-h2020httpseceuropaeuprogrammeshorizon2020&quot;&gt;Funded by &lt;a href=&quot;http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227&quot;&gt;EPSRC&lt;/a&gt;, the &lt;a href=&quot;https://royalsociety.org/grants-schemes-awards/grants/university-research/&quot;&gt;Royal Society&lt;/a&gt;, the &lt;a href=&quot;https://erc.europa.eu/&quot;&gt;European Research Council&lt;/a&gt; and &lt;a href=&quot;https://ec.europa.eu/programmes/horizon2020/&quot;&gt;H2020&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://wmd-group.github.io/research/themes/2016/01/01/methods/</link>

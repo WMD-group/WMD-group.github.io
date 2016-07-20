@@ -4,15 +4,14 @@ title: Researchers
 permalink: /group/
 ---
 
-The research group of Professor Aron Walsh FRSC, Royal Society University Research Fellow and Chair of Materials Theory in [Chemistry](http://www.bath.ac.uk/chemistry/) at the University of Bath. 
+Professor Aron Walsh FRSC is a Royal Society University Research Fellow and Chair of Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
 He also Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
 
-Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA) followed by University College London (UK).
+Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
 Our interests in materials modelling cover the condensed matter physics 
 and solid state chemistry of advanced materials, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
-Key application areas involve energy conversion, storage and transport.
 
 ![](/assets/pdra_2016.jpg){: .center-image }
 
@@ -28,8 +27,7 @@ Key application areas involve energy conversion, storage and transport.
 
 ### PhD Students
 - [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
-- [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
-- [Daniel Davies](http://www.bath.ac.uk/person/1205975)
+- [Daniel Davies](http://www.bath.ac.uk/person/961144)
 - [Youngkwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
@@ -37,6 +35,7 @@ Key application areas involve energy conversion, storage and transport.
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
 ### Former Members
+- [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
 - [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Dr. Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Dr. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=0cqrNGkAAAAJ&hl=en)
