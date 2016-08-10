@@ -9,9 +9,9 @@ Also see
 [Google Scholar](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en) or
 [Mendeley](https://www.mendeley.com/profiles/aron-walsh/).
 
-![](/assets/acr-2016.jpg) 
+![](/assets/acr-2016.jpg) ![](/assets/jmcc-2016.jpg) 
 
-![](/assets/jmcc-2016.jpg) ![](/assets/jpcc-2015.jpg) ![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) 
+![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) ![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) 
 
 ![](/assets/jcp-2015.jpg) ![](/assets/prs-2010.jpg) ![](/assets/aplmat-2014.jpg) ![](/assets/pccp-2012.jpg) 
 
