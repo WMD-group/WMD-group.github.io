@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+### August 2016
+* 14.08.16 - It has been a busy summer! Congrats to Federico on passing his PhD examination. Jessica is ready to submit her thesis. New computers were just ordered for our labs at Imperial College London. On top of all that, our work on phonon anharmonicity in SnSe was just published in [Physical Review Letters](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502).
+
 ### July 2016
 * 12.07.16 - What happens to thermal conductivity as more elements are introduced but the average mass is conserved? We now know the answer thanks to Taizo and Jonathan's study in [APL Materials](http://scitation.aip.org/content/aip/journal/aplmater/4/10/10.1063/1.4955401).
 
