@@ -10,7 +10,7 @@ Also visit us on [GitHub](https://github.com/WMD-group), [Mendeley](https://www.
 
 Keith, Katrine, Dan, Lora, and Jonathan are located in the [Department of Chemistry, University of Bath](http://www.bath.ac.uk/chemistry/). Visit them in Building 1 South, Room 1.14.
 
-In addition to hosting visiting scientists in the fields of computational chemistry and physics, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance).
+In addition to hosting visiting scientists, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance).
 
 * [Imperial PhD Scholarship](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
 * [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)

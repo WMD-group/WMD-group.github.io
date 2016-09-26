@@ -11,7 +11,7 @@ The direct conversion of sunlight to electricity in solar cells is one sustainab
 
 New materials are required that satisfy the chemical and physical requirements to support a terrawatt photovoltaic industry. For example, building-integrated solar cells require materials that can be processed over large areas without sacrificing cost, performance, or the environment.
 
-As members of the UK [Energy Materials](http://www.energy-materials.org.uk), [PVTEAM](http://pvteam.org.uk) and [SUPERSOLAR](https://connect.innovateuk.org/web/supersolar-hub) consortia, we are involved in the development of a range of novel materials for thin-film solar cells:
+As members of the UK [Energy Materials](http://www.energy-materials.org.uk) and [SUPERSOLAR](https://connect.innovateuk.org/web/supersolar-hub) consortia, we are involved in the development of a range of novel materials for thin-film solar cells:
 
 ## Metal oxide solar cells 
 including Cu<sub>2</sub>O and BiFeO<sub>3</sub>.
@@ -21,25 +21,23 @@ including SnS, FeS<sub>2</sub>, CuSbS<sub>2</sub>, CuBiS<sub>2</sub> and Sb<sub>
 
 ## Multi-component semiconductors
 including Cu<sub>2</sub>ZnSnS<sub>4</sub>, Ag<sub>2</sub>ZnSnS<sub>4</sub>, and 
-photoferroics such as SbSI.
+photoferroics such as SbSI and BiSeBr.
 
 ## Hybrid organic-inorganic perovskites 
 including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>
-(see our [perovskite publications](/assets/wmd_perovskites.pdf) and [Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
+(see our [perovskite publications](/assets/wmd_perovskites.txt) and [Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
 
 <br>
 
 ### Select Publications
 
-- [Principles of chemical bonding and band gap engineering in hybrid organic−inorganic halide perovskites (Journal of Physical Chemistry C, 2015)](http://dx.doi.org/10.1021/jp512420b)
+- [What Is Moving in Hybrid Halide Perovskite Solar Cells? (Accounts of Chemical Research, 2016)](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431)
 
-- [The dynamics of methylammonium ions in hybrid organic–inorganic perovskite solar cells (Nature Communications, 2015)](http://dx.doi.org/10.1038/ncomms8124)
+- [Relativistic Origin of Slow Electron-hole Recombination in Hybrid Halide Perovskite Solar Cells (APL Materials, 2016)](http://scitation.aip.org/content/aip/journal/aplmater/4/9/10.1063/1.4955028)
 
-- [Role of microstructure in the electron–hole interaction of hybrid lead halide perovskites (Nature Photonics, 2015)](http://dx.doi.org/10.1038/nphoton.2015.151)
+- [Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in Kesterite Solar Cells? (Advanced Energy Materials, 2016)](http://dx.doi.org/10.1002/aenm.201502276)
 
-- [Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal, and cubic phases of methylammonium lead iodide (Physical Review B, 2015)](http://dx.doi.org/10.1103/PhysRevB.92.144308)
-
-- [Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu<sub>2</sub>ZnSnS<sub>4</sub> and Cu<sub>2</sub>ZnSnSe<sub>4</sub> (APL Materials, 2015)](http://dx.doi.org/10.1063/1.4917044)
+- [Direct Observation of Dynamic Symmetry Breaking above Room Temperature in Methylammonium Lead Iodide Perovskites (ACS Energy Letters, 2016)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00381)
 
 <br>
 

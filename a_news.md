@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+### September 2016
+* 25.09.16 - The first book dedicated to organic-inorganic halide perovskite solar cells has been published by [Springer](http://link.springer.com/book/10.1007/978-3-319-35114-8). We contributed Chapter 1!
+* 07.09.16 - What effect does spin-orbit coupling actually have on electron-hole recombination in perovskite solar cells? [Pooya wrote a code to find out](http://scitation.aip.org/content/aip/journal/aplmater/4/9/10.1063/1.4955028).
+
 ### August 2016
 * 14.08.16 - It has been a busy summer! Congrats to Federico on passing his PhD examination. Jessica is ready to submit her thesis. New computers were just ordered for our labs at Imperial College London. On top of all that, our work on phonon anharmonicity in SnSe was just published in [Physical Review Letters](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502).
 
@@ -14,7 +18,7 @@ permalink: /news/
 * 21.06.16 - We have been delighted to collaborate with [Ken Sakai](http://www.scc.kyushu-u.ac.jp/Sakutai/index.eng.html) on Pt chain compounds, which appeared today in [Nature Communications](http://www.nature.com/ncomms/2016/160620/ncomms11950/abs/ncomms11950.html).
 
 ### May 2016
-* 01.04.16 - Clovis' study of four-component oxide perovskite alloys is in [Physical Review B](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.144205).
+* 01.04.16 - Clovis' study of four-component oxide perovskite alloys has been published in [Physical Review B](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.144205).
 
 ### April 2016
 * 28.04.16 - Why are d0 metal-organic frameworks photoactive? Find out in [Scientific Reports](http://www.nature.com/articles/srep23676), in collaboration with [Delft University](http://cheme.nl/ce/people/jorge-gascon/).
@@ -39,12 +43,12 @@ permalink: /news/
 * 21.01.16 - Jarvist's work on [polar domains in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](http://dx.doi.org/10.1063/1.4890246) has been named as the most accessed APL Materials article in 2015.
 * 14.01.16 - A collaboration with [UCL](http://davidscanlon.com) has explored the potential photovoltaic materials BiSI and BiSeI in [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta09612j).
 * 08.01.16 - Keith spent last summer at [Tokyo Institute of Technology](http://www.msl.titech.ac.jp/~oba), which has resulted in a new method and paper on screening solar cell interfaces in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04091D#!divAbstract).
-* 06.01.16 - Lee finalised a study into the layered dichalcogenide SnS<sub>2</sub> with [Liverpool](https://www.liverpool.ac.uk/physics/staff/timothy-veal/) and [Bristol](http://www.bris.ac.uk/chemistry/people/david-j-fermin/) in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C5TA08214E#!divAbstract).
-* 05.01.16 - Jess shows how the pore geometry of metal-organic frameworks can be controlled by composition with the [Burrows group](http://people.bath.ac.uk/chsadb/Welcome.html) in a special issue of [Dalton Transactions](http://pubs.rsc.org/en/content/articlelanding/2016/dt/c5dt04045k).
-* 04.01.16 - A new study of Raman scattering in ZnS/ZnSe alloys in collaboration with [IREC](http://www.irec.cat/contact/dr.-edgardo-saucedo.html) is published in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp04498g#!divAbstract).
-* 03.01.16 - A collaboration with the [Cheetham group](http://www.fihm.msm.cam.ac.uk/directory/akc30@cam.ac.uk) on the chemical bonding of ferroelectric formate perovskite frameworks appears in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04143). 
-* 02.01.16 - Adam reports a new chemical potential to describe sulfur vapours in [Chemical Science](http://pubs.rsc.org/en/Content/ArticleLanding/2016/SC/C5SC03088A).
-* 01.01.16 - A collaboration with [KCL](http://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/van-Schilfgaarde-.aspx) and [ICL](http://www.imperial.ac.uk/people/piers.barnes) on the optical properties of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> is published in [Nanoscale](http://pubs.rsc.org/en/content/articlelanding/2016/nr/c5nr05435d).
-* 21.12.15 - The new website goes live. Goodbye [iWeb](https://en.wikipedia.org/wiki/IWeb), hello [Jekyll](http://jekyllrb.com/). 
+* 07.01.16 - Lee finalised a study into the layered dichalcogenide SnS<sub>2</sub> with [Liverpool](https://www.liverpool.ac.uk/physics/staff/timothy-veal/) and [Bristol](http://www.bris.ac.uk/chemistry/people/david-j-fermin/) in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C5TA08214E#!divAbstract).
+* 06.01.16 - Jess shows how the pore geometry of metal-organic frameworks can be controlled by composition with the [Burrows group](http://people.bath.ac.uk/chsadb/Welcome.html) in a special issue of [Dalton Transactions](http://pubs.rsc.org/en/content/articlelanding/2016/dt/c5dt04045k).
+* 05.01.16 - A new study of Raman scattering in ZnS/ZnSe alloys in collaboration with [IREC](http://www.irec.cat/contact/dr.-edgardo-saucedo.html) is published in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp04498g#!divAbstract).
+* 04.01.16 - A collaboration with the [Cheetham group](http://www.fihm.msm.cam.ac.uk/directory/akc30@cam.ac.uk) on the chemical bonding of ferroelectric formate perovskite frameworks appears in [Chemistry of Materials](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04143). 
+* 03.01.16 - Adam reports a new chemical potential to describe sulfur vapours in [Chemical Science](http://pubs.rsc.org/en/Content/ArticleLanding/2016/SC/C5SC03088A).
+* 02.01.16 - A collaboration with [KCL](http://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/van-Schilfgaarde-.aspx) and [ICL](http://www.imperial.ac.uk/people/piers.barnes) on the optical properties of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> is published in [Nanoscale](http://pubs.rsc.org/en/content/articlelanding/2016/nr/c5nr05435d).
+* 01.01.16 - The new website goes live. Goodbye [iWeb](https://en.wikipedia.org/wiki/IWeb), hello [Jekyll](http://jekyllrb.com/). 
 
 ![](/assets/group_2014.jpg){: .center-image }

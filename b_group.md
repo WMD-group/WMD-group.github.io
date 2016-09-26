@@ -4,16 +4,17 @@ title: Researchers
 permalink: /group/
 ---
 
-Professor Aron Walsh FRSC is a Royal Society University Research Fellow and Chair of Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
+Aron Walsh is Professor of Materials Design and Royal Society University Research Fellow and in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
 He also Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
-Our interests in materials modelling cover the condensed matter physics 
+His interests in materials modelling cover the condensed matter physics 
 and solid state chemistry of advanced materials, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
 ![](/assets/pdra_2016.jpg){: .center-image }
+*<center>(Keith, Jarvist, Katrine, Aron, Jonathan - January 2016)</center>*
 
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)

@@ -6,8 +6,9 @@ permalink: /papers/
 
 [Paper server](http://people.bath.ac.uk/aw558/publications/).
 Also see 
-[Google Scholar](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en) or
-[Mendeley](https://www.mendeley.com/profiles/aron-walsh/).
+[Google Scholar](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en),
+[Mendeley](https://www.mendeley.com/profiles/aron-walsh/),
+or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ![](/assets/acr-2016.jpg) ![](/assets/jmcc-2016.jpg) 
 
