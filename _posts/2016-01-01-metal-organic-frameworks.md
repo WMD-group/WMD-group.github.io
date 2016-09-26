@@ -23,7 +23,7 @@ One major development has been a procedure to calculate the ionisation potential
 
 ### Select Publications
 
-- [Organised chaos: entropy in hybrid inorganic–organic systems and other materials (Chemical Science, 2016)](http://pubs.rsc.org/en/content/articlehtml/2015/cc/c5cc06190c)
+- [Organised chaos: entropy in hybrid inorganic–organic systems and other materials (Chemical Science, 2016)](http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc02199a)
 
 - [Electronic origins of photocatalytic activity in d<sup>0</sup> metal organic frameworks (Scientific Reports, 2016)](http://dx.doi.org/10.1038/srep23676)
 
