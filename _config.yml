@@ -1,7 +1,7 @@
 # Site settings
-title: Walsh Materials Design Group
+title: Materials Design Group
 email: a.walsh[at]imperial.ac.uk 
-description: Computational Materials Science 
+description: Computational Chemistry & Physics 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wmd-group.github.io" # the base hostname & protocol for your site
 twitter_username: lonepair
