@@ -4,7 +4,7 @@ title: Researchers
 permalink: /group/
 ---
 
-Aron Walsh is Professor of Materials Design and Royal Society University Research Fellow and in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Professor of Materials Design and Royal Society University Research Fellow in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
 He also Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).

@@ -4,12 +4,16 @@ title: News
 permalink: /news/
 ---
 
+### October 2016
+* 11.10.16 - We are now fully set up at Imperial College London in the historic Royal School of Mines building. It is another busy month for science including a collaboration with Columbia University on order-disorder behaviour of hybrid perovskites published in [ACS Energy Letters](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00381), and a shiny new interatomic potential by Jess for metal-organic frameworks that can describe phonon behaviour in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp05106e#!divAbstract).
+* 01.10.16 - The Royal Society have kindly funded a three-year extension of Aron's [University Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/), which starts today.
+
 ### September 2016
 * 25.09.16 - The first book dedicated to organic-inorganic halide perovskite solar cells has been published by [Springer](http://link.springer.com/book/10.1007/978-3-319-35114-8). We contributed Chapter 1!
 * 07.09.16 - What effect does spin-orbit coupling actually have on electron-hole recombination in perovskite solar cells? [Pooya wrote a code to find out](http://scitation.aip.org/content/aip/journal/aplmater/4/9/10.1063/1.4955028).
 
 ### August 2016
-* 14.08.16 - It has been a busy summer! Congrats to Federico on passing his PhD examination. Jessica is ready to submit her thesis. New computers were just ordered for our labs at Imperial College London. On top of all that, our work on phonon anharmonicity in SnSe was just published in [Physical Review Letters](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502).
+* 14.08.16 - It has been an exciting summer! Congrats to Federico on passing his PhD examination. Jessica is ready to submit her thesis. New computers were ordered for our labs at Imperial College London. On top of all that, our work on phonon anharmonicity in SnSe was just published in [Physical Review Letters](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502).
 
 ### July 2016
 * 12.07.16 - What happens to thermal conductivity as more elements are introduced but the average mass is conserved? We now know the answer thanks to Taizo and Jonathan's study in [APL Materials](http://scitation.aip.org/content/aip/journal/aplmater/4/10/10.1063/1.4955401).
@@ -39,7 +43,7 @@ permalink: /news/
 * 08.02.16 - Keith's paper on screening photovoltaic contacts has made it onto the cover of [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/tc/c6tc90026g#!divAbstract)!
  
 ### January 2016
-* 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A Europen Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
+* 27.01.16 - The issue of characterising mixed-ligand metal-organic frameworks has been solved through collaboration with Collège de France in [Chemistry: A European Journal](http://onlinelibrary.wiley.com/doi/10.1002/chem.201600143/abstract) this week.
 * 21.01.16 - Jarvist's work on [polar domains in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>](http://dx.doi.org/10.1063/1.4890246) has been named as the most accessed APL Materials article in 2015.
 * 14.01.16 - A collaboration with [UCL](http://davidscanlon.com) has explored the potential photovoltaic materials BiSI and BiSeI in [Journal of Materials Chemistry](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta09612j).
 * 08.01.16 - Keith spent last summer at [Tokyo Institute of Technology](http://www.msl.titech.ac.jp/~oba), which has resulted in a new method and paper on screening solar cell interfaces in [Journal of Materials Chemistry](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TC/C5TC04091D#!divAbstract).
