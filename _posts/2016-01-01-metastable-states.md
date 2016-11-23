@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metastable materials"
+title:  "Metastable functional materials"
 date:   2016-01-02 
 categories: research themes
 ---

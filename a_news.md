@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+### November 2016
+* 23.11.16 - [Vladan Stevanovic](http://inside.mines.edu/~vstevano/) visited us from NREL / Colorado School of Mines and shared his wisdom on high-throughput computations. 
+* 20.11.16 - It has been an exciting month for research: we have a perspective on conductive MOFs in [MRS Bulletin](https://www.cambridge.org/core/journals/mrs-bulletin/article/chemical-principles-for-electroactive-metalorganic-frameworks/CB7B332006E4C23E8C3F57ABA59740E3), insights into the role of entropy in perovskites published in [PRB Rapid Communications](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.180103), and the inaugural publication for our code [SMACT](https://github.com/WMD-group/SMACT) in the new journal [Chem](http://www.cell.com/chem/abstract/S2451-9294(16)30155-3).
+
+
 ### October 2016
 * 11.10.16 - We are now fully set up at Imperial College London in the historic Royal School of Mines building. It is another busy month for science including a collaboration with Columbia University on order-disorder behaviour of hybrid perovskites published in [ACS Energy Letters](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00381), and a shiny new interatomic potential by Jess for metal-organic frameworks that can describe phonon behaviour in [PCCP](http://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp05106e#!divAbstract).
 * 01.10.16 - The Royal Society have kindly funded a three-year extension of Aron's [University Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/), which starts today.

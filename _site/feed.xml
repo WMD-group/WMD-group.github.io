@@ -5,8 +5,8 @@
     <description>Computational Chemistry &amp; Physics</description>
     <link>http://wmd-group.github.io/</link>
     <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Oct 2016 12:25:09 +0100</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 12:25:09 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 09:09:38 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 09:09:38 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -117,7 +117,7 @@ Our research combines electronic structure theory and universal forcefields to b
       </item>
     
       <item>
-        <title>Metastable materials</title>
+        <title>Metastable functional materials</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/helix.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. 
@@ -200,16 +200,16 @@ We are involved in the application the multi-scale &lt;a href=&quot;http://www.c
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://xlink.rsc.org/?DOI=C5CS00841G&quot;&gt;Computational materials design of crystalline solids (Chemical Society Reviews, 2016)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cell.com/chem/abstract/S2451-9294(16)30155-3&quot;&gt;Computational screening of all inorganic materials (Chem, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc03088a&quot;&gt;A universal chemical potential for sulfur vapours (Chemical Science, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502&quot;&gt;Anharmonicity in the high-temperature Cmcm phase of SnSe: soft modes and three-phonon interactions (Physical Review Letters, 2016)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://xlink.rsc.org/?DOI=C5CS00841G&quot;&gt;Computational materials design of crystalline solids (Chemical Society Reviews, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4934716&quot;&gt;Crystal structure optimisation using an auxiliary equation of state (Journal of Chemical Physics, 2015)&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502&quot;&gt;Anharmonicity in the high-temperature Cmcm phase of SnSe: soft modes and three-phonon interactions (Physical Review Letters, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 

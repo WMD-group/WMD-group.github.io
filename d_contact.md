@@ -21,3 +21,5 @@ In addition to hosting visiting scientists, we are always keen to support early-
 
 We are active members of the [Thomas Young Centre for the Theory and Simulation of Materials](http://www.thomasyoungcentre.org) and the [UK Materials Design Network](http://mdn-uk.github.io).
 
+![](http://www.thomasyoungcentre.org//public/cms/37/14/2/2/YtcfTU_web.bmp){: .center-image }
+
