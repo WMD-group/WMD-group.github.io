@@ -6,7 +6,7 @@ permalink: /contact/
 
 For more information on our research, or if you are interested in collaboration, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk).
 We are located at the [Department of Materials, Imperial College London](https://www.imperial.ac.uk/engineering/departments/materials/), which is in the Royal School of Mines on Exhibition Road.
-Also visit us on [GitHub](https://github.com/WMD-group), [Mendeley](https://www.mendeley.com/profiles/aron-walsh/) and [Speaker Deck](https://speakerdeck.com/aronwalsh).
+Also visit us on [GitHub](https://github.com/WMD-group) and [Speaker Deck](https://speakerdeck.com/aronwalsh).
 
 Keith, Katrine, Dan, Lora, and Jonathan are located in the [Department of Chemistry, University of Bath](http://www.bath.ac.uk/chemistry/). Visit them in Building 1 South, Room 1.14.
 

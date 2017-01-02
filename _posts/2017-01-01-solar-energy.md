@@ -25,7 +25,7 @@ photoferroics such as SbSI and BiSeBr.
 
 ## Hybrid organic-inorganic perovskites 
 including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>
-(see our [perovskite publications](/assets/wmd_perovskites.txt) and [Mendeley group](https://www.mendeley.com/groups/4178551/hybrid-perovskite-solar-cells/overview/)).
+(see our [perovskite publications](/assets/wmd_perovskites.txt) and [Mendeley group](https://www.mendeley.com/community/425e1ce0-9d62-3498-a2f1-aa5c5a07c27e/)).
 
 <br>
 
