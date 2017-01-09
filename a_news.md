@@ -15,6 +15,8 @@ permalink: /news/
 1. "Demonstration of the donor characteristics of Si and O defects in GaN using hybrid QM/MM" [Physica Status Solidi A (2017)](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 *#defects*
 
+1. "Self-Consistent Hybrid Functional Calculations: Implications for Structural, Electronic, and Optical Properties of Oxide Semiconductors" [Nanoscale Research Letters (2017)](http://nanoscalereslett.springeropen.com/articles/10.1186/s11671-016-1779-9)
+
 ### December 2016
 
 Our recent work on electroactive metal-organic frameworks has been reviewed in the latest issue of the MRS Bulletin on [MOFs for electronics and photonics](https://www.cambridge.org/core/journals/mrs-bulletin/issue/journal-mrs-volume-41-issue-11/BB714970B7AD577F2F86F440E0F6C572).
