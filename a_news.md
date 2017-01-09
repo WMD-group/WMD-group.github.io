@@ -15,7 +15,8 @@ permalink: /news/
 1. "Demonstration of the donor characteristics of Si and O defects in GaN using hybrid QM/MM" [Physica Status Solidi A (2017)](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 *#defects*
 
-1. "Self-Consistent Hybrid Functional Calculations: Implications for Structural, Electronic, and Optical Properties of Oxide Semiconductors" [Nanoscale Research Letters (2017)](http://nanoscalereslett.springeropen.com/articles/10.1186/s11671-016-1779-9)
+1. "Self-Consistent Hybrid Functional Calculations: Implications for Structural, Electronic, and Optical Properties of Oxide Semiconductors" [Nanoscale Research Letters (2017)](http://nanoscalereslett.springeropen.com/articles/10.1186/s11671-016-1779-9) 
+*#oxides*
 
 ### December 2016
 
