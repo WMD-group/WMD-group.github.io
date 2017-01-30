@@ -6,6 +6,9 @@ permalink: /news/
 
 ### January 2017
 
+1. "Perovskite-inspired photovoltaic materials: Toward best practices in materials characterization and calculations" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03852) 
+*#solar*
+
 1. "Indirect to direct bandgap transition in methylammonium lead halide perovskite" [Energy & Environmental Science (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/EE/C6EE03474H#!divAbstract) 
 *#solar*
 
