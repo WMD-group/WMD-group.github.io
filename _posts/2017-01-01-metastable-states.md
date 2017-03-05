@@ -35,7 +35,7 @@ artificial heterostructures and material composites.
 
 - [Polymorph engineering of TiO<sub>2</sub>: demonstrating how absolute reference potentials are determined by local coordination (Chemistry of Materials, 2015)](http://dx.doi.org/10.1021/acs.chemmater.5b00230)
 
-- [The quest for new functionality (Nature Chemistry, 2015)](http://dx.doi.org/10.1039/c5sc01489a)
+- [The quest for new functionality (Nature Chemistry, 2015)](http://www.nature.com/nchem/journal/v7/n4/full/nchem.2213.html)
 
 <br>
 
