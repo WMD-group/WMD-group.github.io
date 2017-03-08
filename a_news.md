@@ -6,6 +6,9 @@ permalink: /news/
 
 ### March 2017
 
+* "Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor" [APL Materials (2017)](http://aip.scitation.org/doi/abs/10.1063/1.4977868)
+*#solar*
+
 * "Chemical bonding at the metal-organic framework / metal oxide interface: simulated epitaxial growth of MOF-5 on rutile TiO<sub>2</sub>" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta00356k#!divAbstract)
 *#mofs*
 
