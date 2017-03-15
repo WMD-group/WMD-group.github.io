@@ -6,6 +6,9 @@ permalink: /news/
 
 ### March 2017
 
+* "Theory of ionization potentials of nonmetallic solids" [Physical Review B (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
+*#oxides*
+
 * "The steady rise of kesterite solar cells" [ACS Energy Letters (2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
 *#solar*
 
