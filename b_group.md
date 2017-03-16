@@ -43,6 +43,9 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
+### Visitors 
+- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
+
 ### Former Visitors
 - [Prof. Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
 - [Prof. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
