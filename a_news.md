@@ -6,6 +6,9 @@ permalink: /news/
 
 ### March 2017
 
+* "Chemical and lattice stability of the tin sulfides" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581)
+*#solar*
+
 * "Theory of ionization potentials of nonmetallic solids" [Physical Review B (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
 *#oxides*
 
