@@ -9,7 +9,7 @@ permalink: /news/
 * "Theory of ionization potentials of nonmetallic solids" [Physical Review B (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
 *#oxides*
 
-* "Cs<sub>1–x</sub>Rb<sub>x</sub>PbCl<sub>3</sub> and Cs<sub>1–x</sub>Rb<sub>x</sub>PbBr<sub>3</sub> solid solutions: Understanding octahedral tilting in lead halide perovskites" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b05372)
+* "Influence of Rb/Cs cation-exchange on inorganic Sn halideperovskites: From chemical structure to physical properties" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00260)
 *#solar*
 
 * "The steady rise of kesterite solar cells" [ACS Energy Letters (2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
