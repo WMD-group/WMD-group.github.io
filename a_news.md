@@ -4,10 +4,15 @@ title: News
 permalink: /news/
 ---
 
-### March 2017
+### April 2017
+
+* "Electroactive nanoporous metal oxides and chalcogenides by chemical design" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464)
+*#oxides #design*
 
 * "Chemical and lattice stability of the tin sulfides" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581)
 *#solar*
+
+### March 2017
 
 * "Theory of ionization potentials of nonmetallic solids" [Physical Review B (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
 *#oxides*
@@ -21,10 +26,10 @@ permalink: /news/
 * "Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor" [APL Materials (2017)](http://aip.scitation.org/doi/abs/10.1063/1.4977868)
 *#solar*
 
+### February 2017
+
 * "Chemical bonding at the metal-organic framework / metal oxide interface: simulated epitaxial growth of MOF-5 on rutile TiO<sub>2</sub>" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta00356k#!divAbstract)
 *#mofs*
-
-### February 2017
 
 * "The organic secondary building unit: Strong intermolecular π-interactions define topology in MIT-25, a mesoporous MOF with proton-replete channels" [Journal of the American Chemical Society (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.6b13176) 
 *#mofs*
