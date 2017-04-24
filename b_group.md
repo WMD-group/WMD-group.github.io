@@ -23,6 +23,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
 - [Dr. Daniel Fritsch](http://www.bath.ac.uk/person/1205975)
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
+- [Dr. Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
@@ -34,6 +35,9 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
+### Visitors 
+- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
+
 ### Former Members
 - [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
 - [Dr. Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
@@ -42,9 +46,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Dr. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=0cqrNGkAAAAJ&hl=en)
 - [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
-
-### Visitors 
-- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 
 ### Former Visitors
 - [Prof. Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
