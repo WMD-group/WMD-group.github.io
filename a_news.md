@@ -6,8 +6,14 @@ permalink: /news/
 
 ### April 2017
 
+* "Is iron unique in promoting electrical conductivity in MOFs?" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k)
+*#mofs*
+
+* "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](https://arxiv.org/abs/1704.05140)
+*#oxides*
+
 * "Electroactive nanoporous metal oxides and chalcogenides by chemical design" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464)
-*#oxides #design*
+*#oxides*
 
 * "Chemical and lattice stability of the tin sulfides" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581)
 *#solar*
@@ -51,11 +57,12 @@ permalink: /news/
 * "Demonstration of the donor characteristics of Si and O defects in GaN using hybrid QM/MM" [Physica Status Solidi A (2017)](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 *#defects*
 
-* "Self-Consistent Hybrid Functional Calculations: Implications for Structural, Electronic, and Optical Properties of Oxide Semiconductors" [Nanoscale Research Letters (2017)](http://nanoscalereslett.springeropen.com/articles/10.1186/s11671-016-1779-9) 
+* "Self-consistent hybrid functional calculations: Implications for structural, electronic, and optical properties of oxide semiconductors" [Nanoscale Research Letters (2017)](http://nanoscalereslett.springeropen.com/articles/10.1186/s11671-016-1779-9) 
 *#oxides*
 
 ### December 2016
 
-Our recent research on electroactive metal-organic frameworks has been reviewed in the latest issue of the MRS Bulletin on [MOFs for electronics and photonics](https://www.cambridge.org/core/journals/mrs-bulletin/issue/journal-mrs-volume-41-issue-11/BB714970B7AD577F2F86F440E0F6C572).
- 
+Our research on electroactive metal-organic frameworks has been reviewed in the latest issue of the MRS Bulletin on [MOFs for electronics and photonics](https://www.cambridge.org/core/journals/mrs-bulletin/issue/journal-mrs-volume-41-issue-11/BB714970B7AD577F2F86F440E0F6C572)
+*#mofs*
+
 ![](/assets/mrs-bulletin.jpg){: .center-image }
