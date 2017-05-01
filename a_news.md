@@ -4,16 +4,21 @@ title: News
 permalink: /news/
 ---
 
+### May 2017
+
+* "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](https://arxiv.org/abs/1704.05140)
+*#oxides*
+
 ### April 2017
 
 * "Is iron unique in promoting electrical conductivity in MOFs?" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k)
 *#mofs*
 
-* "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](https://arxiv.org/abs/1704.05140)
-*#oxides*
-
 * "Electroactive nanoporous metal oxides and chalcogenides by chemical design" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464)
 *#oxides*
+
+* "DFT investigation into the underperformance of sulfide materials in photovoltaic applications" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/TA/C7TA00673J)
+*#solar*
 
 * "Chemical and lattice stability of the tin sulfides" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581)
 *#solar*
