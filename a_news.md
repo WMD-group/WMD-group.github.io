@@ -9,6 +9,9 @@ permalink: /news/
 * "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](https://arxiv.org/abs/1704.05140)
 *#oxides*
 
+* "Vacuum-annealing induces sub-surface redox-states in surfactant-structured α-Fe<sub>2</sub>O<sub>3</sub> photoanodes prepared by ink-jet printing" [Applied Catalysis B: Environmental (2017)](http://www.sciencedirect.com/science/article/pii/S0926337317303624)
+*#oxides*
+
 ### April 2017
 
 * "Is iron unique in promoting electrical conductivity in MOFs?" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k)
