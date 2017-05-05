@@ -12,7 +12,7 @@ permalink: /news/
 * "Vacuum-annealing induces sub-surface redox-states in surfactant-structured α-Fe<sub>2</sub>O<sub>3</sub> photoanodes prepared by ink-jet printing" [Applied Catalysis B: Environmental (2017)](http://www.sciencedirect.com/science/article/pii/S0926337317303624)
 *#oxides*
 
-* "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub3</sub>: vibrational spectra and thermal transport" [PCCP (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp01680h#!divAbstract)
+* "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport" [PCCP (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp01680h#!divAbstract)
 *#solar*
 
 ### April 2017
