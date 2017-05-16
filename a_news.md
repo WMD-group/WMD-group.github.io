@@ -15,6 +15,8 @@ permalink: /news/
 * "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport" [PCCP (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp01680h#!divAbstract)
 *#solar*
 
+* "Trimethylsulfonium lead triiodide: An air-stable hybrid halide perovskite" [Inorganic Chemistry (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00395)
+
 ### April 2017
 
 * "Is iron unique in promoting electrical conductivity in MOFs?" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k)
