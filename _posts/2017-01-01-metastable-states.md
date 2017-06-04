@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metastable functional materials"
-date:   2016-01-02 
+date:   2017-01-02 
 categories: research themes
 ---
 
@@ -10,24 +10,27 @@ categories: research themes
 
 We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. 
 Applications include solid-state sensors and switches.
-We have a close connection with time-resolved crystallography through the EPSRC [Applying Long-lived Metastable States with Switchable Functionality](http://www.metastable-materials.org.uk) programme. 
+We have a close connection with time-resolved crystallography through the EPSRC [Applying Long-lived Metastable States with Switchable Functionality](http://www.metastable-materials.org.uk) project.
+Our research into metastable materials is also supported by the [Philip Leverhulme Prize in Chemistry](https://www.leverhulme.ac.uk/funding/grant-schemes/philip-leverhulme-prizes). 
 
-## Optical
+## Optical stimuli
 including single-crystal phase transitions due to linkage isomerism.
 
-## Thermal
+## Thermal stimuli
 involving displacive instabilities, including highly anharmonic systems where there exists large differences between local and average structures.
 
-## Electric
-including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that can respond to an applied electric field. 
+## Electrical stimuli
+including both conventional ferroelectrics, with macroscopic polarisation, to systems that exhibit microscopic polarisation domains that respond to an applied electric field. 
 
-## Kinetic
+## Kinetic control
 covering crystal engineering into new polymorphs, as well as the fabrication of 
 artificial heterostructures and material composites.
 
 <br>
 
 ### Select Publications
+
+- [Electroactive nanoporous metal oxides and chalcogenides by chemical design (Chemistry of Materials, 2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464)
 
 - [One-dimensional Magnus-type platinum double salts (Nature Communications, 2016)](http://www.nature.com/doifinder/10.1038/ncomms11950)
 
