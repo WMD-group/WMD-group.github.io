@@ -7,7 +7,7 @@ permalink: /news/
 
 ### June 2017
 
-* "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](hhttp://aip.scitation.org/doi/full/10.1063/1.4984964)
+* "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
 *#solar*
 
 ### May 2017
@@ -43,7 +43,8 @@ permalink: /news/
 * "Theory of ionization potentials of nonmetallic solids" [Physical Review B (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
 *#oxides*
 
-* "Influence of Rb/Cs cation-exchange on inorganic Sn halideperovskites: From chemical structure to physical properties" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00260)
+* "Influence of Rb/Cs cation-exchange on inorganic Sn halide
+perovskites: From chemical structure to physical properties" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00260)
 *#solar*
 
 * "The steady rise of kesterite solar cells" [ACS Energy Letters (2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
