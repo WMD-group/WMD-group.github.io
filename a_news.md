@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 ---
 
+
+### June 2017
+
+* "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](hhttp://aip.scitation.org/doi/full/10.1063/1.4984964)
+*#solar*
+
 ### May 2017
 
 * "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00809)
@@ -16,6 +22,7 @@ permalink: /news/
 *#solar*
 
 * "Trimethylsulfonium lead triiodide: An air-stable hybrid halide perovskite" [Inorganic Chemistry (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00395)
+*#solar*
 
 ### April 2017
 
