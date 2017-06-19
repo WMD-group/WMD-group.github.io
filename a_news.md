@@ -13,7 +13,7 @@ permalink: /news/
 ### May 2017
 
 * "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00809)
-*#oxides*
+*#oxides* [Covered in [Chemistry World](https://www.chemistryworld.com/news/scientists-get-charged-up-over-titanium-dioxide/3007521.article)]
 
 * "Vacuum-annealing induces sub-surface redox-states in surfactant-structured α-Fe<sub>2</sub>O<sub>3</sub> photoanodes prepared by ink-jet printing" [Applied Catalysis B: Environmental (2017)](http://www.sciencedirect.com/science/article/pii/S0926337317303624)
 *#oxides*
