@@ -7,6 +7,9 @@ permalink: /news/
 
 ### June 2017
 
+* "Candidate photoferroic absorber materials for thin-film solar cells from naturally occurring minerals: enargite, stephanite, and bournonite" [Sustainable Energy & Fuels (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/se/c7se00277g)
+*#solar*
+
 * "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
 *#solar*
 
