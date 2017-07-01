@@ -10,6 +10,9 @@ permalink: /news/
 * "Candidate photoferroic absorber materials for thin-film solar cells from naturally occurring minerals: enargite, stephanite, and bournonite" [Sustainable Energy & Fuels (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/se/c7se00277g)
 *#solar*
 
+* "Heterogeneous catalytic hydrogenation of CO<sub>2</sub> by metal oxides: defect engineering – perfecting imperfection" [Chemical Society Reviews (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00026J)
+*#oxide*
+
 * "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
 *#solar*
 
