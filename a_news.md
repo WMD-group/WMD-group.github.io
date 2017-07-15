@@ -4,14 +4,18 @@ title: News
 permalink: /news/
 ---
 
+### July 2017
 
-### June 2017
+* "Metallic conductivity in a two-dimensional cobalt dithiolene metal-organic framework" [Journal of the American Chemical Society (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742)
+*#mofs*
 
 * "Candidate photoferroic absorber materials for thin-film solar cells from naturally occurring minerals: enargite, stephanite, and bournonite" [Sustainable Energy & Fuels (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/se/c7se00277g)
 *#solar*
 
+### June 2017
+
 * "Heterogeneous catalytic hydrogenation of CO<sub>2</sub> by metal oxides: defect engineering – perfecting imperfection" [Chemical Society Reviews (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00026J)
-*#oxide*
+*#oxides*
 
 * "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
 *#solar*
