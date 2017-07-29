@@ -13,8 +13,8 @@ His interests in materials modelling cover the condensed matter physics
 and solid state chemistry of advanced materials, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
-![](/assets/pdra_2016.jpg){: .center-image }
-*<center>(Keith, Jarvist, Katrine, Aron, Jonathan - January 2016)</center>*
+![](/assets/groupday_2017.jpg){: .center-image }
+*<center>(Group research day - July 2017)</center>*
 
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
