@@ -74,7 +74,7 @@ perovskites: From chemical structure to physical properties" [Chemistry of Mater
 * "Perovskite-inspired photovoltaic materials: Toward best practices in materials characterization and calculations" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03852) 
 *#solar*
 
-* "Designing porous electronic thin-film devices: Band offsets and heteroepitaxy" [Farday Discussions (2017)]() 
+* "Designing porous electronic thin-film devices: Band offsets and heteroepitaxy" [Faraday Discussions (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/fd/c7fd00019g) 
 *#mofs*
 
 ### January 2017
