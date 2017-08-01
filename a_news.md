@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+### August 2017
+
+* "Instilling defect tolerance in new compounds" [Nature Materials (2017)]()
+*#defects*
+
 ### July 2017
 
 * "Metallic conductivity in a two-dimensional cobalt dithiolene metal-organic framework" [Journal of the American Chemical Society (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742)
