@@ -25,7 +25,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Dr. Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Dr. Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
-- [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
 ### PhD Students
@@ -34,12 +33,14 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
+- [Jacob Wilson]()
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
 ### Visitors 
 - [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 
 ### Former Members
+- [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
 - [Dr. Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
