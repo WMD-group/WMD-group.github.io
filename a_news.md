@@ -15,6 +15,7 @@ permalink: /news/
 *#mofs*
 
 * "MOFs modeling and theory: general discussion" [Faraday Discussions (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/fd/c7fd90045g#!divAbstract)
+*#mofs*
 
 ### July 2017
 
