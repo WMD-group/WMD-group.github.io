@@ -4,13 +4,17 @@ title: News
 permalink: /news/
 ---
 
-### August 2017
+### September 2017
 
-* "Instilling defect tolerance in new compounds" [Nature Materials (2017)]()
+* "Instilling defect tolerance in new compounds" [Nature Materials (2017)](http://rdcu.be/vzdG)
 *#defects*
+
+### August 2017
 
 * "Electronic structure design for nanoporous, electrically conductive zeolitic imidazolate frameworks" [Journal of Materials Chemistry C (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/TC/C7TC03150E)
 *#mofs*
+
+* "MOFs modeling and theory: general discussion" [Faraday Discussions (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/fd/c7fd90045g#!divAbstract)
 
 ### July 2017
 
