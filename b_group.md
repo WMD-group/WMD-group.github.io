@@ -45,7 +45,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Dr. Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Dr. Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
-- [Prof. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=0cqrNGkAAAAJ&hl=en)
+- [Prof. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
 - [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
