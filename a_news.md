@@ -9,6 +9,12 @@ permalink: /news/
 * "Instilling defect tolerance in new compounds" [Nature Materials (2017)](http://rdcu.be/vzdG)
 *#defects*
 
+* "Spontaneous Octahedral Tilting in the Cubic Inorganic Cesium Halide Perovskites CsSnX<sub>3</sub> and CsPbX<sub>3</sub> (X = F, Cl, Br, I)" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02423)
+*#solar*
+
+* "Anharmonic Origin of Giant Thermal Displacements in the Metal-Organic Framework UiO-67" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b04757)
+*#mofs*
+
 ### August 2017
 
 * "Electronic structure design for nanoporous, electrically conductive zeolitic imidazolate frameworks" [Journal of Materials Chemistry C (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/TC/C7TC03150E)
