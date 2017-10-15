@@ -40,7 +40,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 
 ### Former Members
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
-- [Dr. Daniel Fritsch](http://www.bath.ac.uk/person/1205975)
+- [Dr. Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
 - [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
 - [Dr. Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
