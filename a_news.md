@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+### October 2017
+
+* "Slow Cooling of Hot Polarons in Halide Perovskite Solar Cells" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b00862)
+*#perovskites*
+
 ### September 2017
 
 * "Instilling defect tolerance in new compounds" [Nature Materials (2017)](http://rdcu.be/vzdG)
