@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+### November 2017
+
+* "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
+*#perovskites*
+
 ### October 2017
 
 * "Slow Cooling of Hot Polarons in Halide Perovskite Solar Cells" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b00862)
