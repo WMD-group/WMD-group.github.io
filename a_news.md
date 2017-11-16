@@ -9,6 +9,8 @@ permalink: /news/
 * "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
 *#perovskites*
 
+* "Halide Perovskite Heteroepitaxy: Bond Formation and Carrier Confinement at the PbS-CsPbBr<sub>3</sub> Interface" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b10000)
+
 ### October 2017
 
 * "Slow Cooling of Hot Polarons in Halide Perovskite Solar Cells" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b00862)
