@@ -13,6 +13,7 @@ permalink: /news/
 *#perovskites*
 
 * "Low-frequency optical phonon modes and carrier mobility in the halide perovskite CH3NH3PbBr3 using terahertz time-domain spectroscopy" [Applied Physics Letters (2017)](http://aip.scitation.org/doi/full/10.1063/1.4993524)
+*#perovskites*
 
 ### October 2017
 
