@@ -10,6 +10,7 @@ permalink: /news/
 *#perovskites*
 
 * "Halide Perovskite Heteroepitaxy: Bond Formation and Carrier Confinement at the PbS-CsPbBr<sub>3</sub> Interface" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b10000)
+*#perovskites*
 
 ### October 2017
 
