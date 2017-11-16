@@ -12,6 +12,8 @@ permalink: /news/
 * "Halide Perovskite Heteroepitaxy: Bond Formation and Carrier Confinement at the PbS-CsPbBr<sub>3</sub> Interface" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b10000)
 *#perovskites*
 
+* "Low-frequency optical phonon modes and carrier mobility in the halide perovskite CH3NH3PbBr3 using terahertz time-domain spectroscopy" [Applied Physics Letters (2017)](http://aip.scitation.org/doi/full/10.1063/1.4993524)
+
 ### October 2017
 
 * "Slow Cooling of Hot Polarons in Halide Perovskite Solar Cells" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b00862)
