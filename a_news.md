@@ -4,6 +4,18 @@ title: News
 permalink: /news/
 ---
 
+### 2018 Group Openings
+
+##### PhD studentship
+
+*Atomic engineering of bulk and surface polarisation for enhanced solar energy conversion*
+- with Prof. Aron Walsh (Materials) and Prof. James Durrant (Chemistry). Details and application instructions [here](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/projects-available-for-october-2018-start/fully-funded-projects).
+
+##### Postdoctoral researcher 
+
+*Modelling thin-film solar cells*
+- Atomistic simulations as part of the [STARCELL](https://twitter.com/STARCELL_H2020) project. Details and application instructions [here](http://www.jobs.ac.uk/job/BFU443/research-associate-in-photovoltaic-materials-modelling/).
+
 ### November 2017
 
 * "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
