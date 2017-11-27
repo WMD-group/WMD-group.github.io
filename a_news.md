@@ -14,6 +14,11 @@ permalink: /news/
 
 *Modelling thin-film solar cells* will involve atomistic simulations as part of the [STARCELL](https://twitter.com/STARCELL_H2020) project. Details and application instructions [here](http://www.jobs.ac.uk/job/BFU443/research-associate-in-photovoltaic-materials-modelling/).
 
+### December 2017
+
+* "A rapidly-reversible absorptive and emissive vapochromic Pt(II) pincer-based chemical sensor" [Nature Communications (2017)](https://www.nature.com/articles/s41467-017-01941-2)
+*#mofs*
+
 ### November 2017
 
 * "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
