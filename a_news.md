@@ -20,8 +20,10 @@ permalink: /news/
 *#mofs*
 
 * "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
+*#solar*
 
 * "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
+*#perovskites*
 
 ### November 2017
 
