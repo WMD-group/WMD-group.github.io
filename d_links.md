@@ -10,11 +10,13 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 
 ### Databases and Frameworks
 
+* [AiiDA](http://www.aiida.net) (material informatics infrastructure)
 * [ASE](https://wiki.fysik.dtu.dk/ase/) (Python simulation controller)
 * [Automate](https://hackingmaterials.github.io/atomate/) (calculation workflows)
 * [ICSD](http://cds.rsc.org) (structure database)
 * [Materials Project](https://materialsproject.org) / [Pymatgen](http://pymatgen.org) (properties database / framework)
 * [MatMiner](http://hackingmaterials.github.io/matminer/) (machine learning for materials)
+* [NOMAD](https://nomad-coe.eu) (database and toolkit)
 * [SMACT](https://github.com/WMD-group/SMACT) (low cost screening)
 
 ### Electronic Structure
