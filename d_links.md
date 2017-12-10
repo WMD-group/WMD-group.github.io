@@ -22,12 +22,13 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 ### Electronic Structure
 
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening tools)
+* [Galore](https://github.com/SMTG-UCL/galore) (simulating spectra)
 * [kgrid](https://github.com/WMD-group/kgrid) (consistent k-point sampling)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) (analysis of electrostatic potentials)
 * [QUESTAAL](https://www.questaal.org) (all-electron QSGW)
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) (band paths in the Brillouin zone)
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
-
+* [VASPpy](https://github.com/bjmorgan/vasppy) (I/O tools)
 
 ### Halide Perovskites and Solar Energy
 
