@@ -13,6 +13,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [AiiDA](http://www.aiida.net) (material informatics infrastructure)
 * [ASE](https://wiki.fysik.dtu.dk/ase/) (Python simulation controller)
 * [Automate](https://hackingmaterials.github.io/atomate/) (calculation workflows)
+* [CoRE-MOFs](http://gregchung.github.io/CoRE-MOFs/) (metal-organic frameworks)
 * [ICSD](http://cds.rsc.org) (structure database)
 * [Materials Project](https://materialsproject.org) / [Pymatgen](http://pymatgen.org) (properties database / framework)
 * [MatMiner](http://hackingmaterials.github.io/matminer/) (machine learning for materials)
