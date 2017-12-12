@@ -20,6 +20,12 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [NOMAD](https://nomad-coe.eu) (database and toolkit)
 * [SMACT](https://github.com/WMD-group/SMACT) (low cost screening)
 
+### Crystal Structure Prediction
+
+* [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS) (random search)
+* [CALYPSO](http://www.calypso.cn) (particle swarm)
+* [USPEX](http://uspex-team.org/en/uspex) (evolutionary algorithm) 
+
 ### Electronic Structure
 
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening tools)
