@@ -25,6 +25,9 @@ permalink: /news/
 * "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
 *#perovskites*
 
+* "How Strong Is the Hydrogen Bond in Hybrid Perovskites?" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/10.1021/acs.jpclett.7b03106)
+*#perovskites*
+
 ### November 2017
 
 * "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
