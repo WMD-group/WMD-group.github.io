@@ -10,6 +10,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 
 ### Databases and Frameworks
 
+* [AFLOW](http://www.aflowlib.org) (properties database)
 * [AiiDA](http://www.aiida.net) (material informatics infrastructure)
 * [ASE](https://wiki.fysik.dtu.dk/ase/) (Python simulation controller)
 * [Automate](https://hackingmaterials.github.io/atomate/) (calculation workflows)
