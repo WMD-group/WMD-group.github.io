@@ -31,15 +31,13 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 ### Select Publications
 
+- [Slow cooling of hot polarons in halide perovskite solar cells (ACS Energy Letters, 2017)](http://pubs.acs.org/doi/pdf/10.1021/acsenergylett.7b00862)
+
 - [The Steady Rise of Kesterite Solar Cells (ACS Energy Letters, 2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
 
 - [Indirect to Direct Bandgap Transition in Methylammonium Lead Halide Perovskite (Energy & Environmental Science, 2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/EE/C6EE03474H#!divAbstract) 
 
 - [What Is Moving in Hybrid Halide Perovskite Solar Cells? (Accounts of Chemical Research, 2016)](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431)
-
-- [Relativistic Origin of Slow Electron-hole Recombination in Hybrid Halide Perovskite Solar Cells (APL Materials, 2016)](http://scitation.aip.org/content/aip/journal/aplmater/4/9/10.1063/1.4955028)
-
-- [Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in Kesterite Solar Cells? (Advanced Energy Materials, 2016)](http://dx.doi.org/10.1002/aenm.201502276)
 
 <br>
 

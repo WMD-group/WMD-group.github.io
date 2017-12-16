@@ -19,12 +19,12 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### Primary Investigator
 - [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
-### Postdocs and Research Fellows
+### Senior Researchers
 - [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
+- [Dr. Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
 - [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Dr. Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Dr. Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
-- [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
@@ -39,6 +39,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
 
 ### Former Members
+- [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 - [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Dr. Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
 - [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
