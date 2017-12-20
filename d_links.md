@@ -88,6 +88,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 ### Python and Friends
 
 * [Datacamp](https://www.datacamp.com) (learn the basics)
+* [DFT-Book](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) (python + DFT = fun)
 * [Julia](https://julialang.org) (Python on steroids)
 * [Jupyter Notebooks](https://jupyter.org) (track your work)
 * [Matgenb](http://matgenb.materialsvirtuallab.org) (a set of Jupyter notebooks)
