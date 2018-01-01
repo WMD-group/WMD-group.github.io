@@ -8,16 +8,20 @@ permalink: /news/
 
 * (PhD studentship) *Atomic engineering of bulk and surface polarisation for enhanced solar energy conversion* under the supervision of Prof. Aron Walsh (Materials) and Prof. James Durrant (Chemistry). Details and application instructions [here](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/projects-available-for-october-2018-start/fully-funded-projects).
 
+* (PhD studentship) *Electroactive metal-organic frameworks* under the supervision of Prof. Aron Walsh (Materials) and funded by the Royal Society (fees and stipend for four years) to commence between March and October 2018.
+
+### January 2018
+
+* "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
+*#solar*
+
+* "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
+*#perovskites*
+
 ### December 2017
 
 * "A rapidly-reversible absorptive and emissive vapochromic Pt(II) pincer-based chemical sensor" [Nature Communications (2017)](https://www.nature.com/articles/s41467-017-01941-2)
 *#mofs*
-
-* "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
-*#solar*
-
-* "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
-*#perovskites*
 
 * "How Strong Is the Hydrogen Bond in Hybrid Perovskites?" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/10.1021/acs.jpclett.7b03106)
 *#perovskites*
