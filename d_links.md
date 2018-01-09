@@ -37,6 +37,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) (band paths in the Brillouin zone)
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
 * [VASPpy](https://github.com/bjmorgan/vasppy) (I/O tools)
+* [VASPsol](https://github.com/henniggroup/VASPsol) (implicit solvents)
 
 ### Halide Perovskites and Solar Energy
 
