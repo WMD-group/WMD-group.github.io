@@ -18,6 +18,9 @@ permalink: /news/
 * "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
 *#perovskites*
 
+* "Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)
+*#solar*
+
 ### December 2017
 
 * "A rapidly-reversible absorptive and emissive vapochromic Pt(II) pincer-based chemical sensor" [Nature Communications (2017)](https://www.nature.com/articles/s41467-017-01941-2)
