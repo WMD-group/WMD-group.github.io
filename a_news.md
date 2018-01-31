@@ -6,9 +6,16 @@ permalink: /news/
 
 ### Group Openings
 
-* (PhD studentship) *Atomic engineering of bulk and surface polarisation for enhanced solar energy conversion* under the supervision of Prof. Aron Walsh (Materials) and Prof. James Durrant (Chemistry). Details and application instructions [here](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/projects-available-for-october-2018-start/fully-funded-projects).
+* (Postdoctoral researcher) *Electronic Structure Theory of Next-Genearation Batteries* to work as part of the multi-scale modelling theme within the [Faraday Institution](https://www.imperial.ac.uk/jobs/description/ENG00192/research-associate-electronic-structure-theory-battery-materials).
 
-* (PhD studentship) *Electroactive metal-organic frameworks* under the supervision of Prof. Aron Walsh (Materials) and funded by the Royal Society (fees and stipend for four years) to commence between March and October 2018.
+* (PhD studentship) *Defect Theory of Electroactive Metal-Organic Frameworks* under the supervision of Prof. Aron Walsh (Materials) and funded by the Royal Society to commence between March and October 2018.
+
+* (PhD studentship) *Electronic Structure Theory of Next-Genearation Batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge), with funding from the [Faraday Institution](https://twitter.com/faradayinst) to commence in October 2018.
+
+### February 2018
+
+* "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
+*#solar*
 
 ### January 2018
 
