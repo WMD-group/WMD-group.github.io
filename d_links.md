@@ -38,6 +38,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
 * [VASPpy](https://github.com/bjmorgan/vasppy) (I/O tools)
 * [VASPsol](https://github.com/henniggroup/VASPsol) (implicit solvents)
+* [Z2Pack](http://z2pack.ethz.ch) (toplogical invariants)
 
 ### Halide Perovskites and Solar Energy
 
