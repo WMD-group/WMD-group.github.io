@@ -17,7 +17,7 @@ permalink: /news/
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
 *#solar*
 
-* We have contributed a Chapter on "Computational Design of Photovoltaic Materials" to a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov.
+* We have contributed a Chapter on "Computational Design of Photovoltaic Materials" to a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov
 *#solar*
 
 ![](/assets/rsc-2018.jpg){: .center-image }
