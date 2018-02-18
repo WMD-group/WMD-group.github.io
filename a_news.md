@@ -8,9 +8,7 @@ permalink: /news/
 
 * (Postdoctoral researcher) *Electronic Structure Theory of Next-Genearation Batteries* to work as part of the multi-scale modelling theme within the [Faraday Institution](https://www.imperial.ac.uk/jobs/description/ENG00192/research-associate-electronic-structure-theory-battery-materials).
 
-* (PhD studentship) *Defect Theory of Electroactive Metal-Organic Frameworks* under the supervision of Prof. Aron Walsh (Materials) and funded by the Royal Society to commence between March and October 2018.
-
-* (PhD studentship) *Electronic Structure Theory of Next-Genearation Batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge), with funding from the [Faraday Institution](https://twitter.com/faradayinst) to commence in October 2018.
+* (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge), with funding from the [Faraday Institution](https://twitter.com/faradayinst) to commence in October 2018.
 
 ### February 2018
 
