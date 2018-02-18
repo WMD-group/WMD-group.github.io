@@ -17,6 +17,11 @@ permalink: /news/
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
 *#solar*
 
+* We have contributed a Chapter on "Computational Design of Photovoltaic Materials" a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov.
+*#solar*
+
+![](/assets/rsc-2018.jpg){: .center-image }
+
 ### January 2018
 
 * "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
@@ -163,7 +168,7 @@ perovskites: From chemical structure to physical properties" [Chemistry of Mater
 
 ### December 2016
 
-Our research on electroactive metal-organic frameworks has been reviewed in the latest issue of the MRS Bulletin on [MOFs for electronics and photonics](https://www.cambridge.org/core/journals/mrs-bulletin/issue/journal-mrs-volume-41-issue-11/BB714970B7AD577F2F86F440E0F6C572)
+* Our research on electroactive metal-organic frameworks has been reviewed in the latest issue of the MRS Bulletin on [MOFs for electronics and photonics](https://www.cambridge.org/core/journals/mrs-bulletin/issue/journal-mrs-volume-41-issue-11/BB714970B7AD577F2F86F440E0F6C572)
 *#mofs*
 
 ![](/assets/mrs-bulletin.jpg){: .center-image }
