@@ -9,21 +9,20 @@ He also Visiting Professor in [Materials Science and Engineering](http://mse.yon
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
-His interests in materials modelling cover the condensed matter physics 
-and solid state chemistry of advanced materials, including 
+His interests in materials modelling cover the chemistry and physics of advanced materials, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
 ![](/assets/groupday_2017.jpg){: .center-image }
 *<center>(Group research day - July 2017)</center>*
 
 ### Primary Investigator
-- [Prof. Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
+- [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
-- [Dr. Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
-- [Dr. Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
-- [Dr. Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
-- [Dr. Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
+- [Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
+- [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
+- [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
+- [Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
 
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
@@ -35,26 +34,29 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
 ### Visitors 
-- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
+- [Kazuki Morita](http://www.yasuoka.mech.keio.ac.jp/english/member.php) 
 
 ### Former Members
-- [Dr. Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
-- [Dr. Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
-- [Dr. Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
-- [Dr. Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
-- [Dr. Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
-- [Dr. Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
-- [Dr. Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
-- [Dr. Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
-- [Prof. Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
-- [Dr. Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
-- [Dr. Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
+- [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
+- [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
+- [Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
+- [Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
+- [Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
+- [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
+- [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
+- [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
+- [Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
+- [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
+- [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
+- [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 
 ### Former Visitors
-- [Prof. Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
-- [Prof. Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
-- [Dr. Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
+- [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
+- [Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
+- [Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
 - [Chang-Eun Kim (김창은)](https://scholar.google.co.uk/citations?user=20AziH8AAAAJ&hl=en)
-- [Dr. Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
-- [Prof. Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
+- [Yu Kumagai](https://scholar.google.co.uk/citations?user=xST4MSEAAAAJ&hl=en&oi=ao)
+- [Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
+- [Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo (유수현)](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
+- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
