@@ -5,8 +5,8 @@
     <description>Computational Chemistry &amp; Physics</description>
     <link>http://wmd-group.github.io/</link>
     <atom:link href="http://wmd-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Dec 2017 16:10:50 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 16:10:50 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2018 08:59:59 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2018 08:59:59 +0000</lastBuildDate>
     <generator>Jekyll v3.4.5</generator>
     
       <item>
@@ -39,6 +39,9 @@ photoferroics such as SbSI and BiSeBr.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/pdf/10.1021/acsenergylett.7b00862&quot;&gt;Slow cooling of hot polarons in halide perovskite solar cells (ACS Energy Letters, 2017)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb&quot;&gt;The Steady Rise of Kesterite Solar Cells (ACS Energy Letters, 2017)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -46,12 +49,6 @@ photoferroics such as SbSI and BiSeBr.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431&quot;&gt;What Is Moving in Hybrid Halide Perovskite Solar Cells? (Accounts of Chemical Research, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://scitation.aip.org/content/aip/journal/aplmater/4/9/10.1063/1.4955028&quot;&gt;Relativistic Origin of Slow Electron-hole Recombination in Hybrid Halide Perovskite Solar Cells (APL Materials, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/aenm.201502276&quot;&gt;Is the Cu/Zn Disorder the Main Culprit for the Voltage Deficit in Kesterite Solar Cells? (Advanced Energy Materials, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -74,22 +71,25 @@ photoferroics such as SbSI and BiSeBr.&lt;/p&gt;
         <title>Electroactive metal-organic frameworks</title>
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/mof.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Metal-organic frameworks are crystalline materials formed of organic and inorganic building blocks. 
+&lt;p&gt;Metal-organic frameworks (MOFs) are materials formed of organic and inorganic building blocks. 
 The chemical space for synthesising these systems is large. There is immense potential for engineering novel
 functionality.&lt;/p&gt;
 
 &lt;h2 id=&quot;electroactive-hybrid-solids&quot;&gt;Electroactive hybrid solids&lt;/h2&gt;
-&lt;p&gt;We are developing principles to control the optical properties, magnetism, and electrical conductivity of these materials. 
-These principles include ion exchange, ligand modification, and defect engineering.
-Our research combines electronic structure theory and universal forcefields to build multi-scale models with the ability to accurately describe physical processes in nanoporous solids.&lt;/p&gt;
+&lt;p&gt;We are developing principles to control the optical properties, magnetism, and electrical conductivity of hybrid materials. 
+These include ion exchange, ligand modification, and defect engineering.
+Our research combines electronic structure theory with universal forcefields to build multi-scale models with the ability to accurately describe physical processes in nanoporous solids.&lt;/p&gt;
 
-&lt;p&gt;One major development has been a procedure to calculate the ionisation potentials, workfunctions, and band alignments of porous organic-inorganic frameworks. The procedure was first published in &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/ja4110073&quot;&gt;JACS&lt;/a&gt; and is implemented in the tool &lt;a href=&quot;https://github.com/WMD-group/MacroDensity&quot;&gt;MacroDensity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition to being involved in the first reports of metallic and semiconducting MOFs, a major development is a procedure to calculate the ionisation potentials, workfunctions, and band alignments of porous organic-inorganic frameworks. The procedure was first published in &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/ja4110073&quot;&gt;JACS&lt;/a&gt; and is implemented in the tool &lt;a href=&quot;https://github.com/WMD-group/MacroDensity&quot;&gt;MacroDensity&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;select-publications&quot;&gt;Select Publications&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742&quot;&gt;Metallic conductivity in a 2D cobalt dithiolene metal−organic framework (Journal of the American Chemical Society, 2017)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k&quot;&gt;Is iron unique in promoting electrical conductivity in MOFs? (Chemical Science, 2017)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -98,12 +98,6 @@ Our research combines electronic structure theory and universal forcefields to b
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc02199a&quot;&gt;Organised chaos: entropy in hybrid inorganic–organic systems and other materials (Chemical Science, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b01659&quot;&gt;Free energy of ligand removal in the metal-organic framework UiO-66 (Journal of Physical Chemistry C, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc01489a&quot;&gt;Chemical principles underpinning the performance of the metal–organic framework HKUST-1 (Chemical Science, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -127,9 +121,9 @@ Our research combines electronic structure theory and universal forcefields to b
         <description>&lt;p&gt;&lt;img src=&quot;/gifs/helix.gif&quot; alt=&quot;&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We are exploring the control of function and properties of materials away from equilibrium using a combination of external stimuli. 
-Applications include solid-state sensors and switches.
-We have a close connection with time-resolved crystallography through the EPSRC &lt;a href=&quot;http://www.metastable-materials.org.uk&quot;&gt;Applying Long-lived Metastable States with Switchable Functionality&lt;/a&gt; project.
-Our research into metastable materials is also supported by the &lt;a href=&quot;https://www.leverhulme.ac.uk/funding/grant-schemes/philip-leverhulme-prizes&quot;&gt;Philip Leverhulme Prize in Chemistry&lt;/a&gt;.&lt;/p&gt;
+Applications include solid-state sensors and switches, including next-generation molecular ferroelectric compounds.
+Our research into metastable materials is supported by the &lt;a href=&quot;https://www.leverhulme.ac.uk/funding/grant-schemes/philip-leverhulme-prizes&quot;&gt;Philip Leverhulme Prize in Chemistry&lt;/a&gt;, as well as the 
+EPSRC &lt;a href=&quot;http://www.metastable-materials.org.uk&quot;&gt;M&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; project.&lt;/p&gt;
 
 &lt;h2 id=&quot;optical-stimuli&quot;&gt;Optical stimuli&lt;/h2&gt;
 &lt;p&gt;including single-crystal phase transitions due to linkage isomerism.&lt;/p&gt;
@@ -150,6 +144,9 @@ artificial heterostructures and material composites.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-017-01941-2&quot;&gt;A rapidly-reversible absorptive and emissive vapochromic Pt(II) pincer-based chemical sensor (Nature Communications, 2017)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464&quot;&gt;Electroactive nanoporous metal oxides and chalcogenides by chemical design (Chemistry of Materials, 2017)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -157,12 +154,6 @@ artificial heterostructures and material composites.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c4fd00168k&quot;&gt;Electronic excitations in molecular solids: bridging theory and experiment (Faraday Discussions, 2015)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/acs.chemmater.5b00230&quot;&gt;Polymorph engineering of TiO&lt;sub&gt;2&lt;/sub&gt;: demonstrating how absolute reference potentials are determined by local coordination (Chemistry of Materials, 2015)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.nature.com/nchem/journal/v7/n4/full/nchem.2213.html&quot;&gt;The quest for new functionality (Nature Chemistry, 2015)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -211,6 +202,9 @@ We are involved in the application the multi-scale &lt;a href=&quot;http://www.c
 
 &lt;ul&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/nmat4973&quot;&gt;Instilling defect tolerance in new compounds (Nature Materials, 2017)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309&quot;&gt;Theory of ionization potentials of nonmetallic solids (Physical Review B, 2017)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -218,12 +212,6 @@ We are involved in the application the multi-scale &lt;a href=&quot;http://www.c
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1039/c5sc03088a&quot;&gt;A universal chemical potential for sulfur vapours (Chemical Science, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://xlink.rsc.org/?DOI=C5CS00841G&quot;&gt;Computational materials design of crystalline solids (Chemical Society Reviews, 2016)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502&quot;&gt;Anharmonicity in the high-temperature Cmcm phase of SnSe: soft modes and three-phonon interactions (Physical Review Letters, 2016)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
