@@ -80,6 +80,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [CASM](https://github.com/prisms-center/CASMcode) (alloy toolkit)
 * [CPLAP](https://github.com/jbuckeridge/cplap) (chemical potential space)
 * [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) (self-consistent concentrations)
+* [SOD](https://github.com/Grau-CrespoGroup/sod) (partial occupancy and solid-solutions)
 * [Transformer](https://github.com/JMSkelton/Transformer) (structure generator) 
 
 #### Charged defect corrections
