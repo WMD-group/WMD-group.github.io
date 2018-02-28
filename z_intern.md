@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: 인턴십
 permalink: /intern/
 ---
 
