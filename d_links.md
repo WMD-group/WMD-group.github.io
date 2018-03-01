@@ -45,8 +45,9 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [Disordered lead halide structures](https://github.com/jarvist/Disordered-MAPI-Phonons) (rotations and tilting)
 * [Hot carrier cooling](https://github.com/WMD-group/hot-carrier-cooling) (Electron-phonon interactions)
 * [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites) (DFT optimised structures)
-* [Starrynight](https://github.com/WMD-group/StarryNight) (Dipolar Monte Carlo code)
 * [SLMEtools](https://github.com/keeeto/SLMETools) (Photovoltaic efficiency esimation)
+* [Starrynight](https://github.com/WMD-group/StarryNight) (Dipolar Monte Carlo code)
+* [Solcore5](https://github.com/dalonsoa/solcore5) (Python library for solar cell modelling)
 
 ### Phonons
 
