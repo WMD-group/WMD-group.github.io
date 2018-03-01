@@ -43,6 +43,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 ### Halide Perovskites and Solar Energy
 
 * [Disordered lead halide structures](https://github.com/jarvist/Disordered-MAPI-Phonons) (rotations and tilting)
+* [Driftfusion](https://github.com/barnesgroupICL/Driftfusion) (Drift-diffusion code including ion transport)
 * [Hot carrier cooling](https://github.com/WMD-group/hot-carrier-cooling) (Electron-phonon interactions)
 * [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites) (DFT optimised structures)
 * [SLMEtools](https://github.com/keeeto/SLMETools) (Photovoltaic efficiency esimation)
