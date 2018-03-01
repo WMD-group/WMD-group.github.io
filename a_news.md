@@ -8,6 +8,14 @@ permalink: /news/
 
 * (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge), with funding from the [Faraday Institution](https://twitter.com/faradayinst) to commence in October 2018.
 
+### Preprints
+
+* "Assignment of multiband luminescence due to the gallium vacancy-oxygen defect complex in GaN" [arXiv (2018)](https://arxiv.org/abs/1802.10222)
+*#defects*
+
+* "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
+*#perovskites*
+
 ### February 2018
 
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
