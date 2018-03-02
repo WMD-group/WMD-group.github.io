@@ -16,6 +16,11 @@ permalink: /news/
 * "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
 *#perovskites*
 
+### March 2018
+
+* "Materials Discovery by Chemical Analogy: Role of Oxidation States in Structure Prediction" [Faraday Discussions (2018)](http://pubs.rsc.org/en/content/articlelanding/2014/FD/C8FD00032H#!divAbstract)
+*#design* 
+
 ### February 2018
 
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
@@ -33,7 +38,7 @@ permalink: /news/
 ### January 2018
 
 * "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
-*#solar*
+*#design*
 
 * "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
 *#perovskites*
