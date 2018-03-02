@@ -13,12 +13,15 @@ Keith, Katrine, Dan, and Lora are located in the [Department of Chemistry, Unive
 In addition to hosting visiting scientists, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance).
 Note that our group focuses solely on theory and simulation of materials.
 
-* [Imperial PhD Scholarship](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
-* [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
-* [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/)
-* [Newton fellowship](http://www.newtonfellowships.org/)
-* [EPSRC fellowship](https://www.epsrc.ac.uk/skills/fellows/areas/)
-* [1851 fellowship](http://www.royalcommission1851.org/awards/?award=research)
+### PhD funding
+* [Imperial PhD Scholarship (International)](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
+* [China Scholarship Council (China)](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
+* [Yoshida Scholarship Foundation (Japan)](http://www.ysf.or.jp/englishpage/index.html)
+
+### Postdoctoral funding 
+* [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/)
+* [Newton Fellowship](http://www.newtonfellowships.org/)
+* [EPSRC Fellowship](https://www.epsrc.ac.uk/skills/fellows/areas/)
 
 We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org) and the [UK Materials Design Network](http://mdn-uk.github.io).
 
