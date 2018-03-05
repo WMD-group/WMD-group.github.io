@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 인턴십
+title: 인턴모집
 permalink: /intern/
 ---
 
-연세대학교 신소재공학과 월쉬아론([Aron Walsh](http://www.imperial.ac.uk/people/a.walsh)) 교수님의 준안정재료설계연구실에서 인턴십 학생을 모집합니다.
+연세대학교 신소재공학과 월쉬아론([Aron Walsh](http://www.imperial.ac.uk/people/a.walsh)) 교수님의 준안정재료설계연구실에서 학부생 인턴연구원을 모집합니다.
 
 우리 연구실은 재료의 이론과 시뮬레이션을 기반으로 연구를 진행하고 있으며 특히 반도체 물질의 전자구조에 많은 관심이 있습니다. 본 인턴십은 한국연구재단의 페로브스카이트 태양전지 프로젝트로부터 지원될 것입니다.
 
