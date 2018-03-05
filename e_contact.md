@@ -8,7 +8,7 @@ For more information on our research, or if you are interested in collaboration,
 We are located at the [Department of Materials, Imperial College London](https://www.imperial.ac.uk/engineering/departments/materials/), which is in the Royal School of Mines on Exhibition Road.
 Also visit us on [GitHub](https://github.com/WMD-group) and [Speaker Deck](https://speakerdeck.com/aronwalsh).
 
-Keith, Katrine, Dan, and Lora are located in the [Department of Chemistry, University of Bath](http://www.bath.ac.uk/chemistry/). Visit them in Building 1 South, Room 1.14.
+Dan is located in the [Department of Chemistry, University of Bath](http://www.bath.ac.uk/chemistry/). Visit him in Building 1 South, Room 1.14.
 
 In addition to hosting visiting scientists, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance).
 Note that our group focuses solely on theory and simulation of materials.
