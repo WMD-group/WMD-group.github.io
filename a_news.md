@@ -10,6 +10,9 @@ permalink: /news/
 
 ### Preprints
 
+* "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
+*#perovskites*
+
 * "Assignment of multiband luminescence due to the gallium vacancy-oxygen defect complex in GaN" [arXiv (2018)](https://arxiv.org/abs/1802.10222)
 *#defects*
 
