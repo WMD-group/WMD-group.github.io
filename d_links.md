@@ -101,4 +101,6 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 ### Writing manuscripts
 
 * [doi2bib](http://www.doi2bib.org) (populate your bibtex)
+* [ffmpeg](https://www.ffmpeg.org) (audio and video editing) 
+* [imagemagik](https://www.imagemagick.org) (image editing) 
 * [mhchem](https://ctan.org/pkg/mhchem?lang=en) (fast chemical formulae in TeX)
