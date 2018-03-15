@@ -31,14 +31,14 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 ### Select Publications
 
+- [Identification of killer defects in kesterite thin-film solar cells (ACS Energy Letters, 2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
+
 - [Slow cooling of hot polarons in halide perovskite solar cells (ACS Energy Letters, 2017)](http://pubs.acs.org/doi/pdf/10.1021/acsenergylett.7b00862)
 
 - [The Steady Rise of Kesterite Solar Cells (ACS Energy Letters, 2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
-
-- [Indirect to Direct Bandgap Transition in Methylammonium Lead Halide Perovskite (Energy & Environmental Science, 2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/EE/C6EE03474H#!divAbstract) 
 
 - [What Is Moving in Hybrid Halide Perovskite Solar Cells? (Accounts of Chemical Research, 2016)](http://pubsdc3.acs.org/doi/abs/10.1021/acs.accounts.5b00431)
 
 <br>
 
-#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/), the [European Research Council](https://erc.europa.eu/) and [H2020](https://ec.europa.eu/programmes/horizon2020/)
+#### Funded by [EPSRC](http://gow.epsrc.ac.uk/NGBOViewPerson.aspx?PersonId=-250227), the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/university-research/), [H2020](https://ec.europa.eu/programmes/horizon2020/), and the [NRF](http://www.nrf.re.kr)
