@@ -33,8 +33,9 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Jacob Wilson]()
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
-### Visitors 
-- [Kazuki Morita](http://www.yasuoka.mech.keio.ac.jp/english/member.php) 
+### Undergraduate Interns  
+- [Yeseul Kim (김예슬)](https://www.yonsei.ac.kr)
+- [Wonbeom Lee (이원범)](https://www.yonsei.ac.kr)
 
 ### Former Members
 - [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
@@ -60,3 +61,4 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo (유수현)](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
 - [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
+- [Kazuki Morita](http://www.yasuoka.mech.keio.ac.jp/english/member.php) 
