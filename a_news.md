@@ -32,7 +32,7 @@ permalink: /news/
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
 *#solar*
 
-* "Intrinsic Instability of the Hybrid Halide Perovskite Semiconductor CH<sub>3</sub>NH<sub>3</sub>Pb<sub>3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) 
+* "Intrinsic Instability of the Hybrid Halide Perovskite Semiconductor CH<sub>3</sub>NH<sub>3</sub>Pb<sub>I3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) 
 [[arXiv (2015)](https://arxiv.org/abs/1506.01301)]
 *#perovskites*
 
