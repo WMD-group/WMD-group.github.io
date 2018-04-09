@@ -27,7 +27,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
-- [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
+- [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr. Laura Ratcliff](https://www.imperial.ac.uk/people/laura.ratcliff08)]
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Jacob Wilson]()
@@ -38,6 +38,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Wonbeom Lee (이원범)](https://www.yonsei.ac.kr)
 
 ### Former Members
+- [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
 - [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
 - [Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
