@@ -22,19 +22,24 @@ permalink: /news/
 * "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
 *#perovskites*
 
+### April 2018
+
+* "Critical Role of Water in Defect Aggregation and Chemical Degradation of Perovskite Solar Cells" [Journal of Physical Chemistry Letters (2018)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.8b00406) 
+*#perovskites*
+
 ### March 2018
 
 * "Materials Discovery by Chemical Analogy: Role of Oxidation States in Structure Prediction" [Faraday Discussions (2018)](http://pubs.rsc.org/en/content/articlelanding/2014/FD/C8FD00032H#!divAbstract)
 *#design* 
 
+* "Intrinsic Instability of the Hybrid Halide Perovskite Semiconductor CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) 
+[[arXiv (2015)](https://arxiv.org/abs/1506.01301)]
+*#perovskites*
+
 ### February 2018
 
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
 *#solar*
-
-* "Intrinsic Instability of the Hybrid Halide Perovskite Semiconductor CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) 
-[[arXiv (2015)](https://arxiv.org/abs/1506.01301)]
-*#perovskites*
 
 * We have contributed a Chapter on "Computational Design of Photovoltaic Materials" to a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov
 *#solar*
