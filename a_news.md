@@ -24,6 +24,9 @@ permalink: /news/
 
 ### April 2018
 
+* "Vacancy defect configurations in the metal–organic framework UiO-66: energetics and electronic structure" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2018/ta/c7ta11155j#!divAbstract)
+*#mofs*
+
 * "Critical Role of Water in Defect Aggregation and Chemical Degradation of Perovskite Solar Cells" [Journal of Physical Chemistry Letters (2018)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.8b00406) 
 *#perovskites*
 
