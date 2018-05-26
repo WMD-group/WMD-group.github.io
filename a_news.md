@@ -6,21 +6,32 @@ permalink: /news/
 
 ### Group Openings
 
-* (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge), with funding from the [Faraday Institution](https://twitter.com/faradayinst) to commence in October 2018.
+* (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge) with funding from the [Faraday Institution](https://twitter.com/faradayinst). Open to UK or EU students that meet [eligibility requirements](https://epsrc.ukri.org/skills/students/help/eligibility/). 
 
 ### Preprints
+
+* "Thermodynamically Limited Cu-Zn Order in Cu<sub>2</sub>ZnSnS<sub>4</sub> from Monte Carlo Simulations" [ChemRxiv (2018)](hhttps://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
+*#solar #czts*
 
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
 *#defects*
 
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
-*#perovskites*
+*#solar #perovskites*
 
 * "Assignment of multiband luminescence due to the gallium vacancy-oxygen defect complex in GaN" [arXiv (2018)](https://arxiv.org/abs/1802.10222)
 *#defects*
 
 * "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
-*#perovskites*
+*#solar #perovskites*
+
+### May 2018
+
+* "Deep vs shallow nature of oxygen vacancies and consequent n-type carrier concentrations in transparent conducting oxides" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.054604)
+*#oxides*
+
+* "Role of electron-phonon coupling and thermal expansion on band gaps, carrier mobility, and interfacial offsets in kesterite thin-film solar cells" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5028186)
+*#solar #czts*
 
 ### April 2018
 
@@ -28,7 +39,7 @@ permalink: /news/
 *#mofs*
 
 * "Critical Role of Water in Defect Aggregation and Chemical Degradation of Perovskite Solar Cells" [Journal of Physical Chemistry Letters (2018)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.8b00406) 
-*#perovskites*
+*#solar #perovskites*
 
 ### March 2018
 
@@ -37,12 +48,12 @@ permalink: /news/
 
 * "Intrinsic Instability of the Hybrid Halide Perovskite Semiconductor CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) 
 [[arXiv (2015)](https://arxiv.org/abs/1506.01301)]
-*#perovskites*
+*#solar #perovskites*
 
 ### February 2018
 
 * "Identification of Killer Defects in Kesterite Thin-Film Solar Cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
-*#solar*
+*#solar #czts*
 
 * We have contributed a Chapter on "Computational Design of Photovoltaic Materials" to a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov
 *#solar*
@@ -55,10 +66,10 @@ permalink: /news/
 *#design*
 
 * "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
-*#perovskites*
+*#solar #perovskites*
 
 * "Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)
-*#solar*
+*#solar #czts*
 
 ### December 2017
 
@@ -66,23 +77,23 @@ permalink: /news/
 *#mofs*
 
 * "How Strong Is the Hydrogen Bond in Hybrid Perovskites?" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/10.1021/acs.jpclett.7b03106)
-*#perovskites*
+*#solar #perovskites*
 
 ### November 2017
 
 * "H‐Center and V‐Center Defects in Hybrid Halide Perovskites" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00995)
-*#perovskites*
+*#solar #perovskites*
 
 * "Halide Perovskite Heteroepitaxy: Bond Formation and Carrier Confinement at the PbS-CsPbBr<sub>3</sub> Interface" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/10.1021/acs.jpcc.7b10000)
-*#perovskites*
+*#solar #perovskites*
 
 * "Low-frequency optical phonon modes and carrier mobility in the halide perovskite CH3NH3PbBr3 using terahertz time-domain spectroscopy" [Applied Physics Letters (2017)](http://aip.scitation.org/doi/full/10.1063/1.4993524)
-*#perovskites*
+*#solar #perovskites*
 
 ### October 2017
 
 * "Slow Cooling of Hot Polarons in Halide Perovskite Solar Cells" [ACS Energy Letters (2017)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b00862)
-*#perovskites*
+*#solar #perovskites*
 
 * "Revisiting the Incorporation of Ti(IV) in UiO-type Metal–Organic Frameworks: Metal Exchange versus Grafting and Their Implications on Photocatalysis" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/10.1021/acs.chemmater.7b03320)
 *#mofs*
@@ -93,7 +104,7 @@ permalink: /news/
 *#defects*
 
 * "Spontaneous Octahedral Tilting in the Cubic Inorganic Cesium Halide Perovskites CsSnX<sub>3</sub> and CsPbX<sub>3</sub> (X = F, Cl, Br, I)" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02423)
-*#solar*
+*#solar #perovskites*
 
 * "Anharmonic Origin of Giant Thermal Displacements in the Metal-Organic Framework UiO-67" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b04757)
 *#mofs*
@@ -120,7 +131,7 @@ permalink: /news/
 *#oxides*
 
 * "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
-*#solar*
+*#solar #perovskites*
 
 ### May 2017
 
@@ -134,7 +145,7 @@ permalink: /news/
 *#solar*
 
 * "Trimethylsulfonium lead triiodide: An air-stable hybrid halide perovskite" [Inorganic Chemistry (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00395)
-*#solar*
+*#solar #perovskites*
 
 ### April 2017
 
@@ -160,7 +171,7 @@ perovskites: From chemical structure to physical properties" [Chemistry of Mater
 *#solar*
 
 * "The steady rise of kesterite solar cells" [ACS Energy Letters (2017)](http://pubs.acs.org/articlesonrequest/AOR-DfQrdu9v4gxXNAJaDUMb)
-*#solar*
+*#solar #czts*
 
 * "Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor" [APL Materials (2017)](http://aip.scitation.org/doi/abs/10.1063/1.4977868)
 *#solar*
@@ -174,7 +185,7 @@ perovskites: From chemical structure to physical properties" [Chemistry of Mater
 *#mofs*
 
 * "Perovskite-inspired photovoltaic materials: Toward best practices in materials characterization and calculations" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03852) 
-*#solar*
+*#solar #perovskites*
 
 * "Designing porous electronic thin-film devices: Band offsets and heteroepitaxy" [Faraday Discussions (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/fd/c7fd00019g) 
 *#mofs*
@@ -182,7 +193,7 @@ perovskites: From chemical structure to physical properties" [Chemistry of Mater
 ### January 2017
 
 * "Indirect to direct bandgap transition in methylammonium lead halide perovskite" [Energy & Environmental Science (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/EE/C6EE03474H#!divAbstract) 
-*#solar*
+*#solar #perovskites*
 
 * "Quantifying thermal disorder in metal–organic frameworks: lattice dynamics and molecular dynamics simulations of hybrid formate perovskites" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b10714) 
 *#mofs*
