@@ -23,6 +23,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
+- [Hui Yang](https://www.london-nano.com/our-people/%5Bfield_people_section-raw%5D/hui-yang)
 
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
@@ -36,6 +37,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### Undergraduate Interns  
 - [Yeseul Kim (김예슬)](https://www.yonsei.ac.kr)
 - [Wonbeom Lee (이원범)](https://www.yonsei.ac.kr)
+- [Yongwon Woo (우용원)](http://www.meiji.ac.jp)
 
 ### Former Members
 - [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
