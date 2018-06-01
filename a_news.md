@@ -25,6 +25,11 @@ permalink: /news/
 * "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
 *#solar #perovskites*
 
+### June 2018
+
+* "Unusual Phase Transition Driven by Vibrational Entropy Changes in a Hybrid Organic‐Inorganic Perovskite" [Angenwadte Chemie (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
+*#mofs* #perovskites*
+
 ### May 2018
 
 * "Deep vs shallow nature of oxygen vacancies and consequent n-type carrier concentrations in transparent conducting oxides" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.054604)
