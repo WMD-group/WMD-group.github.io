@@ -10,18 +10,24 @@ Also visit us on [GitHub](https://github.com/WMD-group) and [Speaker Deck](https
 
 Dan is located in the [Department of Chemistry, University of Bath](http://www.bath.ac.uk/chemistry/). Visit him in Building 1 South, Room 1.14.
 
-In addition to hosting visiting scientists, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance).
+In addition to hosting visiting scientists, we are always keen to support early-career researchers, and there are a number of funding options (most require applications 6 -- 12 months in advance). 
+An extensive list can be found [here](https://asntech.github.io/postdoc-funding-schemes/).
 Note that our group focuses solely on theory and simulation of materials.
-
-### PhD funding
-* [Imperial PhD Scholarship (International)](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
-* [China Scholarship Council (China)](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
-* [Yoshida Scholarship Foundation (Japan)](http://www.ysf.or.jp/englishpage/index.html)
 
 ### Postdoctoral funding 
 * [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/)
 * [Newton Fellowship](http://www.newtonfellowships.org/)
-* [EPSRC Fellowship](https://www.epsrc.ac.uk/skills/fellows/areas/)
+* [UKRI Fellowship](https://epsrc.ukri.org/skills/fellows/areas/)
+* [Korean NRF](http://www.nrf.re.kr/biz/info/info/view?biz_no=235)
+
+### PhD funding
+* [Imperial President's PhD Scholarship (International)](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
+* [China Scholarship Council (China)](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
+* [Yoshida Scholarship Foundation (Japan)](http://www.ysf.or.jp/englishpage/index.html)
+
+### Centres for Doctoral Training
+* [Theory and Simulation of Materials](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
+* [Plastic Electronics](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/course/)
 
 We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org) and the [UK Materials Design Network](http://mdn-uk.github.io).
 
