@@ -27,7 +27,10 @@ permalink: /news/
 
 ### June 2018
 
-* "Unusual Phase Transition Driven by Vibrational Entropy Changes in a Hybrid Organic‐Inorganic Perovskite" [Angenwadte Chemie (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
+* "Point defect engineering in thin-film solar cells" [Nature Reviews Materials (2018)](https://www.nature.com/articles/s41578-018-0026-7)
+*#defects #solar*
+
+* "Unusual phase transition driven by vibrational entropy changes in a hybrid organic‐inorganic perovskite" [Angenwadte Chemie (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
 *#mofs* #perovskites*
 
 ### May 2018
