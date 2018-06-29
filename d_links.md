@@ -35,6 +35,7 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) (analysis of electrostatic potentials)
 * [QUESTAAL](https://www.questaal.org) (all-electron QSGW)
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) (band paths in the Brillouin zone)
+* [Sumo](https://github.com/SMTG-UCL/sumo) (Python plotting toolkit)
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
 * [VASPpy](https://github.com/bjmorgan/vasppy) (I/O tools)
 * [VASPsol](https://github.com/henniggroup/VASPsol) (implicit solvents)
@@ -75,7 +76,6 @@ Note: this list is not comprehensive, but contains tools we often employ, and so
 
 * [Phonons](https://github.com/WMD-group/Phonons) (Our group)
 * [Kyoto phonons](phonondb.mtl.kyoto-u.ac.jp) (Atsushi Togo)
-
 
 ### Point Defects and Solid Solutions 
 
