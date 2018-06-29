@@ -12,8 +12,8 @@ Aron studied at Trinity College Dublin (Ireland), and later held positions at th
 His interests in materials modelling cover the chemistry and physics of advanced materials, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
-![](/assets/groupday_2017.jpg){: .center-image }
-*<center>(Group research day - July 2017)</center>*
+![](/assets/groupday_2018.jpg){: .center-image }
+*<center>(Group research day - June 2018)</center>*
 
 ### Primary Investigator
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
@@ -28,15 +28,15 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
+- [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) 
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr. Laura Ratcliff](https://www.imperial.ac.uk/people/laura.ratcliff08)]
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
-- [Jacob Wilson]()
+- [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
 ### Undergraduate Interns  
-- [Yeseul Kim (김예슬)](https://www.yonsei.ac.kr)
-- [Wonbeom Lee (이원범)](https://www.yonsei.ac.kr)
+- [Susannah Lea](https://www.imperial.ac.uk/materials)
 - [Yongwon Woo (우용원)](http://www.meiji.ac.jp)
 
 ### Former Members
@@ -64,4 +64,3 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo (유수현)](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
 - [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
-- [Kazuki Morita](http://www.yasuoka.mech.keio.ac.jp/english/member.php) 
