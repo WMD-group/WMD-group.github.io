@@ -10,7 +10,7 @@ permalink: /news/
 
 ### Preprints
 
-* "Thermodynamically Limited Cu-Zn Order in Cu<sub>2</sub>ZnSnS<sub>4</sub> from Monte Carlo Simulations" [ChemRxiv (2018)](hhttps://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
+* "Thermodynamically Limited Cu-Zn Order in Cu<sub>2</sub>ZnSnS<sub>4</sub> from Monte Carlo Simulations" [ChemRxiv (2018)](https://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
 *#solar #czts*
 
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
