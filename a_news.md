@@ -10,6 +10,9 @@ permalink: /news/
 
 ### Preprints
 
+* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [arXiv (2018)](https://arxiv.org/abs/1807.06679)
+*#solar #perovskites*
+
 * "Thermodynamically Limited Cu-Zn Order in Cu<sub>2</sub>ZnSnS<sub>4</sub> from Monte Carlo Simulations" [ChemRxiv (2018)](https://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
 *#solar #czts*
 
@@ -19,19 +22,18 @@ permalink: /news/
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
 *#solar #perovskites*
 
-* "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [arXiv (2017)](https://arxiv.org/abs/1711.00533)
+### July 2018
+
+* "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [Physical Review B (2018)](https://arxiv.org/abs/1711.00533)
 *#solar #perovskites*
 
 ### June 2018
-
-* "Point defect engineering in thin-film solar cells" [Nature Reviews Materials (2018)](https://www.nature.com/articles/s41578-018-0026-7)
-*#defects #solar*
 
 * "Prediction of multiband luminescence due to the gallium vacancy–oxygen defect complex in GaN" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5026751)
 *#defects*
 
 * "Unusual phase transition driven by vibrational entropy changes in a hybrid organic‐inorganic perovskite" [Angenwadte Chemie (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
-*#mofs* #perovskites*
+*#mofs* *#perovskites*
 
 ### May 2018
 
