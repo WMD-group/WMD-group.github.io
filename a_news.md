@@ -29,6 +29,9 @@ permalink: /news/
 
 ### June 2018
 
+* "Point defect engineering in thin-film solar cells" [Nature Reviews Materials (2018)](https://www.nature.com/articles/s41578-018-0026-7)
+ -*#defects #solar*
+
 * "Prediction of multiband luminescence due to the gallium vacancy–oxygen defect complex in GaN" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5026751)
 *#defects*
 
