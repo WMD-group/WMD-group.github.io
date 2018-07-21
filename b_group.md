@@ -40,19 +40,19 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Yongwon Woo (우용원)](http://www.meiji.ac.jp)
 
 ### Former Members
-- [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
-- [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
-- [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
-- [Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
-- [Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
-- [Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
-- [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
-- [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
+- [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 - [Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
-- [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
+- [Federico Brivio](https://scholar.google.co.uk/citations?user=epCA0qoAAAAJ&hl=en)
+- [Jessica K. Bristow](https://scholar.google.co.uk/citations?user=wP_frhsAAAAJ&hl=en)
+- [E. Lora da Silva](https://scholar.google.co.uk/citations?user=VqvhWVoAAAAJ&hl=en)
+- [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
+- [Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
+- [Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
+- [Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
+- [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 
 ### Former Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)

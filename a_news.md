@@ -24,7 +24,10 @@ permalink: /news/
 
 ### July 2018
 
-* "Dynamic Symmetry Breaking and Spin Splitting in Metal Halide Perovskites" [Physical Review B (2018)](https://arxiv.org/abs/1711.00533)
+* "Taking control of ion transport in halide perovskite solar cells" [ACS Energy Letters (2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00764)
+*#solar #perovskites*
+
+* "Dynamic symmetry breaking and spin splitting in metal halide perovskites" [Physical Review B (2018)](https://arxiv.org/abs/1711.00533)
 *#solar #perovskites*
 
 ### June 2018
