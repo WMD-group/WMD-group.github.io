@@ -24,6 +24,9 @@ permalink: /news/
 
 ### July 2018
 
+* "Machine learning for molecular and materials science" [Nature (2018)](https://www.nature.com/articles/s41586-018-0337-2)
+*#design*
+
 * "Taking control of ion transport in halide perovskite solar cells" [ACS Energy Letters (2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00764)
 *#solar #perovskites*
 
