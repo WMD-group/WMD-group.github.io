@@ -10,6 +10,9 @@ permalink: /news/
 
 ### Preprints
 
+* "Quick-start guide for first-principles modelling of semiconductor interfaces" [arXiv (2018)](https://arxiv.org/abs/1808.00359)
+*#defects #perovskites*
+
 * "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [arXiv (2018)](https://arxiv.org/abs/1807.06679)
 *#solar #perovskites*
 
@@ -21,6 +24,11 @@ permalink: /news/
 
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
 *#solar #perovskites*
+
+### August 2018
+
+* "Breathing-Dependent Redox Activity in a Tetrathiafulvalene-Based Metal-Organic Framework" [Journal of the American Chemical Society (2018)](https://pubs.acs.org/doi/abs/10.1021/jacs.8b05890)
+*#mofs*
 
 ### July 2018
 
