@@ -4,12 +4,11 @@ title: Researchers
 permalink: /group/
 ---
 
-[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design and Royal Society University Research Fellow in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London. 
-He also Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University, Korea.
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
-His interests in materials modelling cover the chemistry and physics of advanced materials, including 
+His interests in materials modelling cover the chemistry and physics of functional solids, including 
 metal oxides, chalcogenides, halides, and metal-organic frameworks. 
 
 ![](/assets/groupday_2018.jpg){: .center-image }
@@ -27,6 +26,8 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 
 ### PhD Students
 - [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
+- [Matthias Golomb]()
+- [Liam Harnett]()
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) 
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr. Laura Ratcliff](https://www.imperial.ac.uk/people/laura.ratcliff08)]
@@ -63,4 +64,4 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
 - [Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
 - [Su-Hyun Yoo (유수현)](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
-- [Zijuan Xie](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201600445/abstract) 
+- [Zijuan Xie](https://scholar.google.co.uk/citations?user=YXVgU-IAAAAJ&hl=en&oi=ao) 
