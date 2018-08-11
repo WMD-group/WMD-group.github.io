@@ -10,7 +10,7 @@ Also see
 [Mendeley](https://www.mendeley.com/profiles/aron-walsh/),
 or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
-![](/assets/acr-2016.jpg) ![](/assets/jmcc-2016.jpg) 
+![](/assets/el-2018.jpg) ![](/assets/acr-2016.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) ![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) 
 
