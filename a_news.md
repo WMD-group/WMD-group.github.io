@@ -30,15 +30,15 @@ permalink: /news/
 * "Breathing-Dependent Redox Activity in a Tetrathiafulvalene-Based Metal-Organic Framework" [Journal of the American Chemical Society (2018)](https://pubs.acs.org/doi/abs/10.1021/jacs.8b05890)
 *#mofs*
 
+* "Dynamic symmetry breaking and spin splitting in metal halide perovskites" [Physical Review B (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.085108)
+*#solar #perovskites*
+
 ### July 2018
 
 * "Machine learning for molecular and materials science" [Nature (2018)](https://www.nature.com/articles/s41586-018-0337-2)
 *#design*
 
 * "Taking control of ion transport in halide perovskite solar cells" [ACS Energy Letters (2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00764)
-*#solar #perovskites*
-
-* "Dynamic symmetry breaking and spin splitting in metal halide perovskites" [Physical Review B (2018)](https://arxiv.org/abs/1711.00533)
 *#solar #perovskites*
 
 ### June 2018
