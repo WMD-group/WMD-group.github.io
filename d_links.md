@@ -32,6 +32,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 ### Machine Learning for Materials 
 
 * [Gaussian Approximation Potentials](http://www.libatoms.org/Home/Software)
+* [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 
 ### Crystal Structure Prediction
