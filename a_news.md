@@ -30,6 +30,12 @@ permalink: /news/
 * "The 2018 Materials by Design Roadmap" [Journal of Physics D: Applied Physics (2018)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926)
 *#design*
 
+* "Giant Electron−Phonon Coupling and Deep Conduction Band Resonance in Metal Halide Double Perovskite" [ACS Nano (2018)](https://pubs.acs.org/doi/10.1021/acsnano.8b02936)
+*#solar #perovskites*
+
+* "Heterometallic perovskite-type metal–organic framework with an ammonium cation: structure, phonons, and optical response of [NH<sub>4</sub>]Na<sub>0.5</sub>Cr<sub>x</sub>Al<sub>0.5−x</sub>(HCOO)<sub>3</sub> (x = 0, 0.025 and 0.5)" [PCCP (2018)](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03788d#!divAbstract)
+*#mofs*
+
 ### August 2018
 
 * "Breathing-Dependent Redox Activity in a Tetrathiafulvalene-Based Metal-Organic Framework" [Journal of the American Chemical Society (2018)](https://pubs.acs.org/doi/abs/10.1021/jacs.8b05890)
