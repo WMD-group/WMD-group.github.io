@@ -39,6 +39,8 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### Undergraduate Interns  
 - [Susannah Lea](https://www.imperial.ac.uk/materials)
 - [Yongwon Woo (우용원)](http://www.meiji.ac.jp)
+- [Mingkyung Baek (백민경)](http://mse.yonsei.ac.kr) 
+- [Julee Kim (김주리)](http://mse.yonsei.ac.kr)
 
 ### Former Members
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
