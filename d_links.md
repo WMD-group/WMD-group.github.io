@@ -53,6 +53,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 
 #### Processing Tools
 
+* [BAPT](https://github.com/utf/bapt) (easy band alignment plots)
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening)
 * [Galore](https://github.com/SMTG-UCL/galore) (simulating spectra)
 * [kgrid](https://github.com/WMD-group/kgrid) (consistent k-point sampling)
