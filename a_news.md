@@ -28,6 +28,11 @@ permalink: /news/
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
 *#solar #perovskites*
 
+### October 2018
+
+* "Oxidation states and ionicity" [Nature Materials (2018)](https://doi.org/10.1038/s41563-018-0165-7)
+*#design*
+
 ### September 2018
 
 * "The 2018 Materials by Design Roadmap" [Journal of Physics D: Applied Physics (2018)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926)
