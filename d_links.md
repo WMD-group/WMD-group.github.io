@@ -59,6 +59,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 * [kgrid](https://github.com/WMD-group/kgrid) (consistent k-point sampling)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) (analysis of electrostatic potentials)
 * [QUESTAAL](https://www.questaal.org) (all-electron QSGW)
+* [PIEFACE](https://github.com/jcumby/PIEFACE) (structure analysis)
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) (band paths in the Brillouin zone)
 * [Sumo](https://github.com/SMTG-UCL/sumo) (Python plotting toolkit)
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
