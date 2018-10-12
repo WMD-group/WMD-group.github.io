@@ -35,13 +35,17 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 
+### Masters Students
+- [James Surya]()
+- [Abigail Toh]()
+
 ### Undergraduate Interns  
 - [Susannah Lea](https://www.imperial.ac.uk/materials)
 - [Yongwon Woo (우용원)](http://www.meiji.ac.jp)
 - [Mingkyung Baek (백민경)](http://mse.yonsei.ac.kr) 
 - [Julee Kim (김주리)](http://mse.yonsei.ac.kr)
 
-### Former Members
+### Past Members
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 - [Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
@@ -57,7 +61,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
 
-### Former Visitors
+### Past Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
 - [Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
 - [Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
