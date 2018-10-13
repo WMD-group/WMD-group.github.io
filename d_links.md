@@ -87,6 +87,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 
 #### Processing Tools
 
+* [ELATE](http://progs.coudert.name/elate) (elastic tensor analysis) 
 * [IR and Raman spectra](https://github.com/JMSkelton/Phonopy-Spectroscopy) (calculated intensities)
 * [Julia-Phonons](https://github.com/jarvist/Julia-Phonons) (various tools)
 * [Modemap](https://github.com/JMSkelton/ModeMap) (analysis of potential energy surfaces)
