@@ -33,6 +33,9 @@ permalink: /news/
 * "Oxidation states and ionicity" [Nature Materials (2018)](https://doi.org/10.1038/s41563-018-0165-7)
 *#design*
 
+* "Stability and electronic properties of planar defects in quaternary I<sub>2</sub>-II-IV-VI<sub>2</sub> semiconductors" [Journal of Applied Physics (2018)](https://aip.scitation.org/doi/10.1063/1.5053424)
+*#solar 
+
 ### September 2018
 
 * "The 2018 Materials by Design Roadmap" [Journal of Physics D: Applied Physics (2018)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926)
