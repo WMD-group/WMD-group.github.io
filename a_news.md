@@ -10,11 +10,8 @@ permalink: /news/
 
 ### Preprints
 
-* "Quick-start guide for first-principles modelling of semiconductor interfaces" [arXiv (2018)](https://arxiv.org/abs/1808.00359)
-*#defects #perovskites*
-
-* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [arXiv (2018)](https://arxiv.org/abs/1807.06679)
-*#solar #perovskites*
+* "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [arXiv (2018)](https://arxiv.org/abs/1810.13219)
+*#solar #czts*
 
 * "Thermodynamically Limited Cu-Zn Order in Cu<sub>2</sub>ZnSnS<sub>4</sub> from Monte Carlo Simulations" [ChemRxiv (2018)](https://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
 *#solar #czts*
@@ -27,6 +24,14 @@ permalink: /news/
 
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
 *#solar #perovskites*
+
+### November 2018
+
+* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](https://arxiv.org/abs/1807.06679)
+*#solar #perovskites*
+
+* "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2018)](https://arxiv.org/abs/1808.00359)
+*#defects #perovskites*
 
 ### October 2018
 
