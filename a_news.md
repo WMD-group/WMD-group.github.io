@@ -10,6 +10,9 @@ permalink: /news/
 
 ### Preprints
 
+* "Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials" [arXiv (2018)](https://arxiv.org/abs/1811.02281)
+*#solar #perovskites*
+
 * "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [arXiv (2018)](https://arxiv.org/abs/1810.13219)
 *#solar #czts*
 
@@ -27,7 +30,7 @@ permalink: /news/
 
 ### November 2018
 
-* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](https://arxiv.org/abs/1807.06679)
+* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](http://www.pnas.org/content/early/2018/11/05/1812227115)
 *#solar #perovskites*
 
 * "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2018)](https://arxiv.org/abs/1808.00359)

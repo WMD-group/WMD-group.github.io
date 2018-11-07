@@ -55,6 +55,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 
 * [BAPT](https://github.com/utf/bapt) (easy band alignment plots)
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening)
+* [Effmass](https://github.com/lucydot/effmass) (effective masses)
 * [Galore](https://github.com/SMTG-UCL/galore) (simulating spectra)
 * [kgrid](https://github.com/WMD-group/kgrid) (consistent k-point sampling)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) (analysis of electrostatic potentials)
