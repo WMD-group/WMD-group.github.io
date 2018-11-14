@@ -33,8 +33,8 @@ permalink: /news/
 * "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](http://www.pnas.org/content/early/2018/11/05/1812227115)
 *#solar #perovskites*
 
-* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](http://www.pnas.org/content/early/2018/11/05/1812227115)
-*#solar #perovskites*
+* "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2018)](https://arxiv.org/abs/1808.00359)
+ *#defects #perovskites*
 
 * "Hydrogen Bonding versus Entropy: Revealing the Underlying Thermodynamics of the Hybrid Organic–Inorganic Perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>" [Chemistry of Materials (2018)](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b031649)
 *#phonons #perovskites*
