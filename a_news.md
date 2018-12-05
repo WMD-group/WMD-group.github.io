@@ -33,7 +33,7 @@ permalink: /news/
 * "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2019)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
  *#defects #perovskites*
   
-* "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub>  solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TA/C8TA04812F#)
+* "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TA/C8TA04812F#)
 *#solar #czts*
 
 ### December 2018
@@ -43,6 +43,9 @@ permalink: /news/
 
 * "Perspective: Dielectric and Ferroic Properties of Metal Halide Perovskites" [APL Materials (2018)](https://arxiv.org/abs/1811.01832)
 *#solar #perovskites*
+
+* "Open-circuit voltage deficit in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells by interface bandgap narrowing" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5063793)
+*#solar #czts*
 
 ### November 2018
 
