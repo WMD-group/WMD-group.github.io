@@ -32,14 +32,14 @@ permalink: /news/
 
 * "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2019)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
  *#defects #perovskites*
+  
+* "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub>  solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TA/C8TA04812F#)
+*#solar #czts*
 
 ### December 2018
 
 * We made our first appearance in the [Highly Cited Researchers 2018](https://hcr.clarivate.com) list.
 ![](/assets/hcr-2018.jpg){: .center-image }
-
-* "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub>  solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2018)](https://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04812F#!divAbstract)
-*#solar #czts*
 
 * "Perspective: Dielectric and Ferroic Properties of Metal Halide Perovskites" [APL Materials (2018)](https://arxiv.org/abs/1811.01832)
 *#solar #perovskites*
