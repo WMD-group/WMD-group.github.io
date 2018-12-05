@@ -16,9 +16,6 @@ permalink: /news/
 * "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [arXiv (2018)](https://arxiv.org/abs/1810.13219)
 *#solar #czts*
 
-* "Order-disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub>  solar cells from Monte Carlo simulations" [ChemRxiv (2018)](https://chemrxiv.org/articles/Thermodynamically_Limited_Cu-Zn_Order_in_Cu2ZnSnS4_from_Monte_Carlo_Simulations/6326021)
-*#solar #czts*
-
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
 *#defects*
 
@@ -28,15 +25,31 @@ permalink: /news/
 * "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
 *#solar #perovskites*
 
-### November 2018
+### January 2019
 
-* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](http://www.pnas.org/content/early/2018/11/05/1812227115)
-*#solar #perovskites*
+* "The 2019 materials by design roadmap" [Journal of Physics D: Applied Physics (2019)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926/pdf)
+*#design*
 
 * "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2018)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
  *#defects #perovskites*
 
-* "Hydrogen Bonding versus Entropy: Revealing the Underlying Thermodynamics of the Hybrid Organic–Inorganic Perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>" [Chemistry of Materials (2018)](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b031649)
+### December 2018
+
+* We made our first appearance in the [Highly Cited Researchers 2018](https://hcr.clarivate.com) list.
+![](/assets/hcr-2018.jpg){: .center-image }
+
+* "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub>  solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2018)](https://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04812F#!divAbstract)
+*#solar #czts*
+
+* "Perspective: Dielectric and Ferroic Properties of Metal Halide Perovskites" [APL Materials (2018)](https://arxiv.org/abs/1811.01832)
+*#solar #perovskites*
+
+### November 2018
+
+* "Acoustic Phonon Lifetimes Limit Thermal Transport in Methylammonium Lead Iodide"  [PNAS (2018)](http://www.pnas.org/content/115/47/11905)
+*#solar #perovskites*
+
+* "Hydrogen Bonding versus Entropy: Revealing the Underlying Thermodynamics of the Hybrid Organic–Inorganic Perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>" [Chemistry of Materials (2018)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164)
 *#phonons #perovskites*
 
 ### October 2018
@@ -48,9 +61,6 @@ permalink: /news/
 *#solar 
 
 ### September 2018
-
-* "The 2018 Materials by Design Roadmap" [Journal of Physics D: Applied Physics (2018)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926)
-*#design*
 
 * "Giant Electron−Phonon Coupling and Deep Conduction Band Resonance in Metal Halide Double Perovskite" [ACS Nano (2018)](https://pubs.acs.org/doi/10.1021/acsnano.8b02936)
 *#solar #perovskites*
