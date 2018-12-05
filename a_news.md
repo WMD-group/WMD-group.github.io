@@ -30,7 +30,7 @@ permalink: /news/
 * "The 2019 materials by design roadmap" [Journal of Physics D: Applied Physics (2019)](http://iopscience.iop.org/article/10.1088/1361-6463/aad926/pdf)
 *#design*
 
-* "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2018)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
+* "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2019)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
  *#defects #perovskites*
 
 ### December 2018
