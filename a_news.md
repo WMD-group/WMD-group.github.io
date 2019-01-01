@@ -11,7 +11,7 @@ permalink: /news/
 ### Group News
 
 * Keith Butler's work on the competition between [enthalpy and entropy in hybrid halide perovskites](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164) is featured on the cover of Chemistry of Materials. 
-![](/assets/com-2018.jpg){: .center-image }
+![](/assets/com-2018-lg.jpg){: .center-image }
 
 * We made our first appearance in the [Highly Cited Researchers 2018](https://hcr.clarivate.com) list.
 ![](/assets/hcr-2018.jpg){: .center-image }
