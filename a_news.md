@@ -4,11 +4,11 @@ title: News
 permalink: /news/
 ---
 
-### Group Openings
+### Openings
 
 * (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge) with funding from the [Faraday Institution](https://twitter.com/faradayinst). Open to UK or EU students that meet [eligibility requirements](https://epsrc.ukri.org/skills/students/help/eligibility/). 
 
-### Group News
+### Updates
 
 * Keith Butler's work on the competition between [enthalpy and entropy in hybrid halide perovskites](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164) is featured on the cover of Chemistry of Materials. 
 ![](/assets/com-2018-lg.jpg){: .center-image }
@@ -18,7 +18,7 @@ permalink: /news/
 
 * 2018 was a busy year for postgraduates: Ruoxi Yang was awarded her PhD and moved to [Molecular Foundry](http://foundry.lbl.gov); Daniel Davies passed his PhD viva and was awarded an EPSRC Doctoral Prize Fellowship; while Suzanne Wallace submitted her thesis and is preparing for the defence. 
 
-### Group Research
+### Research
 
 #### Preprints
 
@@ -145,8 +145,6 @@ permalink: /news/
 
 * We have contributed a Chapter on "Computational Design of Photovoltaic Materials" to a new RSC book [Computational Materials Discovery](https://www.amazon.co.uk/Computational-Materials-Discovery-Artem-Oganov/dp/1782629610) edited by Artem Oganov
 *#solar*
-
-![](/assets/rsc-2018.jpg){: .center-image }
 
 #### January 2018
 
