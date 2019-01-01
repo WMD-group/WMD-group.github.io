@@ -31,17 +31,17 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) 
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr. Laura Ratcliff](https://www.imperial.ac.uk/people/laura.ratcliff08)]
-- [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
+- [Young Won Woo (우용원)](http://www.meiji.ac.jp)
 
 ### Masters Students
-- [James Surya]()
-- [Abigail Toh]()
+- [James Surya](https://www.imperial.ac.uk/materials)
+- [Abigail Toh](https://www.imperial.ac.uk/materials)
+- [Nicholas Twyman](https://www.imperial.ac.uk/materials)
 
 ### Undergraduate Interns  
 - [Susannah Lea](https://www.imperial.ac.uk/materials)
-- [Young Won Woo (우용원)](http://www.meiji.ac.jp)
 - [Mingkyung Baek (백민경)](http://mse.yonsei.ac.kr) 
 - [Julee Kim (김주리)](http://mse.yonsei.ac.kr)
 
@@ -60,6 +60,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Katrine L. Svane](https://scholar.google.co.uk/citations?user=1x7ZtTEAAAAJ&hl=en)
 - [Jarvist M. Frost](https://scholar.google.co.uk/citations?user=qNlfsFEAAAAJ&hl=en)
 - [Ruo Xi Yang](https://scholar.google.co.uk/citations?user=Il_KFS8AAAAJ&hl=en)
+- [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 
 ### Past Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)

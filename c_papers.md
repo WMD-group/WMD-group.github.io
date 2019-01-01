@@ -10,6 +10,8 @@ Also see
 [Zotero](https://www.zotero.org/aronwalsh),
 or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
+![](/assets/com-2018.jpg) 
+
 ![](/assets/el-2018.jpg) ![](/assets/acr-2016.jpg) ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) 
 
 ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) ![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) 
