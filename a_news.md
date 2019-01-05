@@ -6,7 +6,7 @@ permalink: /news/
 
 ### Openings
 
-* (PhD studentship) *Materials modelling of electron trapping in lithium ion batteries* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge) with funding from the [Faraday Institution](https://twitter.com/faradayinst). Open to UK or EU students that meet [eligibility requirements](https://epsrc.ukri.org/skills/students/help/eligibility/). 
+* (2019 Faraday Institution PhD Studentship) *Microscopic origin of charge trapping in lithium battery electrodes* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge) with funding from the [Faraday Institution](https://twitter.com/faradayinst). It will combine elements of electronic structure theory and machine learning. Open to UK or EU students that meet [eligibility requirements](https://epsrc.ukri.org/skills/students/help/eligibility/). Closing date 31st January 2019 with a start date of October 2019.
 
 ### Updates
 
