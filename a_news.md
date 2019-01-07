@@ -49,10 +49,10 @@ permalink: /news/
 *#solar #czts*
 
 * "Accelerated optimization of transparent, amorphous zinc-tin-oxide thin films for optoelectronic applications" [APL Materials (2019)](https://doi.org/10.1063/1.5053683)
-*#design* #tco*
+*#design #tco*
 
 * "Identification of lone pair surface states on indium oxide" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08623)
-*#defects* #tco*
+*#defects #tco*
 
 #### December 2018
 
