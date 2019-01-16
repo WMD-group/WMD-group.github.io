@@ -34,8 +34,13 @@ permalink: /news/
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
-* "Local Strain Heterogeneity Influences the Optoelectronic Properties of Halide Perovskites" [arXiv (2018)](https://arxiv.org/abs/1803.01192)
+#### February 2019
+
+* "Lattice strain causes non-radiative losses in halide perovskites" [Energy and Environmental Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ee/c8ee02751j)
 *#solar #perovskites*
+
+* "Identification of lone pair surface states on indium oxide" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08623)
+*#defects #tco*
 
 #### January 2019
 
@@ -50,9 +55,6 @@ permalink: /news/
 
 * "Accelerated optimization of transparent, amorphous zinc-tin-oxide thin films for optoelectronic applications" [APL Materials (2019)](https://doi.org/10.1063/1.5053683)
 *#design #tco*
-
-* "Identification of lone pair surface states on indium oxide" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08623)
-*#defects #tco*
 
 #### December 2018
 
