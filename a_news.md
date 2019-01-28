@@ -39,6 +39,9 @@ permalink: /news/
 * "Lattice strain causes non-radiative losses in halide perovskites" [Energy and Environmental Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ee/c8ee02751j)
 *#solar #perovskites*
 
+* "Perspective: Dielectric and Ferroic Properties of Metal Halide Perovskites" [APL Materials (2019)](https://aip.scitation.org/doi/10.1063/1.5079633)
+*#solar #perovskites*
+
 * "Identification of lone pair surface states on indium oxide" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b08623)
 *#defects #tco*
 
@@ -57,9 +60,6 @@ permalink: /news/
 *#design #tco*
 
 #### December 2018
-
-* "Perspective: Dielectric and Ferroic Properties of Metal Halide Perovskites" [APL Materials (2018)](https://arxiv.org/abs/1811.01832)
-*#solar #perovskites*
 
 * "Open-circuit voltage deficit in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells by interface bandgap narrowing" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5063793)
 *#solar #czts*
