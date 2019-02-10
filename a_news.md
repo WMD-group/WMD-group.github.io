@@ -6,14 +6,16 @@ permalink: /news/
 
 ### Openings
 
-* (2019 Faraday Institution PhD Studentship) *Microscopic origin of charge trapping in lithium battery electrodes* under the supervision of Prof. Aron Walsh (Imperial College) and Prof. Clare Grey (Cambridge) with funding from the [Faraday Institution](https://twitter.com/faradayinst). It will combine elements of electronic structure theory and machine learning. Open to UK or EU students that meet [eligibility requirements](https://epsrc.ukri.org/skills/students/help/eligibility/). Closing date 31st January 2019 with a start date of October 2019.
+* None at the moment.
 
 ### Updates
+
+* Ji-Sang and Aron wrote a News & Views piece entitled [Embrace your defects](https://www.nature.com/articles/s41560-019-0329-y) in Nature Energy on doping of perovskite solar cells. 
 
 * Keith Butler's work on the competition between [enthalpy and entropy in hybrid halide perovskites](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164) is featured on the cover of Chemistry of Materials. 
 ![](/assets/com-2018-lg.jpg){: .center-image }
 
-* We made our first appearance in the [Highly Cited Researchers 2018](https://hcr.clarivate.com) list.
+* We made our first appearance in the [Highly Cited Researchers](https://hcr.clarivate.com) list.
 ![](/assets/hcr-2018.jpg){: .center-image }
 
 * 2018 was a busy year for postgraduates: Ruoxi Yang was awarded her PhD and moved to [Molecular Foundry](http://foundry.lbl.gov); Daniel Davies passed his PhD viva and was awarded an EPSRC Doctoral Prize Fellowship; while Suzanne Wallace submitted her thesis and is preparing for the defence. 
@@ -25,14 +27,19 @@ permalink: /news/
 * "Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials" [arXiv (2018)](https://arxiv.org/abs/1811.02281)
 *#solar #perovskites*
 
-* "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [arXiv (2018)](https://arxiv.org/abs/1810.13219)
-*#solar #czts*
-
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
 *#defects*
 
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
+
+#### March 2019
+
+* "Living in the salt-cocrystal continuum: Indecisive organic complexes with thermochromic behaviour" [CrystEngComm (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CE/C8CE02066C#!divAbstract)
+*#metastable*
+
+* "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [Journal of Applied Physics (2019)](https://aip.scitation.org/doi/10.1063/1.5079485)
+*#solar*
 
 #### February 2019
 
