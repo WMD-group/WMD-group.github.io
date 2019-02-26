@@ -24,9 +24,6 @@ permalink: /news/
 
 #### Preprints
 
-* "Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials" [arXiv (2018)](https://arxiv.org/abs/1811.02281)
-*#solar #perovskites*
-
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
 *#defects*
 
@@ -34,6 +31,9 @@ permalink: /news/
 *#phonons #2d*
 
 #### March 2019
+
+* "Impact of nonparabolic electronic band structure on the optical and transport properties of photovoltaic materials" [Physical Review B (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085207)
+*#solar #perovskites*
 
 * "Living in the salt-cocrystal continuum: Indecisive organic complexes with thermochromic behaviour" [CrystEngComm (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CE/C8CE02066C#!divAbstract)
 *#metastable*
