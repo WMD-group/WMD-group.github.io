@@ -41,6 +41,9 @@ permalink: /news/
 * "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [Journal of Applied Physics (2019)](https://aip.scitation.org/doi/10.1063/1.5079485)
 *#solar*
 
+* "Stability and flexibility of heterometallic formate perovskites with the dimethylammonium cation: pressure-induced phase transitions	" [PCCP (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp07131d#!divAbstract)
+*#mofs*
+
 #### February 2019
 
 * "Lattice strain causes non-radiative losses in halide perovskites" [Energy and Environmental Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ee/c8ee02751j)
