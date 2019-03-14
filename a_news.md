@@ -30,6 +30,12 @@ permalink: /news/
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
+#### April 2019
+
+* "Low-dimensional formamidinium lead perovskite architectures via controllable solvent intercalation" [Journal of
+Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TC/C9TC00379G#!divAbstract)
+*#solar #perovskites*
+
 #### March 2019
 
 * "Impact of nonparabolic electronic band structure on the optical and transport properties of photovoltaic materials" [Physical Review B (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085207)
