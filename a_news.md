@@ -12,13 +12,13 @@ permalink: /news/
 
 * Ji-Sang and Aron wrote a News & Views piece entitled [Embrace your defects](https://www.nature.com/articles/s41560-019-0329-y) in Nature Energy on doping of perovskite solar cells. 
 
+* Aron contributed to [Charting a course for chemistry](https://www.nature.com/articles/s41557-019-0236-7) in Nature Chemistry to celebrate their 10th anniversary and future directions in the field.
+
 * Keith Butler's work on the competition between [enthalpy and entropy in hybrid halide perovskites](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164) is featured on the cover of Chemistry of Materials. 
 ![](/assets/com-2018-lg.jpg){: .center-image }
 
 * We made our first appearance in the [Highly Cited Researchers](https://hcr.clarivate.com) list.
 ![](/assets/hcr-2018.jpg){: .center-image }
-
-* 2018 was a busy year for postgraduates: Ruoxi Yang was awarded her PhD and moved to [Molecular Foundry](http://foundry.lbl.gov); Daniel Davies passed his PhD viva and was awarded an EPSRC Doctoral Prize Fellowship; while Suzanne Wallace submitted her thesis and is preparing for the defence. 
 
 ### Research
 
@@ -32,8 +32,14 @@ permalink: /news/
 
 #### April 2019
 
+* "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
+*#solar #perovskites*
+
 * "Low-dimensional formamidinium lead perovskite architectures via controllable solvent intercalation" [Journal of
 Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TC/C9TC00379G#!divAbstract)
+*#solar #perovskites*
+
+* "Vacancy-Driven Stabilization of the Cubic Perovskite Polymorph of CsPbI<sub>3</sub>" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b01552)
 *#solar #perovskites*
 
 #### March 2019
