@@ -32,7 +32,7 @@ permalink: /news/
 
 #### April 2019
 
-* "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of Physical Chemistry C (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
+* "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
 *#solar #perovskites*
 
 * "Low-dimensional formamidinium lead perovskite architectures via controllable solvent intercalation" [Journal of
