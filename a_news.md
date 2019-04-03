@@ -25,6 +25,7 @@ permalink: /news/
 #### Preprints
 
 * "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
+*#defects*
 
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
 *#defects*
