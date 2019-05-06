@@ -24,19 +24,31 @@ permalink: /news/
 
 #### Preprints
 
-* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
-*#defects*
+* "Accumulation of Deep Traps at Grain Boundaries in Halide Perovskites" [ChemRxiv (2019)](https://chemrxiv.org/articles/Accumulation_of_Deep_Traps_at_Grain_Boundaries_in_Halide_Perovskites/8058413/1)
+*#solar #perovskites #defects*
 
-* "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [arXiv (2018)](https://arxiv.org/abs/1803.06273)
-*#defects*
+* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning
+" [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
+*#design #solar*
+
+* "Intrinsic doping limit and defect-assisted luminescence in Cs4PbBr6" [ChemRxiv (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
+*#solar #perovskites #defects*
+
+* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
+*#solar #defects*
 
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
-#### April 2019
+#### May 2019
+
+* "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019))](https://arxiv.org/abs/1803.06273)
+*#defects*
 
 * "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
 *#solar #perovskites*
+
+#### April 2019
 
 * "Low-dimensional formamidinium lead perovskite architectures via controllable solvent intercalation" [Journal of
 Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TC/C9TC00379G#!divAbstract)
