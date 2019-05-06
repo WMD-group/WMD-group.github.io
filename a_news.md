@@ -31,7 +31,7 @@ permalink: /news/
 " [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
 *#design #solar*
 
-* "Intrinsic doping limit and defect-assisted luminescence in Cs4PbBr6" [ChemRxiv (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
+* "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
 *#solar #perovskites #defects*
 
 * "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
@@ -42,7 +42,7 @@ permalink: /news/
 
 #### May 2019
 
-* "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019))](https://arxiv.org/abs/1803.06273)
+* "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019)](https://arxiv.org/abs/1803.06273)
 *#defects*
 
 * "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
