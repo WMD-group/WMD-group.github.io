@@ -8,7 +8,7 @@ permalink: /news/
 
 * None at the moment.
 
-### Updates
+### Highlights 
 
 * Ji-Sang and Aron wrote a News & Views piece entitled [Embrace your defects](https://www.nature.com/articles/s41560-019-0329-y) in Nature Energy on doping of perovskite solar cells. 
 
@@ -24,9 +24,6 @@ permalink: /news/
 
 #### Preprints
 
-* "Accumulation of Deep Traps at Grain Boundaries in Halide Perovskites" [ChemRxiv (2019)](https://chemrxiv.org/articles/Accumulation_of_Deep_Traps_at_Grain_Boundaries_in_Halide_Perovskites/8058413/1)
-*#solar #perovskites #defects*
-
 * "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning
 " [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
 *#design #solar*
@@ -41,6 +38,9 @@ permalink: /news/
 *#phonons #2d*
 
 #### May 2019
+
+* "Accumulation of Deep Traps at Grain Boundaries in Halide Perovskites" [ACS Energy Letters (2019)](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00840)
+*#solar #perovskites #defects*
 
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019)](https://arxiv.org/abs/1803.06273)
 *#defects*
