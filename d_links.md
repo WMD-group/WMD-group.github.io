@@ -6,7 +6,7 @@ permalink: /links/
 
 ## Materials Design Toolkit
 
-Note: this list is not comprehensive, but contains tools we use and some we develop
+Note: this list is not comprehensive, but contains tools we use, some we like, and others that we develop
 
 ### Databases and Simulation Frameworks
 
@@ -27,10 +27,12 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 
 * [CSD](http://cds.rsc.org) (organic)
 * [ICSD](http://cds.rsc.org) (inorganic)
+* [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 
 ### Machine Learning for Materials 
 
+* [Crystals.ai](https://crystals.ai)
 * [Gaussian Approximation Potentials](http://www.libatoms.org/Home/Software)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
@@ -83,6 +85,7 @@ Note: this list is not comprehensive, but contains tools we use and some we deve
 
 #### Lattice Dynamic Calculators 
 
+* [Alamode](https://alamode.readthedocs.io) (anharmonic)
 * [Phonopy](https://atztogo.github.io/phonopy/) (harmonic)
 * [Phono3py](https://atztogo.github.io/phono3py/) (anharmonic)
 
