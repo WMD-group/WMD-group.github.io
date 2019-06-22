@@ -14,9 +14,9 @@ Note that our group focuses solely on theory and simulation of materials.
 
 ### Postdoctoral funding 
 * [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/)
-* [Newton Fellowship](http://www.newtonfellowships.org/)
+* [Newton Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 * [UKRI Fellowship](https://epsrc.ukri.org/skills/fellows/areas/)
-* [NRF Fellowship (Korea)](http://www.nrf.re.kr/biz/info/info/view?biz_no=235)
+* [NRF Fellowship (Korea)](http://www.nrf.re.kr/)
 
 ### PhD funding
 * [Imperial President's PhD Scholarship (International)](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
