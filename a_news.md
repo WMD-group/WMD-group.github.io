@@ -39,10 +39,15 @@ permalink: /news/
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
-#### May 2019
+#### June 2019
+
+* "Redox-active metal-organic frameworks for energy conversion and storage" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta04680a#!divAbstract)
+*#mofs*
 
 * "Accumulation of Deep Traps at Grain Boundaries in Halide Perovskites" [ACS Energy Letters (2019)](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00840)
 *#solar #perovskites #defects*
+
+#### May 2019
 
 * "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019)](https://arxiv.org/abs/1803.06273)
 *#defects*
