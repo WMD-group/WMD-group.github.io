@@ -13,6 +13,7 @@ An extensive list can be found [here](https://asntech.github.io/postdoc-funding-
 Note that our group focuses solely on theory and simulation of materials.
 
 ### Postdoctoral funding 
+* [Departmental List and Guidance](https://www.imperial.ac.uk/materials/research/early-career/common-sources-of-funding-eligibility-and-deadlines/)
 * [Marie Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/)
 * [Newton Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 * [UKRI Fellowship](https://epsrc.ukri.org/skills/fellows/areas/)
@@ -27,7 +28,9 @@ Note that our group focuses solely on theory and simulation of materials.
 * [Theory and Simulation of Materials](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 * [Plastic Electronics](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/course/)
 
-We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org) and the [UK Materials Design Network](http://mdn-uk.github.io).
+We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org),
+the [Centre for Plastic Electronics](https://www.imperial.ac.uk/plastic-electronics),
+and the [UK Materials Design Network](http://mdn-uk.github.io).
 
 ![](http://www.thomasyoungcentre.org//public/cms/37/14/2/2/YtcfTU_web.bmp){: .center-image }
 
