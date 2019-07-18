@@ -26,9 +26,6 @@ permalink: /news/
 
 #### Preprints
 
-* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
-*#solar #defects*
-
 * "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
 *#batteries #phonons*
 
