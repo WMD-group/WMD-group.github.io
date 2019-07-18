@@ -26,18 +26,25 @@ permalink: /news/
 
 #### Preprints
 
-* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning
-" [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
-*#design #solar*
+* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
+*#solar #defects*
+
+* "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
+*#batteries #phonons*
 
 * "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
 *#solar #perovskites #defects*
 
-* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [arXiv (2019)](https://arxiv.org/abs/1904.01348)
-*#solar #defects*
-
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
+
+#### July 2019
+
+* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [Physical Review B (Rapid Communication) (2019)](https://arxiv.org/abs/1904.01348)
+*#solar #defects*
+
+* "Emerging inorganic solar cell efficiency tables"  [J Phys. Energy (2019)](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338)
+*#solar*
 
 #### June 2019
 
