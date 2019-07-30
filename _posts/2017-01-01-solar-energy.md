@@ -43,7 +43,7 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 ### Select Publications (Non-Perovskite)
 
-- [Lone-pair effect on carrier capture in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells(Journal of Materials Chemistry A, 2019)](https://pubs.rsc.org/en/content/articlelanding/2019/TA/C8TA10130B#!divAbstract)
+- [Lone-pair effect on carrier capture in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells (Journal of Materials Chemistry A, 2019)](https://pubs.rsc.org/en/content/articlelanding/2019/TA/C8TA10130B#!divAbstract)
 
 - [Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching (Journal of Applied Physics, 2019)](https://doi.org/10.1063/1.5079485)
 

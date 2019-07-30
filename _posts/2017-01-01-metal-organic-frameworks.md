@@ -23,9 +23,9 @@ In addition to being involved in the first reports of metallic and semiconductin
 
 ### Select Publications
 
-- [Breathing-dependent redox activity in a tetrathiafulvalene-based metal−organic framework (Journal of the American Chemical Society, 2018)](https://pubs.acs.org/doi/10.1021/jacs.8b05890)
+- [Redox-active metal–organic frameworks for energy conversion and storage (Journal of Materials Chemistry A, 2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta04680a#!divAbstract)
 
-- [An unusual phase transition driven by vibrational entropy changes in a hybrid organic–inorganic perovskite (Angenwadte Chemie, 2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
+- [Breathing-dependent redox activity in a tetrathiafulvalene-based metal−organic framework (Journal of the American Chemical Society, 2018)](https://pubs.acs.org/doi/10.1021/jacs.8b05890)
 
 - [Metallic conductivity in a 2D cobalt dithiolene metal−organic framework (Journal of the American Chemical Society, 2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742)
 
