@@ -26,14 +26,22 @@ permalink: /news/
 
 #### Preprints
 
+* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
+*#solar #design*
+
 * "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
 *#batteries #phonons*
 
-* "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
-*#solar #perovskites #defects*
-
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
+
+#### August 2019
+
+* "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [Journal of Materials Chemistry A (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
+*#solar #perovskites #defects*
+
+* "Effect of oxygen deficiency on the excited state kinetics of WO<sub>3</sub> and implications for photocatalysis" [Chemical Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C9SC00693A)
+*#solar #defects*
 
 #### July 2019
 
@@ -79,8 +87,8 @@ Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/201
 * "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [Journal of Applied Physics (2019)](https://aip.scitation.org/doi/10.1063/1.5079485)
 *#solar*
 
-* "Stability and flexibility of heterometallic formate perovskites with the dimethylammonium cation: pressure-induced phase transitions	" [PCCP (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp07131d#!divAbstract)
-*#mofs*
+* "Stability and flexibility of heterometallic formate perovskites with the dimethylammonium cation: pressure-induced phase transitions" [PCCP (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp07131d#!divAbstract)
+*#mofs #perovskites*
 
 #### February 2019
 
