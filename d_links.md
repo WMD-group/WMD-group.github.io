@@ -17,6 +17,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk)
 * [Automate](https://hackingmaterials.github.io/atomate/) 
 * [CoRE-MOFs](http://gregchung.github.io/CoRE-MOFs/) 
+* [Jarvis-DFT](https://www.ctcms.nist.gov/~knc6/JVASP.html)
 * [Open Quantum Materials Database](http://oqmd.org)
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) 
 * [NOMAD](https://nomad-coe.eu) 
