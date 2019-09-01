@@ -48,6 +48,9 @@ permalink: /news/
 * "Effect of oxygen deficiency on the excited state kinetics of WO<sub>3</sub> and implications for photocatalysis" [Chemical Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C9SC00693A)
 *#solar #defects*
 
+* "Role of Electron–Phonon Coupling in the Thermal Evolution of Bulk Rashba-Like Spin-Split Lead Halide Perovskites Exhibiting Dual-Band Photoluminescence" [ACS Energy Letters (2019)](https://pubs.acs.org/doi/10.1021/acsenergylett.9b01427)
+*#solar #perovskites*
+
 #### July 2019
 
 * "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture" [Physical Review B (Rapid Communication) (2019)](https://dx.doi.org/10.1103/PhysRevB.100.041202)
