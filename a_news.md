@@ -34,15 +34,15 @@ permalink: /news/
 
 #### September 2019
 
-* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [Chemistry of Materials (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
+* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [Chemistry of Materials (2019)](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01519)
 *#solar #design*
 
-* "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [Journal of Physical Chemistry Letters (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
+* "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [Journal of Physical Chemistry Letters (2019)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02073)
 *#batteries #phonons*
 
 #### August 2019
 
-* "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [Journal of Materials Chemistry A (2019)](https://chemrxiv.org/articles/Luminescence_of_Polybromide_Defects_in_Cs4PbBr6/7629467)
+* "Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub>" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta06874k#!divAbstract)
 *#solar #perovskites #defects*
 
 * "Effect of oxygen deficiency on the excited state kinetics of WO<sub>3</sub> and implications for photocatalysis" [Chemical Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C9SC00693A)
@@ -50,7 +50,7 @@ permalink: /news/
 
 #### July 2019
 
-* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"  [Physical Review B (Rapid Communication) (2019)](https://arxiv.org/abs/1904.01348)
+* "Anharmonic Lattice Relaxation during Non-radiative Carrier Capture" [Physical Review B (Rapid Communication) (2019)](https://dx.doi.org/10.1103/PhysRevB.100.041202)
 *#solar #defects*
 
 * "Emerging inorganic solar cell efficiency tables"  [J Phys. Energy (2019)](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338)
@@ -66,7 +66,7 @@ permalink: /news/
 
 #### May 2019
 
-* "Donor and Acceptor Characteristics of Native Point Defects in GaN"  [J Phys D (2019)](https://arxiv.org/abs/1803.06273)
+* "Donor and Acceptor Characteristics of Native Point Defects in GaN" [J Phys D (2019)](https://doi.org/10.1088/1361-6463/ab2033)
 *#defects*
 
 * "Enhanced Charge Transport in 2D Halide Perovskites via Fluorination of the Organic Cation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/10.1021/jacs.9b00972)
