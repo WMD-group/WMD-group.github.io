@@ -16,9 +16,6 @@ permalink: /news/
 
 * Aron contributed to [Charting a course for chemistry](https://www.nature.com/articles/s41557-019-0236-7) in Nature Chemistry to celebrate their 10th anniversary and future directions in the field.
 
-* Keith Butler's work on the competition between [enthalpy and entropy in hybrid halide perovskites](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164) is featured on the cover of Chemistry of Materials. 
-![](/assets/com-2018-lg.jpg){: .center-image }
-
 * We made our first appearance in the [Highly Cited Researchers](https://hcr.clarivate.com) list.
 ![](/assets/hcr-2018.jpg){: .center-image }
 
@@ -26,14 +23,22 @@ permalink: /news/
 
 #### Preprints
 
-* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [ChemRxiv (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
-*#solar #design*
+* "Investigation of Charge-Transfer Interactions Induced by Encapsulating Fullerene in a Mesoporous Tetrathiafulvalene-Based Metal-Organic Framework" [ChemRxiv (2019)](https://chemrxiv.org/articles/Investigation_of_Charge-Transfer_Interactions_Induced_by_Encapsulating_Fullerene_in_a_Mesoporous_Tetrathiafulvalene-Based_Metal-Organic_Framework/8427047)
+*#mofs*
 
-* "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [ChemRxiv (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
-*#batteries #phonons*
+* "Crystal Engineering of Bi<sub>2</sub>WO<sub>6</sub> to Polar Aurivillius-Phase Oxyhalides" [ChemRxiv (2019)](https://chemrxiv.org/articles/Crystal_Engineering_of_Bi2WO6_to_Polar_Aurivillius-Phase_Oxyhalides/9741701)
+*#solar #design*
 
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
+
+#### September 2019
+
+* "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [Chemistry of Materials (2019)](https://chemrxiv.org/articles/Data-driven_Discovery_of_Photoactive_Quaternary_Oxides_using_First-principles_Machine_Learning/8010422)
+*#solar #design*
+
+* "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [Journal of Physical Chemistry Letters (2019)](https://chemrxiv.org/articles/Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404)
+*#batteries #phonons*
 
 #### August 2019
 
