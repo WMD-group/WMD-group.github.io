@@ -22,15 +22,16 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Hui Yang](https://www.london-nano.com/our-people/%5Bfield_people_section-raw%5D/hui-yang)
+- [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 
 ### PhD Students
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
+- [Ju Huang](https://www.chinesescholarshipcouncil.com)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
+- [Gabriel Krenzer](https://faraday.ac.uk)
 - [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) 
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr. Laura Ratcliff](https://www.imperial.ac.uk/people/laura.ratcliff08)]
-- [Puck van Gerwen](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
-- [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Young Won Woo (우용원)](http://mse.yonsei.ac.kr/eng/)
 
@@ -61,6 +62,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
 - [Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
+- [Puck van Gerwen](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 
 ### Past Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
