@@ -26,7 +26,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 
 ### PhD Students
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
-- [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
+- [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt) [[joint with Prof. James Durrant](http://scholar.google.co.uk/citations?user=3ICEKgUAAAAJ&hl=en)]
 - [Ju Huang](https://www.chinesescholarshipcouncil.com)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Seán Kavanagh](http://cdt-acm.org) [[joint with Prof. David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
