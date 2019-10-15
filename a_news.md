@@ -8,7 +8,7 @@ permalink: /news/
 
 * None at the moment.
 
-### Highlights 
+### 2019 Highlights 
 
 * To track advances in the latest photovoltaic technologies, we have been involved in the setup of the "Emerging inorganic solar cell efficiency tables" as a new series in [J Phys. Energy](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338).
 
@@ -23,22 +23,36 @@ permalink: /news/
 
 #### Preprints
 
-* "Investigation of Charge-Transfer Interactions Induced by Encapsulating Fullerene in a Mesoporous Tetrathiafulvalene-Based Metal-Organic Framework" [ChemRxiv (2019)](https://chemrxiv.org/articles/Investigation_of_Charge-Transfer_Interactions_Induced_by_Encapsulating_Fullerene_in_a_Mesoporous_Tetrathiafulvalene-Based_Metal-Organic_Framework/8427047)
-*#mofs*
-
 * "Crystal Engineering of Bi<sub>2</sub>WO<sub>6</sub> to Polar Aurivillius-Phase Oxyhalides" [ChemRxiv (2019)](https://chemrxiv.org/articles/Crystal_Engineering_of_Bi2WO6_to_Polar_Aurivillius-Phase_Oxyhalides/9741701)
 *#solar #design*
 
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
+#### October 2019
+
+* "Room Temperature Metallic Conductivity in a Metal–Organic Framework Induced by Oxidation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06898)
+*#mofs*
+
+* "Investigation of Charge-Transfer Interactions Induced by Encapsulating Fullerene in a Mesoporous Tetrathiafulvalene-Based Metal-Organic Framework" [Beilstein Journal of Nanotechnology (2019)](https://www.beilstein-journals.org/bjnano/articles/10/183)
+*#mofs*
+
+* "Heterostructure Engineering of a Reverse Water Gas Shift Photocatalyst" [Advanced Science (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201902170?af=R)
+*#oxides #fuels*
+
 #### September 2019
+
+* "In situ observation of picosecond polaron self-localisation in α-Fe<sub>2</sub>O<sub>3</sub> photoelectrochemical cells" [Nature Communications (2019)](https://www.nature.com/articles/s41467-019-11767-9)
+*#solar #fuels #defects*
 
 * "Data-driven Discovery of Photoactive Quaternary Oxides using First-principles Machine Learning" [Chemistry of Materials (2019)](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01519)
 *#solar #design*
 
 * "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>" [Journal of Physical Chemistry Letters (2019)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02073)
 *#batteries #phonons*
+
+* "Status of materials and device modelling for kesterite solar cells" [J Phys Energy (2019)](https://doi.org/10.1088/2515-7655/ab2dda)
+*#solar #kesterites*
 
 #### August 2019
 
