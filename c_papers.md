@@ -4,7 +4,7 @@ title: Publications
 permalink: /papers/
 ---
 
-[Paper collection](/publications/).
+[Paper collection](https://github.com/WMD-group/WMD-group.github.io/tree/master/publications).
 Also see 
 [Google Scholar](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en),
 [Zotero](https://www.zotero.org/aronwalsh),
