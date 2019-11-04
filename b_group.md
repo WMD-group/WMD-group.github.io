@@ -4,7 +4,7 @@ title: Researchers
 permalink: /group/
 ---
 
-[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Dual International Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
@@ -43,8 +43,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 
 ### Undergraduate Interns  
 - [Alexander Moriarty](https://www.imperial.ac.uk/materials)
-- [Mingkyung Baek (백민경)](http://mse.yonsei.ac.kr) 
-- [Julee Kim (김주리)](http://mse.yonsei.ac.kr)
+- [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 
 ### Past Members
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
