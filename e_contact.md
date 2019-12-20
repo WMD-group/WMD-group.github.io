@@ -33,4 +33,3 @@ the [Centre for Plastic Electronics](https://www.imperial.ac.uk/plastic-electron
 and the [UK Materials Design Network](http://mdn-uk.github.io).
 
 ![](http://www.thomasyoungcentre.org//public/cms/37/14/2/2/YtcfTU_web.bmp){: .center-image }
-

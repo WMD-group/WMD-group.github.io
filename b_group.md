@@ -4,7 +4,7 @@ title: Researchers
 permalink: /group/
 ---
 
-[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Dual International Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Dual Underwood Distinguished Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
@@ -18,7 +18,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
-- [Daniel Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Hui Yang](https://www.london-nano.com/our-people/%5Bfield_people_section-raw%5D/hui-yang)
@@ -42,7 +41,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Caroline Boule](https://www.imperial.ac.uk/materials)
 
 ### Undergraduate Interns  
-- [Alexander Moriarty](https://www.imperial.ac.uk/materials)
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 
 ### Past Members
@@ -64,6 +62,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Ji-Sang Park (박지상)](https://scholar.google.co.uk/citations?user=ZCmm3y8AAAAJ&hl=en&oi=ao)
 - [Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
 - [Puck van Gerwen](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
+- [Daniel W. Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 
 ### Past Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)

@@ -8,7 +8,10 @@ permalink: /news/
 
 * None at the moment.
 
-### 2019 Highlights 
+### Recent Highlights 
+
+* We made our second appearance in the [Highly Cited Researchers](https://recognition.webofsciencegroup.com/awards/highly-cited/2019/) list.
+![](/assets/hcr-2019.png){: .center-image }
 
 * To track advances in the latest photovoltaic technologies, we have been involved in the setup of the "Emerging inorganic solar cell efficiency tables" as a new series in [J Phys. Energy](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338).
 
@@ -16,23 +19,30 @@ permalink: /news/
 
 * Aron contributed to [Charting a course for chemistry](https://www.nature.com/articles/s41557-019-0236-7) in Nature Chemistry to celebrate their 10th anniversary and future directions in the field.
 
-* We made our first appearance in the [Highly Cited Researchers](https://hcr.clarivate.com) list.
-![](/assets/hcr-2018.jpg){: .center-image }
-
 ### Research
 
 #### Preprints
 
-* "Crystal Engineering of Bi<sub>2</sub>WO<sub>6</sub> to Polar Aurivillius-Phase Oxyhalides" [ChemRxiv (2019)](https://chemrxiv.org/articles/Crystal_Engineering_of_Bi2WO6_to_Polar_Aurivillius-Phase_Oxyhalides/9741701)
-*#solar #design*
+* "Upper limit to the photovoltaic efficiency of imperfect crystals" [arXiv (2019)](https://arxiv.org/abs/1912.07889)
+*#solar #defects #czts*
+
+* "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [ChemRxiv (2019)](https://chemrxiv.org/articles/Descriptors_for_Electron_and_Hole_Charge_Carriers_in_Metal_Oxides/11214914/1)
+*#design #oxides*
 
 * "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
 *#phonons #2d*
 
-#### October 2019
+#### December 2019
+
+* "Crystal Engineering of Bi<sub>2</sub>WO<sub>6</sub> to Polar Aurivillius-Phase Oxyhalides" [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806)
+*#solar #design*
+
+#### November 2019
 
 * "Room Temperature Metallic Conductivity in a Metal–Organic Framework Induced by Oxidation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06898)
 *#mofs*
+
+#### October 2019
 
 * "Investigation of Charge-Transfer Interactions Induced by Encapsulating Fullerene in a Mesoporous Tetrathiafulvalene-Based Metal-Organic Framework" [Beilstein Journal of Nanotechnology (2019)](https://www.beilstein-journals.org/bjnano/articles/10/183)
 *#mofs*
