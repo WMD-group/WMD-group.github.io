@@ -206,5 +206,3 @@ Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/201
 
 * "Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)
 *#solar #czts* 
-
-![](/assets/ees-2009.jpg) ![](/assets/jmc-2006.jpg)
