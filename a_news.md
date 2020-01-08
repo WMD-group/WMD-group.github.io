@@ -21,6 +21,8 @@ permalink: /news/
 
 * [Lee Burton](http://bmd-lab.org) is now Associate Professor at Shanghai University. 
 
+* [Joaquín Calbo](https://joaquincalbo.wordpress.com/) became Assistant Professor in the Institute of Molecular Science,  Universitat de València.
+
 * [Jarvist Frost](https://jarvist.github.io) took up a Royal Society University Research Fellowship at the Department of Physics, Imperial College. 
 
 * [Ji-Sang Park](https://sites.google.com/site/jsparkphys/) is now Assistant Professor in the Department of Physics at Kyungpook National University.
