@@ -25,8 +25,11 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2020
 
-* "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2019)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
+* "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2020)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
 *#design #oxides*
+
+* "Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/1.5131575)
+*#perovskites #phonons*
 
 ![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) ![](/assets/jcp-2015.jpg) ![](/assets/prs-2010.jpg) 
 
