@@ -25,6 +25,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2020
 
+* "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures" [Nature Energy (2020)](https://www.nature.com/articles/s41560-019-0529-5)
+*#perovskites*
+
 * "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2020)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
 *#design #oxides*
 
