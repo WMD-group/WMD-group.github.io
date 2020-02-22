@@ -15,18 +15,21 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Upper limit to the photovoltaic efficiency of imperfect crystals" [arXiv (2019)](https://arxiv.org/abs/1912.07889)
+* "Upper limit to the photovoltaic efficiency of imperfect crystals" [arXiv (2020)](https://arxiv.org/abs/1912.07889)
 *#solar #defects #czts*
 
-* "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [arXiv (2018)](https://arxiv.org/abs/1809.06555)
-*#phonons #2d*
+* "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [arXiv (2020)](https://arxiv.org/abs/2001.05330)
+*#solar #perovskites #defects*
 
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
 
 * "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures" [Nature Energy (2020)](https://www.nature.com/articles/s41560-019-0529-5)
-*#perovskites*
+*#solar #perovskites*
+
+* "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [MaterialsToday: Proceedings (2020)](https://doi.org/10.1016/j.matpr.2019.10.076)
+*#phonons #2d*
 
 * "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2020)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
 *#design #oxides*
