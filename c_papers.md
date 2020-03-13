@@ -28,7 +28,7 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "CarrierCapture.jl: Anharmonic Carrier Capture" [Journal of Open Source Software (2020)](https://joss.theoj.org/papers/10.21105/joss.02102)
 *#defects*
 
-* "Comment on `Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination`" [Science Advances (2020)](https://arxiv.org/abs/2003.05394)
+* "Comment on Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination" [Science Advances (2020)](https://arxiv.org/abs/2003.05394)
 *#solar #defects #perovskites*
 
 * "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures" [Nature Energy (2020)](https://www.nature.com/articles/s41560-019-0529-5)
