@@ -15,15 +15,21 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Upper limit to the photovoltaic efficiency of imperfect crystals" [arXiv (2020)](https://arxiv.org/abs/1912.07889)
-*#solar #defects #czts*
-
 * "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [arXiv (2020)](https://arxiv.org/abs/2001.05330)
 *#solar #perovskites #defects*
 
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
+
+* "Upper limit to the photovoltaic efficiency of imperfect crystals from first principles" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE00291G)
+*#solar #defects #czts*
+
+* "CarrierCapture.jl: Anharmonic Carrier Capture" [Journal of Open Source Software (2020)](https://joss.theoj.org/papers/10.21105/joss.02102)
+*#defects*
+
+* "Comment on `Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination`" [Science Advances (2020)](https://arxiv.org/abs/2003.05394)
+*#solar #defects #perovskites*
 
 * "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures" [Nature Energy (2020)](https://www.nature.com/articles/s41560-019-0529-5)
 *#solar #perovskites*
