@@ -31,11 +31,11 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Seán Kavanagh](http://cdt-acm.org) [[joint with Prof. David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
 - [Steven Kench](http://www.imperial.ac.uk/design-engineering/) [[joint with Dr Sam Cooper](http://scholar.google.co.uk/citations?user=WrXP3Q8AAAAJ&hl=en)]
 - [Gabriel Krenzer](https://faraday.ac.uk) [[joint with Prof. Clare Grey](https://scholar.google.co.uk/citations?hl=en&user=Wf1qvlgAAAAJ)]
+- [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Laura Ratcliff](https://scholar.google.co.uk/citations?hl=en&user=A1rK_5UAAAAJ)]
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Young Won Woo (우용원)](http://mse.yonsei.ac.kr/eng/)
-- [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 
 ### Masters Students
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
