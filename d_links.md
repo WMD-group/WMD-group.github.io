@@ -132,6 +132,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [Julia](https://julialang.org) (Python on steroids)
 * [Jupyter Notebooks](https://jupyter.org) (track your work)
 * [Matgenb](http://matgenb.materialsvirtuallab.org) (set of Jupyter notebooks)
+* [Awsome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry) (list of packages)
 
 ### Publication Tools
 
