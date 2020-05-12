@@ -15,6 +15,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
+* "Quick-start guide for first-principles modelling of point defects in crystalline materials" [arXiv (2020)](https://arxiv.org/abs/2005.01941)
+*#defects*
+
 * "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
 *#solar #perovskites #defects*
 
