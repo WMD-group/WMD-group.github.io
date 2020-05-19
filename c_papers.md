@@ -15,6 +15,15 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
+* "Modelling the dielectric constants of crystals using machine learning" [arXiv (2020)](https://arxiv.org/abs/2005.05831)
+*#design*
+
+* "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [ChemRxiv (2020)](https://chemrxiv.org/articles/Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033)
+*#oxides #batteries*
+
+* "Ligand Engineering in Cu(II) Paddle Wheel Metal-Organic Frameworks for Enhanced Electrical Conductivity" [ChemRxiv (2020)](https://chemrxiv.org/articles/Ligand_Engineering_in_Cu_II_Paddle_Wheel_Metal-Organic_Frameworks_for_Enhanced_Electrical_Conductivity/12213275)
+*#mofs*
+
 * "Quick-start guide for first-principles modelling of point defects in crystalline materials" [arXiv (2020)](https://arxiv.org/abs/2005.01941)
 *#defects*
 
