@@ -18,7 +18,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
-- [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
@@ -63,6 +62,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Puck van Gerwen](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Daniel W. Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
+- [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 
 ### Past Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
