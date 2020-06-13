@@ -4,7 +4,7 @@ title: Researchers
 permalink: /group/
 ---
 
-[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Dual Underwood Distinguished Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Underwood Distinguished Dual Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
@@ -14,7 +14,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ![](/assets/groupday_2018.jpg){: .center-image }
 *<center>(Group research day - June 2018)</center>*
 
-### Primary Investigator
+### Principal Investigator
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
@@ -40,6 +40,11 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### Masters Students
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Caroline Boule](https://www.imperial.ac.uk/materials)
+
+### Summer Students
+- [Ethan Houchen](https://www.imperial.ac.uk/materials)
+- [Yeonkyung Irene Lee (이연경)](https://www.imperial.ac.uk/materials)
+- [Alexander Moriarty](https://www.imperial.ac.uk/materials)
 
 ### Past Members
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
