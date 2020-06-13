@@ -37,6 +37,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2020
 
+* "Hexagonal Stacking Faults Act as Hole-Blocking Layers in Lead Halide Perovskites" [ACS Energy Letters (2020)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.0c01124)
+*#solar #perovskites #defects*
+
 * "Performance-limiting nanoscale trap clusters at grain junctions in halide perovskites" [Nature (2020)](https://www.nature.com/articles/s41586-020-2184-1)
 *#solar #perovskites #defects*
 
