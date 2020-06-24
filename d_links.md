@@ -67,6 +67,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [PIEFACE](https://github.com/jcumby/PIEFACE) (structure analysis)
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) (band paths in the Brillouin zone)
 * [Sumo](https://github.com/SMTG-UCL/sumo) (Python plotting toolkit)
+* [vaspup2.0](https://github.com/kavanase/vaspup2.0) (automated convergence testing incl. energy and dielectric constants)
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) (setup for GGA/hybrid/GW calculations)
 * [VASPpy](https://github.com/bjmorgan/vasppy) (I/O tools)
 * [VASPsol](https://github.com/henniggroup/VASPsol) (implicit solvents)
@@ -120,6 +121,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) (self-consistent concentrations)
 * [SOD](https://github.com/Grau-CrespoGroup/sod) (partial occupancy and solid-solutions)
 * [Transformer](https://github.com/JMSkelton/Transformer) (structure generator) 
+* [DefectsWithTheBoys](https://github.com/kavanase/DefectsWithTheBoys) (defect calculation pre and post-processing)
 
 #### Charged Defect Corrections
 
