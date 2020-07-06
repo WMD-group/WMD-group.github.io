@@ -34,7 +34,10 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2020
 
-* "Ligand engineering in Cu(ii) paddle wheel metal–organic frameworks for enhanced semiconductivity" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA04466K#)
+* "Sn 5s2 lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation" [Physical Review Materials (2020)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602)
+*#solar #lonepairs*
+
+* "Ligand engineering in Cu(II) paddle wheel metal–organic frameworks for enhanced semiconductivity" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA04466K#)
 *#mofs*
 
 * "Hexagonal Stacking Faults Act as Hole-Blocking Layers in Lead Halide Perovskites" [ACS Energy Letters (2020)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.0c01124)
