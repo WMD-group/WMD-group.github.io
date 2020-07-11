@@ -17,6 +17,8 @@ permalink: /news/
 
 ### Alumni News
 
+* [Sunghyun Kim](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en) is now a staff scientist at Samsung Advanced Institute of Technology (SAIT).
+
 * [John Buckeridge](https://jbuckeridge.github.io) became a Lecturer in the School of Engineering at London South Bank University.
 
 * [Lee Burton](http://bmd-lab.org) is now Associate Professor at Shanghai University. 

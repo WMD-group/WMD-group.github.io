@@ -10,13 +10,12 @@ Also see
 [Zotero](https://www.zotero.org/aronwalsh),
 or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
-
 ![](/assets/com-2018.jpg) ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/acr-2016.jpg)
 
 ### Preprints
 
-* "Modelling the dielectric constants of crystals using machine learning" [arXiv (2020)](https://arxiv.org/abs/2005.05831)
-*#design*
+* "Assessing the defect tolerance of kesterite-inspired solar absorbers" [arXiv (2020)](https://arxiv.org/abs/2007.00819)
+*#solar #kesterites #defects*
 
 * "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [ChemRxiv (2020)](https://chemrxiv.org/articles/Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033)
 *#oxides #batteries*
@@ -24,15 +23,24 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Quick-start guide for first-principles modelling of point defects in crystalline materials" [arXiv (2020)](https://arxiv.org/abs/2005.01941)
 *#defects*
 
+* "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
+*#solar #perovskites #defects*
+
 * "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
 *#solar #perovskites #defects*
 
 * "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [arXiv (2020)](https://arxiv.org/abs/2001.05330)
 *#solar #perovskites #defects*
 
+* "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [arXiv (2020)](https://arxiv.org/abs/2007.04648)
+*#solar #perovskites #defects*
+
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
+
+* "Modelling the dielectric constants of crystals using machine learning" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/5.0013136) [[Repository]](https://github.com/WMD-group/Dielectric_ML)
+*#design* 
 
 * "Sn 5s2 lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation" [Physical Review Materials (2020)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602)
 *#solar #lonepairs*
