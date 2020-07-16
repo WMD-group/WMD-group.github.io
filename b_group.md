@@ -35,7 +35,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Laura Ratcliff](https://scholar.google.co.uk/citations?hl=en&user=A1rK_5UAAAAJ)]
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
-- [Young Won Woo (우용원)](http://mse.yonsei.ac.kr/eng/)
+- [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 
 ### Masters Students
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
