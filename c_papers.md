@@ -20,16 +20,10 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [ChemRxiv (2020)](https://chemrxiv.org/articles/Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033)
 *#oxides #batteries*
 
-* "Quick-start guide for first-principles modelling of point defects in crystalline materials" [arXiv (2020)](https://arxiv.org/abs/2005.01941)
-*#defects*
-
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
 * "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
-*#solar #perovskites #defects*
-
-* "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [arXiv (2020)](https://arxiv.org/abs/2001.05330)
 *#solar #perovskites #defects*
 
 * "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [arXiv (2020)](https://arxiv.org/abs/2007.04648)
@@ -38,6 +32,15 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
+
+* "Sustainable lead management in halide perovskite solar cells" [Nature Sustainability (2020)](https://doi.org/10.1038/s41893-020-0586-6)
+*#solar #perovskites #recycling*
+
+* "Quick-start guide for first-principles modelling of point defects in crystalline materials" [J Phys Energy (2020)](https://doi.org/10.1088/2515-7655/aba081)
+*#defects*
+
+* "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [Cell Reports Physical Science (2020)](https://doi.org/10.1016/j.xcrp.2020.100120)
+*#solar #perovskites #defects*
 
 * "Modelling the dielectric constants of crystals using machine learning" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/5.0013136) [[Repository]](https://github.com/WMD-group/Dielectric_ML)
 *#design* 
