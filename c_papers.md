@@ -36,6 +36,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Sustainable lead management in halide perovskite solar cells" [Nature Sustainability (2020)](https://doi.org/10.1038/s41893-020-0586-6)
 *#solar #perovskites #recycling*
 
+* "Anisotropic Electron Transport Limits Performance in Bi<sub>2</sub>WO<sub>6</sub> Photoanodes" [Journal of Physical Chemistry C (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c03539)
+*#solar #oxides*
+
 * "Quick-start guide for first-principles modelling of point defects in crystalline materials" [J Phys Energy (2020)](https://doi.org/10.1088/2515-7655/aba081)
 *#defects*
 
