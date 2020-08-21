@@ -57,6 +57,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 
 #### Processing Tools
 
+* [AMSET](https://github.com/hackingmaterials/amset) (mobility and conductivity) 
 * [BAPT](https://github.com/utf/bapt) (easy band alignment plots)
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening)
 * [Effmass](https://github.com/lucydot/effmass) (effective masses)
@@ -98,6 +99,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [IR and Raman spectra](https://github.com/JMSkelton/Phonopy-Spectroscopy) (calculated intensities)
 * [Julia-Phonons](https://github.com/jarvist/Julia-Phonons) (various tools)
 * [Modemap](https://github.com/JMSkelton/ModeMap) (analysis of potential energy surfaces)
+* [Phono3py-Power-Tools](https://github.com/skelton-group/Phono3py-Power-Tools) (lifetime analysis)
 * [PolaronMobility](https://github.com/jarvist/PolaronMobility.jl) (carrier mobility)
 * [RVO](https://github.com/WMD-group/rvo) (rapid volume optimisation)
 
