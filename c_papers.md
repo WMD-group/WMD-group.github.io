@@ -17,9 +17,6 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Assessing the defect tolerance of kesterite-inspired solar absorbers" [arXiv (2020)](https://arxiv.org/abs/2007.00819)
 *#solar #kesterites #defects*
 
-* "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [ChemRxiv (2020)](https://chemrxiv.org/articles/Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033)
-*#oxides #batteries*
-
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
@@ -33,8 +30,14 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2020
 
+* "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [Chemistry of Materials (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c02908)
+*#oxides #batteries*
+
 * "Sustainable lead management in halide perovskite solar cells" [Nature Sustainability (2020)](https://doi.org/10.1038/s41893-020-0586-6)
 *#solar #perovskites #recycling*
+
+* "A density functional theory study on the interface stability between CsPbBr<sub>3</sub> and CuI" [AIP Advances (2020)](https://aip.scitation.org/doi/10.1063/5.0018925)
+*#solar #perovskites*
 
 * "Anisotropic Electron Transport Limits Performance in Bi<sub>2</sub>WO<sub>6</sub> Photoanodes" [Journal of Physical Chemistry C (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c03539)
 *#solar #oxides*
