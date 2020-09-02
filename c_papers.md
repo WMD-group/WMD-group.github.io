@@ -14,9 +14,6 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Assessing the defect tolerance of kesterite-inspired solar absorbers" [arXiv (2020)](https://arxiv.org/abs/2007.00819)
-*#solar #kesterites #defects*
-
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
@@ -29,6 +26,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
+
+* "Assessing the defect tolerance of kesterite-inspired solar absorbers" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE02177F)
+*#solar #kesterites #defects*
 
 * "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [Chemistry of Materials (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c02908)
 *#oxides #batteries*
