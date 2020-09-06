@@ -30,32 +30,44 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Assessing the defect tolerance of kesterite-inspired solar absorbers" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE02177F)
 *#solar #kesterites #defects*
 
+* "Polymorph exploration of bismuth stannate using first-principles phonon mode mapping" [Chemical Science (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/SC/D0SC02995E)
+*#oxides #phonons*
+
+* "The Holey Grail of Transparent Electronics" [Matter (2020)](https://www.cell.com/matter/fulltext/S2590-2385(20)30435-5)
+*#oxides #defects*
+
+* "Anisotropic Electron Transport Limits Performance in Bi<sub>2</sub>WO<sub>6</sub> Photoanodes" [Journal of Physical Chemistry C (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c03539)
+*#solar #oxides*
+
+* "Manganese Porphyrin Interface Engineering in Perovskite Solar Cells" [ACS Applied Energy Materials (2020)](https://doi.org/10.1021/acsaem.0c00710)
+*#solar #perovskites*
+
 * "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes" [Chemistry of Materials (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c02908)
+*#oxides #batteries*
+
+* "A density functional theory study on the interface stability between CsPbBr<sub>3</sub> and CuI" [AIP Advances (2020)](https://aip.scitation.org/doi/10.1063/5.0018925)
+*#solar #perovskites*
+
+* "Low-cost descriptors of electrostatic and electronic contributions to anion redox activity in batteries" [SciNotes (2020)](https://iopscience.iop.org/article/10.1088/2633-1357/ab9750)
 *#oxides #batteries*
 
 * "Sustainable lead management in halide perovskite solar cells" [Nature Sustainability (2020)](https://doi.org/10.1038/s41893-020-0586-6)
 *#solar #perovskites #recycling*
 
-* "A density functional theory study on the interface stability between CsPbBr<sub>3</sub> and CuI" [AIP Advances (2020)](https://aip.scitation.org/doi/10.1063/5.0018925)
-*#solar #perovskites*
-
-* "Anisotropic Electron Transport Limits Performance in Bi<sub>2</sub>WO<sub>6</sub> Photoanodes" [Journal of Physical Chemistry C (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c03539)
-*#solar #oxides*
+* "Modelling the dielectric constants of crystals using machine learning" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/5.0013136) [[Repository]](https://github.com/WMD-group/Dielectric_ML)
+*#design* 
 
 * "Quick-start guide for first-principles modelling of point defects in crystalline materials" [J Phys Energy (2020)](https://doi.org/10.1088/2515-7655/aba081)
 *#defects*
 
+* "Ligand engineering in Cu(II) paddle wheel metal–organic frameworks for enhanced semiconductivity" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA04466K#)
+*#mofs*
+
 * "Thermodynamic stabilization of mixed-halide perovskites against phase segregation" [Cell Reports Physical Science (2020)](https://doi.org/10.1016/j.xcrp.2020.100120)
 *#solar #perovskites #defects*
 
-* "Modelling the dielectric constants of crystals using machine learning" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/5.0013136) [[Repository]](https://github.com/WMD-group/Dielectric_ML)
-*#design* 
-
 * "Sn 5s2 lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation" [Physical Review Materials (2020)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.074602)
 *#solar #lonepairs*
-
-* "Ligand engineering in Cu(II) paddle wheel metal–organic frameworks for enhanced semiconductivity" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA04466K#)
-*#mofs*
 
 * "Hexagonal Stacking Faults Act as Hole-Blocking Layers in Lead Halide Perovskites" [ACS Energy Letters (2020)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.0c01124)
 *#solar #perovskites #defects*
@@ -63,23 +75,23 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Performance-limiting nanoscale trap clusters at grain junctions in halide perovskites" [Nature (2020)](https://www.nature.com/articles/s41586-020-2184-1)
 *#solar #perovskites #defects*
 
-* "Upper limit to the photovoltaic efficiency of imperfect crystals from first principles" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE00291G)
-*#solar #defects #czts*
-
 * "CarrierCapture.jl: Anharmonic Carrier Capture" [Journal of Open Source Software (2020)](https://joss.theoj.org/papers/10.21105/joss.02102)
 *#defects*
 
 * "Comment on Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination" [Science Advances (2020)](https://arxiv.org/abs/2003.05394)
 *#solar #defects #perovskites*
 
-* "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2020)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
-*#design #oxides*
+* "Upper limit to the photovoltaic efficiency of imperfect crystals from first principles" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE00291G)
+*#solar #defects #czts*
+
+* "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [MaterialsToday: Proceedings (2020)](https://doi.org/10.1016/j.matpr.2019.10.076)
+*#phonons #2d*
 
 * "Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures" [Nature Energy (2020)](https://www.nature.com/articles/s41560-019-0529-5)
 *#solar #perovskites*
 
-* "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias" [MaterialsToday: Proceedings (2020)](https://doi.org/10.1016/j.matpr.2019.10.076)
-*#phonons #2d*
+* "Descriptors for Electron and Hole Charge Carriers in Metal Oxides" [Journal of Physical Chemistry Letters (2020)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03398)
+*#design #defects #oxides*
 
 * "Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/1.5131575)
 *#perovskites #phonons*
