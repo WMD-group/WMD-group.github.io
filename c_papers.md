@@ -20,12 +20,15 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
 *#solar #perovskites #defects*
 
-* "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [arXiv (2020)](https://arxiv.org/abs/2007.04648)
-*#solar #perovskites #defects*
-
 ![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
 
 ### 2020
+
+* "Crystal structure and metallization mechanism of the π-radical metal TED" [Chemical Science (2020)](https://doi.org/10.1039/D0SC03521A)
+*#molecularmetal*
+
+* "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474) [Featured in an [Energy Spotlight](https://doi.org/10.1021/acsenergylett.0c02046)]
+*#solar #perovskites #defects*
 
 * "Assessing the defect tolerance of kesterite-inspired solar absorbers" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE02177F)
 *#solar #kesterites #defects*
