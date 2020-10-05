@@ -44,6 +44,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS) (random search)
 * [CALYPSO](http://www.calypso.cn) (particle swarm)
 * [USPEX](http://uspex-team.org/en/uspex) (evolutionary algorithm) 
+* [p2ptrans](https://github.com/ftherrien/p2ptrans) (structure matching)
 
 ### Electronic Structure
 
