@@ -10,7 +10,7 @@ Also see
 [Zotero](https://www.zotero.org/aronwalsh),
 or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
-![](/assets/com-2018.jpg) ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/acr-2016.jpg)
+![](/assets/el-2020.jpg) ![](/assets/acr-2016.jpg) ![](/assets/com-2018.jpg)
 
 ### Preprints
 
@@ -20,12 +20,15 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
 *#solar #perovskites #defects*
 
-![](/assets/jmcc-2016.jpg) ![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) 
+![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2020
 
 * "Crystal structure and metallization mechanism of the π-radical metal TED" [Chemical Science (2020)](https://doi.org/10.1039/D0SC03521A)
 *#molecularmetal*
+
+* "Suppression of phase transitions and glass phase signatures in mixed cation halide perovskites" [Nature Communications (2020)](https://www.nature.com/articles/s41467-020-18938-z)
+*#solar #perovskites #defects*
 
 * "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474) [Featured in an [Energy Spotlight](https://doi.org/10.1021/acsenergylett.0c02046)]
 *#solar #perovskites #defects*
@@ -99,7 +102,7 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites" [Journal of Chemical Physics (2020)](https://aip.scitation.org/doi/10.1063/1.5131575)
 *#perovskites #phonons*
 
-![](/assets/nl-2015.jpg) ![](/assets/pccp-2016.jpg) ![](/assets/jcp-2015.jpg) ![](/assets/prs-2010.jpg) 
+![](/assets/rsc-2018.jpg) ![](/assets/cs-2016.jpg)  ![](/assets/jpcc-2015.jpg) ![](/assets/nl-2015.jpg) 
 
 ### 2019 
 
@@ -197,10 +200,9 @@ Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/201
 * "Accelerated optimization of transparent, amorphous zinc-tin-oxide thin films for optoelectronic applications" [APL Materials (2019)](https://doi.org/10.1063/1.5053683)
 *#design #tco*
 
-![](/assets/aplmat-2014.jpg) ![](/assets/pccp-2012.jpg) ![](/assets/csr-2011.jpg) ![](/assets/pccp-2010.jpg) 
+![](/assets/pccp-2016.jpg) ![](/assets/jcp-2015.jpg) ![](/assets/prs-2010.jpg) ![](/assets/aplmat-2014.jpg) 
 
 ### 2018
-
 
 * "Open-circuit voltage deficit in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells by interface bandgap narrowing" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5063793)
 *#solar #czts*
@@ -277,3 +279,5 @@ Materials Chemistry C (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/201
 
 * "Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)
 *#solar #czts* 
+
+![](/assets/pccp-2012.jpg) ![](/assets/csr-2011.jpg) ![](/assets/pccp-2010.jpg)  ![](/assets/jmc-2006.jpg) 
