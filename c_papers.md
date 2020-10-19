@@ -14,6 +14,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
+* "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [arXiv (2020)](https://arxiv.org/abs/2008.08959) [Featured in [Nature Physics](https://www.nature.com/articles/s41567-020-01060-8.)]
+*#solar #perovskites*
+
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
@@ -27,10 +30,13 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Crystal structure and metallization mechanism of the π-radical metal TED" [Chemical Science (2020)](https://doi.org/10.1039/D0SC03521A)
 *#molecularmetal*
 
+* "Bandgap lowering in mixed alloys of Cs<sub>2</sub>Ag(Sb<sub>x</sub>Bi<sub>1-x</sub>)Br<sub>6</sub> double perovskite thin films" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA07145E)
+*#solar #perovskites*
+
 * "Suppression of phase transitions and glass phase signatures in mixed cation halide perovskites" [Nature Communications (2020)](https://www.nature.com/articles/s41467-020-18938-z)
 *#solar #perovskites #defects*
 
-* "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474) [Featured in an [Energy Spotlight](https://doi.org/10.1021/acsenergylett.0c02046)]
+* "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474) [Featured in an [Energy Spotlight](https://doi.org/10.1021/acsenergylett.0c02046) & the [Cover](https://pubs.acs.org/loi/aelccp)]
 *#solar #perovskites #defects*
 
 * "Assessing the defect tolerance of kesterite-inspired solar absorbers" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE02177F)
