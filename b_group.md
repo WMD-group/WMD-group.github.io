@@ -20,7 +20,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 ### Senior Researchers
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
-- [Hui Yang](https://www.london-nano.com/our-people/%5Bfield_people_section-raw%5D/hui-yang)
+- [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 
 ### PhD Students
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
