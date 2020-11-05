@@ -20,14 +20,15 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [Jarvis-DFT](https://www.ctcms.nist.gov/~knc6/JVASP.html)
 * [Open Quantum Materials Database](http://oqmd.org)
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) 
+* [Materials Cloud](https://www.materialscloud.org/)
 * [NOMAD](https://nomad-coe.eu) 
 * [NREL Materials Database](https://materials.nrel.gov)
 * [SMACT](https://github.com/WMD-group/SMACT)
 
 #### Crystal Structures 
 
-* [CSD](http://cds.rsc.org) (organic)
-* [ICSD](http://cds.rsc.org) (inorganic)
+* [CSD](https://www.psds.ac.uk/csd) (organic)
+* [ICSD](https://www.psds.ac.uk/icsd) (inorganic)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [2D Halide Perovskites](http://www.pdb.nmse-lab.ru)
@@ -35,7 +36,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 ### Machine Learning for Materials 
 
 * [Crystals.ai](https://crystals.ai)
-* [Gaussian Approximation Potentials](http://www.libatoms.org/Home/Software)
+* [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 
