@@ -20,7 +20,6 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [Jarvis-DFT](https://www.ctcms.nist.gov/~knc6/JVASP.html)
 * [Open Quantum Materials Database](http://oqmd.org)
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) 
-* [Materials Cloud](https://www.materialscloud.org/)
 * [NOMAD](https://nomad-coe.eu) 
 * [NREL Materials Database](https://materials.nrel.gov)
 * [SMACT](https://github.com/WMD-group/SMACT)
