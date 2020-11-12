@@ -10,7 +10,7 @@ Also see
 [Zotero](https://www.zotero.org/aronwalsh),
 or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
-![](/assets/el-2020.jpg) ![](/assets/acr-2016.jpg) ![](/assets/com-2018.jpg)
+![](/assets/el-2020.jpg) ![](/assets/acr-2016.jpg) ![](/assets/com-2018.jpg) ![](/assets/cs-2020.jpg)
 
 ### Preprints
 
@@ -28,7 +28,7 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 ### 2020
 
 * "Crystal structure and metallization mechanism of the π-radical metal TED" [Chemical Science (2020)](https://doi.org/10.1039/D0SC03521A)
-*#molecularmetal*
+*#molecularmetal* [[Cover Feature](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc03521a)]
 
 * "Bandgap lowering in mixed alloys of Cs<sub>2</sub>Ag(Sb<sub>x</sub>Bi<sub>1-x</sub>)Br<sub>6</sub> double perovskite thin films" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA07145E)
 *#solar #perovskites*
