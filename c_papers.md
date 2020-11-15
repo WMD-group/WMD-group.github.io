@@ -17,6 +17,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [arXiv (2020)](https://arxiv.org/abs/2008.08959) [Featured in [Nature Physics](https://www.nature.com/articles/s41567-020-01060-8.)]
 *#solar #perovskites*
 
+* "Solvent Engineered Synthesis of Layered SnO Nanoparticles for High-Performance Anodes" [arXiv (2020)](https://arxiv.org/abs/2011.02397)
+*#oxides #batteries*
+
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
