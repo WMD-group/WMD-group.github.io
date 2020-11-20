@@ -23,10 +23,13 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
 *#solar #perovskites #defects*
 
-* "Modelling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [arXiv (2020)](https://arxiv.org/abs/2004.04416)
-*#solar #perovskites #defects*
-
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
+
+### 2021
+
+* "Modeling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [Annual Review of Condensed Matter Physics
+ (2020)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
+*#solar #perovskites #defects*
 
 ### 2020
 
