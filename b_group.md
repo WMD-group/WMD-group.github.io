@@ -27,11 +27,11 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://www.chinesescholarshipcouncil.com)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
-- [Seán Kavanagh](http://cdt-acm.org) [[joint with Prof. David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
+- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) [[joint with Prof. David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
 - [Steven Kench](http://www.imperial.ac.uk/design-engineering/) [[joint with Dr Sam Cooper](http://scholar.google.co.uk/citations?user=WrXP3Q8AAAAJ&hl=en)]
 - [Gabriel Krenzer](https://faraday.ac.uk) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
-- [Kazuki Morita](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
+- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) [[joint with Dr Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Dr Laura Ratcliff](https://scholar.google.co.uk/citations?hl=en&user=A1rK_5UAAAAJ)]
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/)
