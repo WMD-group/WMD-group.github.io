@@ -20,9 +20,6 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Solvent Engineered Synthesis of Layered SnO Nanoparticles for High-Performance Anodes" [arXiv (2020)](https://arxiv.org/abs/2011.02397)
 *#oxides #batteries*
 
-* "Probing the ionic defect landscape in halide perovskite solar cells" [arXiv (2020)](https://arxiv.org/abs/2005.06942)
-*#solar #perovskites #defects*
-
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2021
@@ -32,6 +29,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 *#solar #perovskites #defects*
 
 ### 2020
+
+* "Probing the ionic defect landscape in halide perovskite solar cells" [Nature Communications (2020)](https://www.nature.com/articles/s41467-020-19769-8)
+*#solar #perovskites #defects*
 
 * "Crystal structure and metallization mechanism of the π-radical metal TED" [Chemical Science (2020)](https://doi.org/10.1039/D0SC03521A)
 *#molecularmetal* [[Cover Feature](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc03521a)]
