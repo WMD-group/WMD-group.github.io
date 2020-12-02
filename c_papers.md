@@ -14,9 +14,6 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [arXiv (2020)](https://arxiv.org/abs/2008.08959) [Featured in [Nature Physics](https://www.nature.com/articles/s41567-020-01060-8.)]
-*#solar #perovskites*
-
 * "Solvent Engineered Synthesis of Layered SnO Nanoparticles for High-Performance Anodes" [arXiv (2020)](https://arxiv.org/abs/2011.02397)
 *#oxides #batteries*
 
@@ -27,6 +24,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Modeling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [Annual Review of Condensed Matter Physics
  (2020)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
 *#solar #perovskites #defects*
+
+* "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [Nanotechnology (2021)](https://arxiv.org/abs/2008.08959) [Featured in [Nature Physics](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d)]
+*#solar #perovskites*
 
 ### 2020
 
