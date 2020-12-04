@@ -35,9 +35,12 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 ### Machine Learning for Materials 
 
 * [Crystals.ai](https://crystals.ai)
+* [DScribe](https://singroup.github.io/dscribe) (structure descriptors)
 * [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
+* [Megnet](http://megnet.crystals.ai) (graph network modes)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
+* [Sketch-Map](https://sketchmap.org) (clustering and visualisation)
 
 ### Crystal Structure Prediction
 
