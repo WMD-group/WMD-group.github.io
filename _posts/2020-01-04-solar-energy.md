@@ -31,9 +31,9 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 ### Select Publications (Perovskite)
 
-- [Accumulation of deep traps at grain boundaries in halide perovskites (ACS Energy Letters, 2019)](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00840)
+- [Performance-limiting nanoscale trap clusters at grain junctions in halide perovskites (Nature, 2020)](https://www.nature.com/articles/s41586-020-2184-1)
 
-- [Dielectric and ferroic properties of metal halide perovskites (APL Materials, 2019)](https://aip.scitation.org/doi/10.1063/1.5079633)
+- [Accumulation of deep traps at grain boundaries in halide perovskites (ACS Energy Letters, 2019)](https://pubs.acs.org/doi/10.1021/acsenergylett.9b00840)
 
 - [Taking control of ion transport in halide perovskite solar cells (ACS Energy Letters, 2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00764)
 
@@ -43,7 +43,7 @@ including CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> and [HC(NH<sub>2</sub>)<su
 
 ### Select Publications (Non-Perovskite)
 
-- [Lone-pair effect on carrier capture in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells (Journal of Materials Chemistry A, 2019)](https://pubs.rsc.org/en/content/articlelanding/2019/TA/C8TA10130B#!divAbstract)
+- [Upper limit to the photovoltaic efficiency of imperfect crystals from first principles, Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE00291G)
 
 - [Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching (Journal of Applied Physics, 2019)](https://doi.org/10.1063/1.5079485)
 

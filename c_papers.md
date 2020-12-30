@@ -25,7 +25,7 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
  (2020)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
 *#solar #perovskites #defects*
 
-* "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [Nanotechnology (2021)](https://arxiv.org/abs/2008.08959) [Featured in [Nature Physics](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d)]
+* "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [Nanotechnology (2021)](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d) [Featured in [Nature Physics](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d)]
 *#solar #perovskites*
 
 ### 2020
