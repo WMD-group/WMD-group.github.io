@@ -21,8 +21,17 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2021
 
+* "Multi-phonon proton transfer pathway in a molecular organic ferroelectric crystal" [PCCP (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D0CP04236F#)
+*#ferroelectrics #phonons*
+
+* "Lead-free halide double perovskites: Toward stable and sustainable optoelectronic devices" [Materials Today (2021)](https://www.sciencedirect.com/science/article/abs/pii/S136970212030451X)
+*#solar #perovskites*
+
+* "BiSbWO<sub>6</sub>: Properties of a Mixed 5s/6s Lone-Pair-Electron System" [Chemical Physics (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0301010421000288)
+*#lonepairs #solarfuels*
+
 * "Modeling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [Annual Review of Condensed Matter Physics
- (2020)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
+ (2021)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
 *#solar #perovskites #defects*
 
 * "Perovskite-Inspired Materials for Photovoltaics - From Design to Devices" [Nanotechnology (2021)](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d) [Featured in [Nature Physics](https://iopscience.iop.org/article/10.1088/1361-6528/abcf6d)]
