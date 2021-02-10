@@ -119,20 +119,22 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [PhononWebsite](http://henriquemiranda.github.io/phononwebsite/phonon.html) (Abinit)
 * [Kyoto phonons](http://phonondb.mtl.kyoto-u.ac.jp) (Atsushi Togo)
 
-### Point Defects and Alloys
+### Solid Solutions 
 
 * [ATAT](https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/) (alloy toolkit)
 * [CASM](https://github.com/prisms-center/CASMcode) (alloy toolkit)
-* [CPLAP](https://github.com/jbuckeridge/cplap) (chemical potential space)
-* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) (self-consistent concentrations)
-* [SOD](https://github.com/Grau-CrespoGroup/sod) (partial occupancy and solid-solutions)
+* [icet](https://icet.materialsmodeling.org) (cluster expansion)
 * [Transformer](https://github.com/JMSkelton/Transformer) (structure generator) 
-* [DefectsWithTheBoys](https://github.com/kavanase/DefectsWithTheBoys) (defect calculation pre and post-processing)
+* [SOD](https://github.com/Grau-CrespoGroup/sod) (partial occupancy and solid-solutions)
 
-#### Charged Defect Corrections
+### Point Defects
 
+* [CPLAP](https://github.com/jbuckeridge/cplap) (chemical potential space)
+* [Doped](https://github.com/kavanase/doped) (defect calculation pre and post-processing)
+* [PyCDT](https://github.com/mbkumar/pycdt) (defect calculation pre and post-processing)
+* [PyLada](https://github.com/pylada/pylada-defects) (Lany & Zunger scheme)
+* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) (self-consistent concentrations)
 * [sxdefectalign](https://sxrepo.mpie.de/projects/sphinx-add-ons/files?sort=filename) (Freysoldt scheme) 
-* [pylada-defects](https://github.com/pylada/pylada-defects) (Lany & Zunger scheme)
 
 ### Python and Friends
 
