@@ -4,7 +4,7 @@ title: Researchers
 permalink: /group/
 ---
 
-[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Underwood Distinguished Dual Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
+[Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) is Full Professor in Materials Design in the [Department of Materials](https://www.imperial.ac.uk/engineering/departments/materials) at Imperial College London (UK) and Underwood Distinguished Visiting Professor in [Materials Science and Engineering](http://mse.yonsei.ac.kr/eng/) at Yonsei University (Korea).
 
 Aron studied at Trinity College Dublin (Ireland), and later held positions at the National Renewable Energy Laboratory (USA), University College London (UK), and the University of Bath (UK).
 
@@ -19,7 +19,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 
 ### Senior Researchers
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 
@@ -68,6 +67,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Joaquín Calbo](https://scholar.google.co.uk/citations?user=wzmgqIoAAAAJ&hl=en&oi=ao)
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
+- [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 
 ### Former Visitors
 - [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)

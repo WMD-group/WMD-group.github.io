@@ -24,12 +24,7 @@ Note that our group focuses solely on theory and simulation of materials.
 * [China Scholarship Council (China)](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
 * [Yoshida Scholarship Foundation (Japan)](http://www.ysf.or.jp/englishpage/index.html)
 
-### Centres for Doctoral Training
-* [Theory and Simulation of Materials](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
-* [Plastic Electronics](http://www.imperial.ac.uk/plastic-electronics-cdt/postgraduate-training/course/)
-
-We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org),
-the [Centre for Plastic Electronics](https://www.imperial.ac.uk/plastic-electronics),
-and the [UK Materials Design Network](http://mdn-uk.github.io).
+We are active members of the [Thomas Young Centre](http://www.thomasyoungcentre.org) and
+the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics/).
 
 ![](http://www.thomasyoungcentre.org//public/cms/37/14/2/2/YtcfTU_web.bmp){: .center-image }

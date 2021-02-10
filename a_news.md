@@ -6,6 +6,8 @@ permalink: /news/
 
 ### Recent Highlights 
 
+* Aron has joined [JACS](https://pubs.acs.org/journal/jacsat) as an Associate Editor covering energy materials and machine learning. 
+
 * A global consensus on [perovskite solar cell stability protocols](https://www.nature.com/articles/s41560-019-0529-5) was published in Nature Energy. Credit goes to Monica Lira-Cantu for leading the highly-collaborative effort.
 
 * To track advances in the latest photovoltaic technologies, we have been involved in the setup of the "Emerging inorganic solar cell efficiency tables" as a new series in [J Phys. Energy](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338).
@@ -16,6 +18,8 @@ permalink: /news/
 ![](/assets/hcr-2020.png){: .center-image }
 
 ### Alumni News
+
+* [Miguel Rivera](https://www.ucl.ac.uk/chemistry/people/dr-miguel-rivera) is Computational Chemistry Associate Lecturer (Teaching) at UCL.
 
 * [Lucy Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) is a VC Fellow at Northumbria University.
 
