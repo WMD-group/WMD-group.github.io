@@ -13,3 +13,5 @@ permalink: /intern/
 월쉬아론 교수님은 연세대학교와 영국 런던 임페리얼 칼리지([Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London))에서 전임교수로 재직 중이시며 추후 대학원 입학 학생에게 영국 연구실 방문연구의 기회가 주어질 수 있습니다.
 
 인턴십 지원 및 추가적인 문의사항은 jyk4267@yonsei.ac.kr(연세대학교 신소재공학과 정영광)으로 부탁드립니다.
+
+![](/assets/intern.jpg) 

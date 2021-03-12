@@ -14,12 +14,18 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Solvent Engineered Synthesis of Layered SnO Nanoparticles for High-Performance Anodes" [arXiv (2020)](https://arxiv.org/abs/2011.02397)
-*#oxides #batteries*
+* "Rapid Recombination by Cadmium Vacancies in CdTe" [arXiv (2021)](https://arxiv.org/abs/2103.00984)
+*#solar #chalcogenides*
 
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2021
+
+* "Bismuth Doping Alters Structural Phase Transitions in Methylammonium Lead Tribromide Single Crystals" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00334)
+*#solar #perovskites*
+
+* "Solvent engineered synthesis of layered SnO for high-performance anodes" [npj 2D Materials and Applications (2021)](https://www.nature.com/articles/s41699-021-00208-1)
+*#oxides #batteries*
 
 * "Multi-phonon proton transfer pathway in a molecular organic ferroelectric crystal" [PCCP (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D0CP04236F#)
 *#ferroelectrics #phonons*
