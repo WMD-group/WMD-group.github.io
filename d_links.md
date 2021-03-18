@@ -66,6 +66,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch) (interface screening)
 * [Effmass](https://github.com/lucydot/effmass) (effective masses)
 * [Galore](https://github.com/SMTG-UCL/galore) (simulating spectra)
+* [iFermi](https://github.com/fermisurfaces/IFermi) (Fermi surfaces)
 * [kgrid](https://github.com/WMD-group/kgrid) (consistent k-point sampling)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) (analysis of electrostatic potentials)
 * [QUESTAAL](https://www.questaal.org) (all-electron QSGW)
