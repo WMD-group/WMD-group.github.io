@@ -31,6 +31,7 @@ Note: this list is not comprehensive, but contains tools we use, some we like, a
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [2D Halide Perovskites](http://www.pdb.nmse-lab.ru)
+* [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
 
 ### Machine Learning for Materials 
 
