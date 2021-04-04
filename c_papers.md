@@ -14,12 +14,17 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Rapid Recombination by Cadmium Vacancies in CdTe" [arXiv (2021)](https://arxiv.org/abs/2103.00984)
-*#solar #chalcogenides*
+* Coming Soon 
 
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2021
+
+* "Rapid Recombination by Cadmium Vacancies in CdTe" [ACS Energy Letters (2021)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00380)
+*#solar #chalcogenides*
+
+* "Colloidal nano-MOFs nucleate and stabilize ultra- small quantum dots of lead bromide perovskites" [Chemical Science (2021)](https://doi.org/10.1039/D1SC00282A)
+*#solar #perovskites*
 
 * "Bismuth Doping Alters Structural Phase Transitions in Methylammonium Lead Tribromide Single Crystals" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00334)
 *#solar #perovskites*
@@ -31,6 +36,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 *#ferroelectrics #phonons*
 
 * "Lead-free halide double perovskites: Toward stable and sustainable optoelectronic devices" [Materials Today (2021)](https://www.sciencedirect.com/science/article/abs/pii/S136970212030451X)
+*#solar #perovskites*
+
+* "Passivation Properties and Formation Mechanism of Amorphous Halide Perovskite Thin Films" [Advanced Functional Materials (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202010330)
 *#solar #perovskites*
 
 * "BiSbWO<sub>6</sub>: Properties of a Mixed 5s/6s Lone-Pair-Electron System" [Chemical Physics (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0301010421000288)

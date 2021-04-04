@@ -18,6 +18,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
+- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
@@ -26,7 +27,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://www.chinesescholarshipcouncil.com)
-- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) [[joint with David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
 - [Steven Kench](http://www.imperial.ac.uk/design-engineering/) [[joint with Sam Cooper](http://scholar.google.co.uk/citations?user=WrXP3Q8AAAAJ&hl=en)]
 - [Gabriel Krenzer](https://faraday.ac.uk) 
@@ -37,7 +37,6 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
-
 
 ### Masters Students
 - [Alexander Moriarty](https://www.imperial.ac.uk/materials)
