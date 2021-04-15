@@ -20,6 +20,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2021
 
+* "Prediction of high thermoelectric performance in the low-dimensional metal halide Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00521-9)
+*#thermoelectrics*
+
 * "Rapid Recombination by Cadmium Vacancies in CdTe" [ACS Energy Letters (2021)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00380)
 *#solar #chalcogenides*
 
