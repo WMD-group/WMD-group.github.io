@@ -14,7 +14,11 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* Coming Soon 
+* "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [arXiv (2021)](https://arxiv.org/abs/2104.13572)
+*#solar #kesterites*
+
+* "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" [arXiv (2021)](https://arxiv.org/abs/2105.02097)
+*#solar #perovskites*
 
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
@@ -23,29 +27,35 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Prediction of high thermoelectric performance in the low-dimensional metal halide Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00521-9)
 *#thermoelectrics*
 
-* "Rapid Recombination by Cadmium Vacancies in CdTe" [ACS Energy Letters (2021)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00380)
-*#solar #chalcogenides*
+* "Correcting the corrections for charged defects in crystals" [npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00546-0)
+*#defects*
+
+* "Emerging inorganic solar cell efficiency tables (version 2)" [J. Phys. Energy (2021)](https://doi.org/10.1088/2515-7655/abebca)
+*#solar*
 
 * "Colloidal nano-MOFs nucleate and stabilize ultra- small quantum dots of lead bromide perovskites" [Chemical Science (2021)](https://doi.org/10.1039/D1SC00282A)
 *#solar #perovskites*
 
+* "Rapid Recombination by Cadmium Vacancies in CdTe" [ACS Energy Letters (2021)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00380)
+*#solar #chalcogenides*
+
 * "Bismuth Doping Alters Structural Phase Transitions in Methylammonium Lead Tribromide Single Crystals" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00334)
+*#solar #perovskites*
+
+* "Passivation Properties and Formation Mechanism of Amorphous Halide Perovskite Thin Films" [Advanced Functional Materials (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202010330)
 *#solar #perovskites*
 
 * "Solvent engineered synthesis of layered SnO for high-performance anodes" [npj 2D Materials and Applications (2021)](https://www.nature.com/articles/s41699-021-00208-1)
 *#oxides #batteries*
+
+* "BiSbWO<sub>6</sub>: Properties of a Mixed 5s/6s Lone-Pair-Electron System" [Chemical Physics (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0301010421000288)
+*#lonepairs #solarfuels*
 
 * "Multi-phonon proton transfer pathway in a molecular organic ferroelectric crystal" [PCCP (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D0CP04236F#)
 *#ferroelectrics #phonons*
 
 * "Lead-free halide double perovskites: Toward stable and sustainable optoelectronic devices" [Materials Today (2021)](https://www.sciencedirect.com/science/article/abs/pii/S136970212030451X)
 *#solar #perovskites*
-
-* "Passivation Properties and Formation Mechanism of Amorphous Halide Perovskite Thin Films" [Advanced Functional Materials (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202010330)
-*#solar #perovskites*
-
-* "BiSbWO<sub>6</sub>: Properties of a Mixed 5s/6s Lone-Pair-Electron System" [Chemical Physics (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0301010421000288)
-*#lonepairs #solarfuels*
 
 * "Modeling Grain Boundaries in Polycrystalline Halide Perovskite Solar Cells" [Annual Review of Condensed Matter Physics
  (2021)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
