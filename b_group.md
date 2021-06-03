@@ -18,6 +18,7 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 ### Senior Researchers
+- [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
@@ -67,15 +68,3 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
-
-### Former Visitors
-- [Clóvis Caetano](http://www.bv.fapesp.br/pt/pesquisador/34209/clovis-caetano/)
-- [Shiyou Chen](https://scholar.google.co.uk/citations?user=ZGmDGb0AAAAJ&hl=en)
-- [Mirjana Dimitrievska](https://scholar.google.co.uk/citations?user=ytV8eIQAAAAJ&hl=en)
-- [Chang-Eun Kim (김창은)](https://scholar.google.co.uk/citations?user=20AziH8AAAAJ&hl=en)
-- [Yu Kumagai](https://scholar.google.co.uk/citations?user=xST4MSEAAAAJ&hl=en&oi=ao)
-- [Taizo Shibuya](https://scholar.google.com/citations?user=CGWpbEwAAAAJ&hl=ja)
-- [Tom Vaid](https://scholar.google.com/citations?user=c_2f970AAAAJ&hl=en)
-- [Su-Hyun Yoo (유수현)](https://scholar.google.co.uk/citations?user=VhIOTvcAAAAJ&hl=en)
-- [Zijuan Xie](https://scholar.google.co.uk/citations?user=YXVgU-IAAAAJ&hl=en&oi=ao) 
-- [Hak-Young Ahn (안학영)](https://scholar.google.com/citations?user=IbEaXXEAAAAJ&hl=ko)
