@@ -24,6 +24,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### 2021
 
+* "Best practices in machine learning for chemistry" [Nature Chemistry (2021)](https://www.nature.com/articles/s41557-021-00716-z)
+*#machinelearning*
+
 * "Prediction of high thermoelectric performance in the low-dimensional metal halide Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00521-9)
 *#thermoelectrics*
 
