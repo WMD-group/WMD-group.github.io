@@ -39,9 +39,11 @@ metal oxides, chalcogenides, halides, and metal-organic frameworks.
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 
-### Masters Students
+### Undergraduate Researchers 
+- [Savyasanchi Aggarwal](https://www.imperial.ac.uk/materials)
+- [Yeonkyung Lee](https://www.imperial.ac.uk/materials)
 - [Alexander Moriarty](https://www.imperial.ac.uk/materials)
-- [Edvard Christoffersen](https://www.imperial.ac.uk/materials)
+- [Jongwoong Park (박종웅)](https://devcms.yonsei.ac.kr/engineering_en/index.do)
 
 ### Alumni: PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
