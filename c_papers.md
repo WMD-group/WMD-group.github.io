@@ -14,15 +14,24 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 
 ### Preprints
 
-* "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [arXiv (2021)](https://arxiv.org/abs/2104.13572)
-*#solar #kesterites*
-
-* "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" [arXiv (2021)](https://arxiv.org/abs/2105.02097)
+* "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II) / Sn(IV) doping" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
 *#solar #perovskites*
 
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2021
+
+* "Hidden spontaneous polarisation in the chalcohalide photovoltaic Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [Materials Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/MH/D1MH00764E)
+*#solar*
+
+* "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0049143)
+*#solar #kesterites*
+
+* "Assessment of interstitial potentials for rapid prediction of absolute band energies in crystals" [Journal of Chemical Physics (2021)](https://aip.scitation.org/doi/10.1063/5.0044866)
+*#screening*
+
+* "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" [Journal of the American Chemical Society (2021)](https://pubs.acs.org/doi/10.1021/jacs.1c03064)
+*#solar #perovskites*
 
 * "Best practices in machine learning for chemistry" [Nature Chemistry (2021)](https://www.nature.com/articles/s41557-021-00716-z)
 *#machinelearning*
