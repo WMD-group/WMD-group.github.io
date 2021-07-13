@@ -17,6 +17,9 @@ or [Orcid](http://orcid.org/0000-0001-5460-7033).
 * "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II) / Sn(IV) doping" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
 *#solar #perovskites*
 
+* "Low Electronic Conductivity of Li<sub>7</sub>La<sub>4</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) Solid Electrolytes from First Principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
+*#batteries #defects*
+
 ![](/assets/cs-2019.jpg) ![](/assets/el-2018.jpg) ![](/assets/ees-2009.jpg) ![](/assets/jmcc-2016.jpg) 
 
 ### 2021
