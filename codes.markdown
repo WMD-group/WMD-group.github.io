@@ -121,7 +121,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Doped](https://github.com/kavanase/doped) 
 * [PyCDT](https://github.com/mbkumar/pycdt)
 * [PyLada](https://github.com/pylada/pylada-defects)
-* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) 
+* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) / [PY-SC-FERMI](https://github.com/bjmorgan/py-sc-fermi)
 * [sxdefectalign](https://sxrepo.mpie.de/projects/sphinx-add-ons/files?sort=filename) 
 
 # Python and Friends
