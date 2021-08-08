@@ -11,7 +11,6 @@ permalink: /papers/
     <img width="23%" src="/images/csr-2011.jpg"> 
 </p>
 
-
 # Preprints
 * "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>4</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
@@ -102,3 +101,30 @@ permalink: /papers/
 0. "Quick-start guide for first-principles modelling of semiconductor interfaces" [J Phys Energy (2019)](http://iopscience.iop.org/article/10.1088/2515-7655/aad928)
 0. "Atomistic insights into the order–disorder transition in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells from Monte Carlo simulations" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/TA/C8TA04812F#)
 0. "Accelerated optimization of transparent, amorphous zinc-tin-oxide thin films for optoelectronic applications" [APL Materials (2019)](https://doi.org/10.1063/1.5053683)
+# 2018
+0. "Open-circuit voltage deficit in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells by interface bandgap narrowing" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5063793)
+0. "Water oxidation catalysed by quantum-sized BiVO<sub>4</sub>" [Applied Physics Letters (2018)](https://pubs.rsc.org/en/content/articlelanding/2018/TA/C8TA08015A)
+0. "Acoustic phonon lifetimes limit thermal transport in methylammonium lead iodide" [PNAS (2018)](http://www.pnas.org/content/115/47/11905)
+0. "Hydrogen bonding versus entropy: revealing the underlying thermodynamics of the hybrid organic–inorganic perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>" [Chemistry of Materials (2018)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164)
+0. "Stability and electronic properties of planar defects in quaternary I<sub>2</sub>-II-IV-VI<sub>4</sub> semiconductors" [Journal of Applied Physics (2018)](https://aip.scitation.org/doi/10.1063/1.5053424)
+0. "Oxidation states and ionicity" [Nature Materials (2018)](https://doi.org/10.1038/s41563-018-0165-7)
+0. "Heterometallic perovskite-type metal–organic framework with an ammonium cation: structure, phonons, and optical response of [NH<sub>4</sub>]Na<sub>0.5</sub>Cr<sub>x</sub>Al<sub>0.5−x</sub>(HCOO)<sub>3</sub> (x = 0, 0.025 and 0.5)" [PCCP (2018)](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03788d#!divAbstract)
+0. "Giant electron−phonon coupling and deep conduction band resonance in metal halide double perovskite" [ACS Nano (2018)](https://pubs.acs.org/doi/10.1021/acsnano.8b02936)
+0. "Dynamic symmetry breaking and spin splitting in metal halide perovskites" [Physical Review B (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.085108)
+0. "Breathing-dependent redox activity in a tetrathiafulvalene-based metal-organic framework" [Journal of the American Chemical Society (2018)](https://pubs.acs.org/doi/abs/10.1021/jacs.8b05890)
+0. "Taking control of ion transport in halide perovskite solar cells" [ACS Energy Letters (2018)](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00764)
+0. "Machine learning for molecular and materials science" [Nature (2018)](https://www.nature.com/articles/s41586-018-0337-2)
+0. "Preface for Special Topic: Earth abundant materials in solar cells" [APL Materials (2018)](https://aip.scitation.org/doi/10.1063/1.5052266)
+0. "Point defect engineering in thin-film solar cells" [Nature Reviews Materials (2018)](https://www.nature.com/articles/s41578-018-0026-7)
+0. "Prediction of multiband luminescence due to the gallium vacancy–oxygen defect complex in GaN" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5026751)
+0. "Unusual phase transition driven by vibrational entropy changes in a hybrid organic‐inorganic perovskite" [Angewandte Chemie (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201803176)
+0. "Deep vs shallow nature of oxygen vacancies and consequent n-type carrier concentrations in transparent conducting oxides" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.054604)
+0. "Role of electron-phonon coupling and thermal expansion on band gaps, carrier mobility, and interfacial offsets in kesterite thin-film solar cells" [Applied Physics Letters (2018)](https://aip.scitation.org/doi/10.1063/1.5028186)
+0. "Critical role of water in defect aggregation and chemical degradation of perovskite solar cells" [Journal of Physical Chemistry Letters (2018)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.8b00406) 
+0. "Intrinsic instability of the hybrid halide perovskite semiconductor CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>" [Chinese Physics Letters (2018)](http://cpl.iphy.ac.cn/10.1088/0256-307X/35/3/036104) [[arXiv (2015)](https://arxiv.org/abs/1506.01301)]
+0. "Vacancy defect configurations in the metal–organic framework UiO-66: energetics and electronic structure" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2018/ta/c7ta11155j#!divAbstract)
+0. "Materials discovery by chemical analogy: role of oxidation states in structure prediction" [Faraday Discussions (2018)](http://pubs.rsc.org/en/content/articlelanding/2014/FD/C8FD00032H)
+0. "Identification of killer defects in kesterite thin-film solar cells" [ACS Energy Letters (2018)](http://pubs.acs.org/doi/10.1021/acsenergylett.7b01313)
+0. "Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors" [Physical Review Materials (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)
+0. "Computer-aided design of metal chalcohalide semiconductors: From chemical composition to crystal structure" [Chemical Science (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc03961a)
+0. "Influence of water intercalation and hydration on chemical decomposition and ion transport in methylammonium lead halide perovskites" [Journal of Materials Chemistry A (2018)](http://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta09112e)
