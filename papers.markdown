@@ -16,6 +16,8 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>4</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
 
 # 2021
+0. "Evolutionary exploration of polytypism in lead halide perovskites" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03098A)
+0. "Insights into the electric double-layer capacitance of two-dimensional electrically conductive metal–organic frameworks" [Journal of Materials Chemistry A (2021)](https://doi.org/10.1039/D1TA04026J)
 0. "Hidden spontaneous polarisation in the chalcohalide photovoltaic Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [Materials Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/MH/D1MH00764E)
 0. "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0049143) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
 0. "Assessment of interstitial potentials for rapid prediction of absolute band energies in crystals" [Journal of Chemical Physics (2021)](https://aip.scitation.org/doi/10.1063/5.0044866)
