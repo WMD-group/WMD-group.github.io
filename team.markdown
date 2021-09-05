@@ -8,7 +8,6 @@ permalink: /team/
     <img width="60%" src="/images/groupday_2018.jpg"> 
 </p>
 
-
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 # Senior Researchers
@@ -16,7 +15,6 @@ permalink: /team/
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
-- [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 
 # PhD Students
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
@@ -33,7 +31,7 @@ permalink: /team/
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 
 # Undergraduate Researchers 
-- [Savyasanchi Aggarwal](https://www.imperial.ac.uk/materials)
+- [Savyasanchi Aggarwal](https://www.imperial.ac.uk/chemistry)
 - [Yeonkyung Lee](https://www.imperial.ac.uk/materials)
 - [Alexander Moriarty](https://www.imperial.ac.uk/materials)
 - [Jongwoong Park (박종웅)](https://devcms.yonsei.ac.kr/engineering_en/index.do)
@@ -63,3 +61,4 @@ permalink: /team/
 - [Samantha Hood](https://scholar.google.co.uk/citations?user=1I0WjV8AAAAJ&hl=en&oi=ao)
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
+- [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
