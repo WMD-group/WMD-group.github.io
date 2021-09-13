@@ -33,14 +33,19 @@ A selection of tools we use, some we like, and others we develop.
 
 # Machine Learning 
 * [Crystals.ai](https://crystals.ai)
-* [Crabnet](https://github.com/anthony-wang/CrabNet)
 * [DScribe](https://singroup.github.io/dscribe)
 * [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [Megnet](http://megnet.crystals.ai)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 * [Sketch-Map](https://sketchmap.org) 
+
+#### Compositional Descriptors 
+* [Crabnet](https://github.com/anthony-wang/CrabNet)
+* [Element Movers Distance](https://github.com/lrcfmd/ElMD/)
+* [mat2vec](https://github.com/materialsintelligence/mat2vec)
 * [RooSt](https://github.com/CompRhys/roost)
+* [SkipAtom](https://github.com/lantunes/skipatom)
 
 # Structure Prediction
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS) 
@@ -71,6 +76,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) 
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) 
 * [Sumo](https://github.com/SMTG-UCL/sumo)
+* [Surfaxe](https://github.com/SMTG-UCL/surfaxe)
 * [vaspup2.0](https://github.com/kavanase/vaspup2.0) 
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples) 
 * [VASPpy](https://github.com/bjmorgan/vasppy) 
