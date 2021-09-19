@@ -17,18 +17,22 @@ permalink: /team/
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 
 # PhD Students
+- [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) [[joint with David Payne](https://scholar.google.co.uk/citations?user=UKzstqgAAAAJ&hl=en&oi=ao)]
+- [Gabriel Krenzer](https://faraday.ac.uk) 
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://www.chinesescholarshipcouncil.com)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) [[joint with David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
 - [Gabriel Krenzer](https://faraday.ac.uk) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
+- [Xia Liang](https://www.imperial.ac.uk/materials)
 - [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) [[joint with Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Laura Ratcliff](https://scholar.google.co.uk/citations?hl=en&user=A1rK_5UAAAAJ)]
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Jacob Wilson](https://www.imperial.ac.uk/materials)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
+- [Yifan Wu](https://www.imperial.ac.uk/materials)
 
 # Undergraduate Researchers 
 - [Savyasanchi Aggarwal](https://www.imperial.ac.uk/chemistry)
@@ -36,7 +40,7 @@ permalink: /team/
 - [Alexander Moriarty](https://www.imperial.ac.uk/materials)
 - [Jongwoong Park (박종웅)](https://devcms.yonsei.ac.kr/engineering_en/index.do)
 
-# Alumni: PhD Graduates 
+# Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
@@ -47,6 +51,7 @@ permalink: /team/
 - [Suzanne K. Wallace](https://scholar.google.co.uk/citations?user=sZ6ZWoAAAAAJ&hl=en)
 - [Daniel W. Davies](https://scholar.google.co.uk/citations?user=XD-sA1MAAAAJ&hl=en)
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
+- [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
