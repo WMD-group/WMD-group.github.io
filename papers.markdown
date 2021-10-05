@@ -13,7 +13,7 @@ permalink: /papers/
 
 # Preprints
 * "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
-* "Low electronic conductivity of Li<sub>7</sub>La<sub>4</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60ea01cfaf9cdbb78dda9870)
+* "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 * "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [arXiv (2021)](https://arxiv.org/abs/2109.08117)
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
