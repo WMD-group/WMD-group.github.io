@@ -17,7 +17,7 @@ permalink: /papers/
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
 # 2021
-* "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
+0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
 0. "Asymmetric carrier transport in flexible interface-type memristor enables artificial synapses with sub-femtojoule energy consumption" [Nanoscale Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NH/D1NH00452B)
 0. "Low barrier for exciton self-trapping enables high photoluminescence quantum yield in Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c02252) [[Cover Feature](https://pubs.acs.org/toc/jpclcd/12/34)]
 0. "Evolutionary exploration of polytypism in lead halide perovskites" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03098A)
