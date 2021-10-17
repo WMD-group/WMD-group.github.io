@@ -216,7 +216,7 @@ permalink: /papers/
 0. "Phonon anharmonicity, lifetimes, and thermal transport in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> from many-body perturbation theory" [Physical Review B (2016)](https://www.doi.org/10.1103/PhysRevB.94.220301)
 0. "Band alignments, valence bands, and core levels in the tin sulfides SnS, SnS<sub>2</sub>, and Sn<sub>2</sub>S<sub>3</sub>: Experiment and Theory" [Chemistry of Materials (2016)](https://www.doi.org/10.1021/acs.chemmater.6b00397)
 0. "Observation of a re-entrant phase transition in the molecular complex tris­(μ<sub>2</sub>-3,5-diiso­propyl-1,2,4-triazolato-κ<sup>2</sup>N<sup>1</sup>:N<sup>2</sup>)trigold(I) under high pressure" [IUCrJ (2016)](https://www.doi.org/10.1107/S2052252516013129)
-#2015
+# 2015
 0. "Engineering solar cell absorbers by exploring the band alignment and defect disparity: the case of Cu- and Ag-based kesterite compounds" [Advanced Functional Materials (2015)](https://www.doi.org/10.1002/adfm.201502272)
 0. "Assessment of hybrid organic–inorganic antimony sulfides for earth-abundant photovoltaic applications" [The Journal of Physical Chemistry Letters (2015)](https://www.doi.org/10.1021/acs.jpclett.5b02555)
 0. "Cubic perovskite structure of black formamidinium lead iodide, α-[HC(NH<sub>2</sub>)<sub>2</sub>]PbI<sub>3</sub>, at 298 K" [The Journal of Physical Chemistry Letters (2015)](https://www.doi.org/10.1021/acs.jpclett.5b01432)
