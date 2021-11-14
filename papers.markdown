@@ -389,3 +389,4 @@ permalink: /papers/
 # 2004
 0. "On the involvement of the shallow core 5d level in the bonding in HgO" [Chemical Physics Letters (2004)](https://www.doi.org/10.1016/j.cplett.2004.09.145)
 0. "Electronic structures of rocksalt, litharge, and herzenbergite SnO by density functional theory" [Physical Review B (2004)](https://www.doi.org/10.1103/PhysRevB.70.235114)
+{: reversed="reversed"}
