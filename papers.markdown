@@ -17,6 +17,7 @@ permalink: /papers/
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
 # 2021
+0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K)
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
 0. "Asymmetric carrier transport in flexible interface-type memristor enables artificial synapses with sub-femtojoule energy consumption" [Nanoscale Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NH/D1NH00452B)
 0. "Low barrier for exciton self-trapping enables high photoluminescence quantum yield in Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c02252) [[Cover Feature](https://pubs.acs.org/toc/jpclcd/12/34)]
@@ -330,12 +331,12 @@ permalink: /papers/
 0. "Strontium migration assisted by oxygen vacancies in SrTiO<sub>3</sub> from classical and quantum mechanical simulations" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.83.220301)
 0. "Electron and hole stability in GaN and ZnO" [Journal of Physics: Condensed Matter (2011)](https://www.doi.org/10.1088/0953-8984/23/33/334217)
 0. "Surface oxygen vacancy origin of electron accumulation in indium oxide" [Applied Physics Letters (2011)](https://www.doi.org/10.1063/1.3604811)
-0. "Electronic and structural properties of the surfaces and interfaces of indium oxide" [AIP Conference Proceedings (2011).](https://www.doi.org/10.1063/1.3666319)
+0. "Electronic and structural properties of the surfaces and interfaces of indium oxide" [AIP Conference Proceedings (2011)](https://www.doi.org/10.1063/1.3666319)
 0. "Effects of reduced dimensionality on the electronic structure and defect chemistry of semiconducting hybrid organic–inorganic PbS solids" [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences (2011)](https://www.doi.org/10.1098/rspa.2010.0514)
 0. "Nature of the band gap and origin of the conductivity of PbO<sub>2</sub> revealed by theory and experiment" [Physical Review Letters (2011)](https://www.doi.org/10.1103/PhysRevLett.107.246402)
 0. "The nature of electron lone pairs in BiVO<sub>4</sub>" [Applied Physics Letters (2011)](https://www.doi.org/10.1063/1.3593012)
 0. "Compositional dependence of structural and electronic properties of Cu<sub>2</sub>ZnSn(S,Se)<sub>4</sub> alloys for thin film solar cells" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.83.125201)
-0. "Recent progress in the theoretical study of Cu<sub>2</sub>ZnSnS<sub>4</sub> and related chalcogenide semiconductors" [物理 (2011)]
+0. "Recent progress in the theoretical study of Cu<sub>2</sub>ZnSnS<sub>4</sub> and related chalcogenide semiconductors" [物理 (2011)](http://www.wuli.ac.cn/CN/abstract/abstract31976.shtml)
 0. "Structural, electronic and defect properties of Cu<sub>2</sub>ZnSn(S,Se)<sub>4</sub> alloys" [MRS Proceedings (2011)](https://www.doi.org/10.1557/opl.2011.764)
 0. "Band structure engineering of multinary chalcogenide topological insulators" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.83.245202)
 0. "Semiconducting oxides" [Journal of Physics: Condensed Matter (2011)](https://www.doi.org/10.1088/0953-8984/23/33/330301)
@@ -358,3 +359,33 @@ permalink: /papers/
 0. "Wurtzite-derived polytypes of kesterite and stannite quaternary chalcogenide semiconductors" [Physical Review B (2010)](https://www.doi.org/10.1103/PhysRevB.82.195203)
 0. "Defect physics of the kesterite thin-film solar cell absorber Cu<sub>2</sub>ZnSnS<sub>4</sub>" [Applied Physics Letters (2010)](https://www.doi.org/10.1063/1.3275796)
 0. "Advances in computational studies of energy materials" [Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2010)](https://www.doi.org/10.1098/rsta.2010.0111)
+# 2008
+0. "Insights into the structure of the stable and metastable (GeTe)<sub>m</sub>(Sb<sub>2</sub>Te<sub>3</sub>)<sub>n</sub> compounds" [Physical Review B (2008)](https://www.doi.org/10.1103/PhysRevB.78.224111)
+0. "A comparative study of the electronic structures of SrCu2O<sub>2</sub> and PbCu2O<sub>2</sub> by density functional theory, high resolution X-ray photoemission and electron paramagnetic resonance spectroscopy" [Journal of Materials Chemistry (2008)](https://www.doi.org/10.1039/b719364e)
+0. "An ab initio study of reduction of V<sub>2</sub>O<sub>5</sub> through the formation of oxygen vacancies and Li intercalation" [The Journal of Physical Chemistry C (2008)](https://www.doi.org/10.1021/jp711334f)
+0. "Symmetry-induced transparency in conductive metal oxides for optoelectronics" [SPIE Newsroom (2008)](https://www.doi.org/10.1117/2.1200810.1368)
+0. "Nature of the band gap of In<sub>2</sub>O<sub>3</sub> revealed by first-principles calculations and X-ray spectroscopy" [Physical Review Letters (2008)](https://www.doi.org/10.1103/PhysRevLett.100.167402)
+0. "Origins of band-gap renormalization in degenerately doped semiconductors" [Physical Review B (2008)](https://www.doi.org/10.1103/PhysRevB.78.075211)
+0. "Theoretical description of carrier mediated magnetism in cobalt doped ZnO" [Physical Review Letters (2008)](https://www.doi.org/10.1103/PhysRevLett.100.256401)
+0. "Filling the green gap: A first-principles study of the LiMg<sub>1-x</sub>Zn<sub>x</sub>N alloy" [Physica Status Solidi (c) (2008)](https://www.doi.org/10.1002/pssc.200778404)
+0. "Electronic, Energetic, and Chemical Effects of Intrinsic Defects and Fe-Doping of CoAl<sub>2</sub>O<sub>4</sub>: A DFT+U Study" [The Journal of Physical Chemistry C (2008)](https://www.doi.org/10.1021/jp711566k)
+0. "Electronic structure and phase stability of MgO, ZnO, CdO, and related ternary alloys" [Physical Review B (2008)](https://www.doi.org/10.1103/PhysRevB.77.245209)
+# 2007
+0. "Nature of electronic states at the Fermi level of metallic β-PbO<sub>2</sub> revealed by hard x-ray photoemission spectroscopy" [Physical Review B (2007)](https://www.doi.org/10.1103/PhysRevB.75.153102)
+0. "Experimental and theoretical study of the electronic structures of α-PbO and β-PbO<sub>2</sub>" [Journal of Materials Chemistry (2007)](https://www.doi.org/10.1039/B612323F)
+0. "Surface sensitivity in lithium-doping of MgO: A density functional theory study with correction for on-site Coulomb interactions" [The Journal of Physical Chemistry C (2007)](https://www.doi.org/10.1021/jp070200y)
+0. "Polymorphism in bismuth stannate: A first-principles study" [Chemistry of Materials (2007)](https://www.doi.org/10.1021/cm0714279)
+0. "Theoretical study of stability and electronic structure of Li(Mg,Zn)N alloys: A candidate for solid state lighting" [Physical Review B (2007)](https://www.doi.org/10.1103/PhysRevB.76.195208)
+0. "Structural, magnetic, and electronic properties of the Co-Fe-Al oxide spinel system: Density-functional theory calculations" [Physical Review B (2007)](https://www.doi.org/10.1103/PhysRevB.76.165119)
+# 2006
+0. "Electronic origins of structural distortions in post-transition metal oxides: experimental and theoretical evidence for a revision of the lone pair model" [Physical Review Letters (2006)](https://www.doi.org/10.1103/PhysRevLett.96.157403)
+0. "A theoretical and experimental study of the distorted pyrochlore Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>" [Journal of Materials Chemistry (2006)](https://www.doi.org/10.1039/b606413b)
+0. "Electronic structure of the α and δ phases of Bi2O<sub>3</sub>: A combined ab initio and x-ray spectroscopy study" [Physical Review B (2006)](https://www.doi.org/10.1103/PhysRevB.73.235104)
+# 2005
+0. "Experimental and theoretical study of the electronic structure of HgO and Tl<sub>2</sub>O<sub>3</sub>" [Physical Review B (2005)](https://www.doi.org/10.1103/PhysRevB.71.235109)
+0. "Why is lead dioxide metallic?" [Chemical Physics Letters (2005)](https://www.doi.org/10.1016/j.cplett.2005.06.023)
+0. "Influence of the anion on lone pair formation in Sn(II) monochalcogenides: A DFT study" [The Journal of Physical Chemistry B (2005)](https://www.doi.org/10.1021/jp051822r)
+0. "The origin of the stereochemically active Pb(II) lone pair: DFT calculations on PbO and PbS" [Journal of Solid State Chemistry (2005)](https://www.doi.org/10.1016/j.jssc.2005.01.030)
+# 2004
+0. "On the involvement of the shallow core 5d level in the bonding in HgO" [Chemical Physics Letters (2004)](https://www.doi.org/10.1016/j.cplett.2004.09.145)
+0. "Electronic structures of rocksalt, litharge, and herzenbergite SnO by density functional theory" [Physical Review B (2004)](https://www.doi.org/10.1103/PhysRevB.70.235114)
