@@ -16,8 +16,11 @@ permalink: /papers/
 * "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [arXiv (2021)](https://arxiv.org/abs/2109.08117)
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
+# 2022
+0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://aip.scitation.org/doi/10.1063/5.0071763)
 # 2021
-0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K)
+0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
+0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
 0. "Asymmetric carrier transport in flexible interface-type memristor enables artificial synapses with sub-femtojoule energy consumption" [Nanoscale Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NH/D1NH00452B)
 0. "Low barrier for exciton self-trapping enables high photoluminescence quantum yield in Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c02252) [[Cover Feature](https://pubs.acs.org/toc/jpclcd/12/34)]
@@ -380,7 +383,7 @@ permalink: /papers/
 # 2006
 0. "Electronic origins of structural distortions in post-transition metal oxides: experimental and theoretical evidence for a revision of the lone pair model" [Physical Review Letters (2006)](https://www.doi.org/10.1103/PhysRevLett.96.157403)
 0. "A theoretical and experimental study of the distorted pyrochlore Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>" [Journal of Materials Chemistry (2006)](https://www.doi.org/10.1039/b606413b)
-0. "Electronic structure of the α and δ phases of Bi2O<sub>3</sub>: A combined ab initio and x-ray spectroscopy study" [Physical Review B (2006)](https://www.doi.org/10.1103/PhysRevB.73.235104)
+0. "Electronic structure of the α and δ phases of Bi<sub>2</sub>O<sub>3</sub>: A combined ab initio and x-ray spectroscopy study" [Physical Review B (2006)](https://www.doi.org/10.1103/PhysRevB.73.235104)
 # 2005
 0. "Experimental and theoretical study of the electronic structure of HgO and Tl<sub>2</sub>O<sub>3</sub>" [Physical Review B (2005)](https://www.doi.org/10.1103/PhysRevB.71.235109)
 0. "Why is lead dioxide metallic?" [Chemical Physics Letters (2005)](https://www.doi.org/10.1016/j.cplett.2005.06.023)
