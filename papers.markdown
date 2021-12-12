@@ -7,7 +7,7 @@ permalink: /papers/
 <p align="center">
     <img width="23%" src="/images/cs-2020.png"> 
     <img width="23%" src="/images/com-2018.jpg"> 
-    <img width="23%" src="/images/el-2020.jpg"> 
+    <img width="23%" src="/images/mh-2021.jpg"> 
     <img width="23%" src="/images/jpcl-2021.jpg"> 
 </p>
 
@@ -17,7 +17,8 @@ permalink: /papers/
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
 # 2022
-0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c02028)
+0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://aip.scitation.org/doi/10.1063/5.0071763)
+0. "Pushing the boundaries of lithium battery research with atomistic modelling on diﬀerent scales" [Progress in Energy (2022)](https://iopscience.iop.org/article/10.1088/2516-1083/ac3894)
 # 2021
 0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
 0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
