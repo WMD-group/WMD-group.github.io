@@ -17,11 +17,12 @@ permalink: /papers/
 * "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
 # 2022
-0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://aip.scitation.org/doi/10.1063/5.0071763)
+0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02028)
 0. "Pushing the boundaries of lithium battery research with atomistic modelling on diﬀerent scales" [Progress in Energy (2022)](https://iopscience.iop.org/article/10.1088/2516-1083/ac3894)
 # 2021
 0. "Stabilized tilted-octahedra halide perovskites inhibit local formation of performance-limiting phases" [Science (2021)](https://www.science.org/doi/10.1126/science.abl4890)
 0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
+0. "The interplay of interstitial and substitutional copper in zinc oxide" [Frontiers in Chemistry (2021)](hhttps://doi.org/10.3389/fchem.2021.780935)
 0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
 0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
