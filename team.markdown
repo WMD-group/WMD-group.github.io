@@ -18,17 +18,17 @@ permalink: /team/
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 
 # PhD Students
-- [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) [[joint with David Payne](https://scholar.google.co.uk/citations?user=UKzstqgAAAAJ&hl=en&oi=ao)]
+- [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) 
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://www.chinesescholarshipcouncil.com)
-- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) [[joint with David Scanlon](https://scholar.google.co.uk/citations?user=gSPYUMAAAAAJ&hl=en&oi=ao)]
+- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Xia Liang](https://www.imperial.ac.uk/materials)
-- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) [[joint with Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
-- [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials) [[joint with Laura Ratcliff](https://scholar.google.co.uk/citations?hl=en&user=A1rK_5UAAAAJ)]
-- [Anthony Onwuli](https://www.imperial.ac.uk/materials) [[joint with Keith Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en&oi=ao)]
+- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
+- [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
+- [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 - [Yifan Wu](https://www.imperial.ac.uk/materials)

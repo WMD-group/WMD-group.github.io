@@ -14,9 +14,10 @@ permalink: /papers/
 # Preprints
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 * "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [arXiv (2021)](https://arxiv.org/abs/2109.08117)
-* "Breaking the aristotype: featurisation of polyhedral distortions in perovskite crystals" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/61291f5aac32199c516a63d8)
 
 # 2022
+0. "Breaking the aristotype: featurization of polyhedral distortions in perovskite crystals" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02959)
+0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02028)
 0. "Pushing the boundaries of lithium battery research with atomistic modelling on diﬀerent scales" [Progress in Energy (2022)](https://iopscience.iop.org/article/10.1088/2516-1083/ac3894)
 # 2021
@@ -24,7 +25,6 @@ permalink: /papers/
 0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
 0. "The interplay of interstitial and substitutional copper in zinc oxide" [Frontiers in Chemistry (2021)](hhttps://doi.org/10.3389/fchem.2021.780935)
 0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
-0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
 0. "Asymmetric carrier transport in flexible interface-type memristor enables artificial synapses with sub-femtojoule energy consumption" [Nanoscale Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NH/D1NH00452B)
 0. "Low barrier for exciton self-trapping enables high photoluminescence quantum yield in Cs<sub>3</sub>Cu<sub>2</sub>I<sub>5</sub>" [Journal of Physical Chemistry Letters (2021)](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c02252) [[Cover Feature](https://pubs.acs.org/toc/jpclcd/12/34)]

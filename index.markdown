@@ -16,14 +16,19 @@ We are an academic research group focused on the design and optimisation of crys
 # Research Themes
 
 ## Fundamentals
-* Crystal thermodynamics and transformations
-* Inverse design of materials with predetermined properties 
-* Charged defects in semiconductors and dielectric media
+* Inverse design of crystals with predetermined properties 
+* Solid-state thermodynamics and transformations
+* Ion, electron, and phonon transport in semiconductors 
 
 ## Applications
 * Crystal engineering for clean energy technologies
-* Photochemistry of hybrid halide perovskites
-* Electrochemical energy storage and fuel production
+* Non-radiative losses in solar cells 
+* Electrochemical energy storage and fuel production 
+
+## Materials
+* Metal halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
+* Multi-component chalcogenides (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, CuBiS<sub>2</sub>)
+* Metal-organic frameworks (e.g. Fe<sub>2</sub>(DSBDC), Cu<sub>3</sub>(HHTP)<sub>2</sub>)
 
 # Contact
 If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
