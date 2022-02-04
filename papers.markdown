@@ -18,6 +18,7 @@ permalink: /papers/
 * "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [arXiv (2021)](https://arxiv.org/abs/2109.08117)
 
 # 2022
+0. "Role of ripples in altering the electronic and chemical properties of graphene" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0073701)
 0. "Breaking the aristotype: featurization of polyhedral distortions in perovskite crystals" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02959)
 0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02028)
