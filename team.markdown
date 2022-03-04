@@ -15,6 +15,7 @@ permalink: /team/
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
+- [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 
 # PhD Students
@@ -26,7 +27,6 @@ permalink: /team/
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Xia Liang](https://www.imperial.ac.uk/materials)
-- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
@@ -50,6 +50,7 @@ permalink: /team/
 - [Puck van Gerwen](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en)
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
+- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
