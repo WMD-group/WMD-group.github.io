@@ -17,9 +17,9 @@ permalink: /papers/
 * "Electronic defects in metal oxide photocatalysts" [arXiv (2022)](https://arxiv.org/abs/2201.02808)
 * "Machine learned calibrations to high-throughput molecular excited state calculations" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/61d8744ba16050d63e9803c3)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
-* "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [arXiv (2021)](https://arxiv.org/abs/2109.08117)
 
 # 2022
+0. "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [Physical Chemistry Chemical Physics (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05373f)
 0. "Environmental stability of crystals: A greedy screening" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02644)
 0. "Cation disorder engineering yields AgBiS<sub>2</sub> nanocrystals with enhanced optical absorption for efficient ultrathin solar cells" [Nature Photonics (2022)](https://www.nature.com/articles/s41566-021-00950-4)
 0. "Role of ripples in altering the electronic and chemical properties of graphene" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0073701)
