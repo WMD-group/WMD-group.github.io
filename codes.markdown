@@ -12,15 +12,15 @@ A selection of tools we use, some we like, and others we develop.
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
 
 # Simulation Toolkits
-* [AFLOW](http://www.aflowlib.org) 
+* [AFLOW](http://www.aflowlib.org)
 * [AiiDA](http://www.aiida.net) powers [Materials Cloud](https://www.materialscloud.org)
-* [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk)
+* [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk) with [Recipes](https://asr.readthedocs.io)
 * [Atomate](https://hackingmaterials.github.io/atomate/) 
 * [NOMAD](https://nomad-coe.eu) 
-* [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org)
+* [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
 #  Databases
-* [CoRE-MOF](https://cmcp-group.github.io/CoRE-MOFs/) 
+* [CoRE-MOF](https://zenodo.org/record/3370144) and [QMOF](https://github.com/arosen93/QMOF)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [CSD](https://www.psds.ac.uk/csd) 
@@ -31,8 +31,9 @@ A selection of tools we use, some we like, and others we develop.
 * [Open Quantum Materials Database](http://oqmd.org)
 * [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
 
-# Machine Learning 
+# Machine Learning Crystals
 * [Crystals.ai](https://crystals.ai)
+* [CGCNN](https://github.com/txie-93/cgcnn)
 * [DScribe](https://singroup.github.io/dscribe)
 * [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
@@ -56,6 +57,7 @@ A selection of tools we use, some we like, and others we develop.
 # Structure Analysis
 * [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
 * [PIEFACE](https://github.com/jcumby/PIEFACE)
+* [pyTilting](https://dwang5.github.io/PyTiltingDoc)
 * [spglib](http://spglib.github.io/spglib/)
 
 # Electronic Structure
@@ -95,6 +97,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Alamode](https://alamode.readthedocs.io) 
 * [Phonopy](https://atztogo.github.io/phonopy/) 
 * [Phono3py](https://atztogo.github.io/phono3py/) 
+* [TDEP](https://ollehellman.github.io)
 
 #### Processing Tools
 * [ELATE](http://progs.coudert.name/elate)
@@ -136,7 +139,6 @@ A selection of tools we use, some we like, and others we develop.
 * [DFT-Book](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) 
 * [Julia](https://julialang.org) 
 * [Jupyter Lab](https://jupyter.org) 
-* [Matgenb](http://matgenb.materialsvirtuallab.org) 
 
 # Publication Tools
 * [doi2bib](http://www.doi2bib.org) 
