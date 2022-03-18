@@ -18,7 +18,7 @@ permalink: /team/
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 
-# PhD Students
+# PhD Researchers
 - [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) 
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
@@ -37,7 +37,10 @@ permalink: /team/
 - [Savyasanchi Aggarwal](https://www.imperial.ac.uk/chemistry)
 - [Jongwoong Park (박종웅)](https://devcms.yonsei.ac.kr/engineering_en/index.do)
 
-# Alumni: Masters & PhD Graduates 
+# Visitors
+- [Mohammad Vahdat](https://scholar.google.com/citations?user=82eUrb4AAAAJ&hl=en)
+
+# Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)

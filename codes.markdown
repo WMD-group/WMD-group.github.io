@@ -10,6 +10,7 @@ A selection of tools we use, some we like, and others we develop.
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
+* [UnlockNN: Uncertainty quantification for neural network models of chemical systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)
 
 # Simulation Toolkits
 * [AFLOW](http://www.aflowlib.org)
