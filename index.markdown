@@ -33,7 +33,7 @@ We are an academic group working on the design and optimisation of advanced mate
 # Community Projects
 * Best practices in machine learning for chemistry [Nature Chemistry](https://www.nature.com/articles/s41557-021-00716-z)
 * Emerging inorganic solar cell efficiency tables [J Phys Energy](https://iopscience.iop.org/article/10.1088/2515-7655/abebca/meta)
-* Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
+* Stability assessment and reporting for perovskite photovoltaics [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
 
 # Contact
 If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
