@@ -76,6 +76,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Galore](https://github.com/SMTG-UCL/galore)
 * [iFermi](https://github.com/fermisurfaces/IFermi) 
 * [kgrid](https://github.com/WMD-group/kgrid)
+* [Lobster](http://schmeling.ac.rwth-aachen.de/cohp/index.php?menuID=6)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) 
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) 
 * [Sumo](https://github.com/SMTG-UCL/sumo)
