@@ -19,6 +19,7 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Mixed-dimensional formamidinium bismuth iodides featuring in-situ formed type-I band structure for convolution neural networks" [Advanced Science (2022)](https://doi.org/10.1002/advs.202200168)
 0. "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [Physical Chemistry Chemical Physics (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05373f)
 0. "Environmental stability of crystals: A greedy screening" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02644)
 0. "Cation disorder engineering yields AgBiS<sub>2</sub> nanocrystals with enhanced optical absorption for efficient ultrathin solar cells" [Nature Photonics (2022)](https://www.nature.com/articles/s41566-021-00950-4)
