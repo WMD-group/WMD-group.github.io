@@ -19,6 +19,7 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Copper coordination polymers with selective hole conductivity" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA00267A)
 0. "Interfacial dipole layer enables high-performance heterojunctions for photoelectrochemical water splitting" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c00392)
 0. "Mixed-dimensional formamidinium bismuth iodides featuring in-situ formed type-I band structure for convolution neural networks" [Advanced Science (2022)](https://doi.org/10.1002/advs.202200168)
 0. "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [Physical Chemistry Chemical Physics (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05373f)
@@ -54,7 +55,7 @@ permalink: /papers/
 0. "Passivation properties and formation mechanism of amorphous halide perovskite thin films" [Advanced Functional Materials (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202010330)
 0. "Solvent engineered synthesis of layered SnO for high-performance anodes" [npj 2D Materials and Applications (2021)](https://www.nature.com/articles/s41699-021-00208-1)
 0. "BiSbWO<sub>6</sub>: Properties of a mixed 5s/6s lone-pair-electron system" [Chemical Physics (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0301010421000288)
-0. "Multi-phonon proton transfer pathway in a molecular organic ferroelectric crystal" [PCCP (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D0CP04236F#)
+0. "Multi-phonon proton transfer pathway in a molecular organic ferroelectric crystal" [Physical Chemistry Chemical Physics (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D0CP04236F#)
 0. "Lead-free halide double perovskites: toward stable and sustainable optoelectronic devices" [Materials Today (2021)](https://www.sciencedirect.com/science/article/abs/pii/S136970212030451X)
 0. "Modeling grain boundaries in polycrystalline halide perovskite solar cells" [Annual Review of Condensed Matter Physics
  (2021)](https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-042020-025347)
@@ -115,7 +116,7 @@ permalink: /papers/
 0. "Impact of nonparabolic electronic band structure on the optical and transport properties of photovoltaic materials" [Physical Review B (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085207)
 0. "Living in the salt-cocrystal continuum: Indecisive organic complexes with thermochromic behaviour" [CrystEngComm (2019)](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CE/C8CE02066C)
 0. "Finding a junction partner for candidate solar cell absorbers enargite and bournonite from electronic band and lattice matching" [Journal of Applied Physics (2019)](https://aip.scitation.org/doi/10.1063/1.5079485)
-0. "Stability and flexibility of heterometallic formate perovskites with the dimethylammonium cation: pressure-induced phase transitions" [PCCP (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp07131d#)
+0. "Stability and flexibility of heterometallic formate perovskites with the dimethylammonium cation: pressure-induced phase transitions" [Physical Chemistry Chemical Physics (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp07131d#)
 0. "Embrace your defects" [Nature Energy (2019)](https://www.nature.com/articles/s41560-019-0329-y)
 0. "Lattice strain causes non-radiative losses in halide perovskites" [Energy and Environmental Science (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ee/c8ee02751j)
 0. "Lone-pair effect on carrier capture in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells" [Journal of Materials Chemistry A (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b)
@@ -132,7 +133,7 @@ permalink: /papers/
 0. "Hydrogen bonding versus entropy: revealing the underlying thermodynamics of the hybrid organic–inorganic perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>" [Chemistry of Materials (2018)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b03164)
 0. "Stability and electronic properties of planar defects in quaternary I<sub>2</sub>-II-IV-VI<sub>4</sub> semiconductors" [Journal of Applied Physics (2018)](https://aip.scitation.org/doi/10.1063/1.5053424)
 0. "Oxidation states and ionicity" [Nature Materials (2018)](https://doi.org/10.1038/s41563-018-0165-7)
-0. "Heterometallic perovskite-type metal–organic framework with an ammonium cation: structure, phonons, and optical response of [NH<sub>4</sub>]Na<sub>0.5</sub>Cr<sub>x</sub>Al<sub>0.5−x</sub>(HCOO)<sub>3</sub> (x = 0, 0.025 and 0.5)" [PCCP (2018)](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03788d#!divAbstract)
+0. "Heterometallic perovskite-type metal–organic framework with an ammonium cation: structure, phonons, and optical response of [NH<sub>4</sub>]Na<sub>0.5</sub>Cr<sub>x</sub>Al<sub>0.5−x</sub>(HCOO)<sub>3</sub> (x = 0, 0.025 and 0.5)" [Physical Chemistry Chemical Physics (2018)](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03788d#!divAbstract)
 0. "Giant electron−phonon coupling and deep conduction band resonance in metal halide double perovskite" [ACS Nano (2018)](https://pubs.acs.org/doi/10.1021/acsnano.8b02936)
 0. "Dynamic symmetry breaking and spin splitting in metal halide perovskites" [Physical Review B (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.085108)
 0. "Breathing-dependent redox activity in a tetrathiafulvalene-based metal-organic framework" [Journal of the American Chemical Society (2018)](https://pubs.acs.org/doi/abs/10.1021/jacs.8b05890)
@@ -171,7 +172,7 @@ permalink: /papers/
 0. "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)
 0. "Electron counting in solids: oxidation states, partial charges, and ionicity" [Journal of Physical Chemistry Letters (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00809) [Covered in [Chemistry World](https://www.chemistryworld.com/news/scientists-get-charged-up-over-titanium-dioxide/3007521.article)]
 0. "Vacuum-annealing induces sub-surface redox-states in surfactant-structured α-Fe<sub>2</sub>O<sub>3</sub> photoanodes prepared by ink-jet printing" [Applied Catalysis B: Environmental (2017)](http://www.sciencedirect.com/science/article/pii/S0926337317303624)
-0. "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport" [PCCP (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp01680h#!divAbstract)
+0. "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport" [Physical Chemistry Chemical Physics (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp01680h#!divAbstract)
 0. "Trimethylsulfonium lead triiodide: An air-stable hybrid halide perovskite" [Inorganic Chemistry (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00395)
 0. "Is iron unique in promoting electrical conductivity in MOFs?" [Chemical Science (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc00647k)
 0. "Electroactive nanoporous metal oxides and chalcogenides by chemical design" [Chemistry of Materials (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b00464)
