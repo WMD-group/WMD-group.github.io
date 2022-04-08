@@ -15,10 +15,10 @@ permalink: /papers/
 * "Impact of metastable defect structures on carrier recombination in solar cells" [arXiv (2022)](https://arxiv.org/abs/2202.12212)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 * "Electronic defects in metal oxide photocatalysts" [arXiv (2022)](https://arxiv.org/abs/2201.02808)
-* "Machine learned calibrations to high-throughput molecular excited state calculations" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/61d8744ba16050d63e9803c3)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Machine learned calibrations to high-throughput molecular excited state calculations" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0084535)
 0. "Copper coordination polymers with selective hole conductivity" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA00267A)
 0. "Interfacial dipole layer enables high-performance heterojunctions for photoelectrochemical water splitting" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c00392)
 0. "Mixed-dimensional formamidinium bismuth iodides featuring in-situ formed type-I band structure for convolution neural networks" [Advanced Science (2022)](https://doi.org/10.1002/advs.202200168)
