@@ -22,7 +22,7 @@ permalink: /team/
 - [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) 
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
-- [Ju Huang](https://www.chinesescholarshipcouncil.com)
+- [Ju Huang](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
