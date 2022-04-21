@@ -18,6 +18,7 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Perovskite synthesizability using graph neural networks" [npj Computational Materials (2022)](https://www.nature.com/articles/s41524-022-00757-z)
 0. "Machine learned calibrations to high-throughput molecular excited state calculations" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0084535)
 0. "Copper coordination polymers with selective hole conductivity" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA00267A)
 0. "Interfacial dipole layer enables high-performance heterojunctions for photoelectrochemical water splitting" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c00392)
