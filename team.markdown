@@ -16,8 +16,10 @@ permalink: /team/
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
+- [Kanta Ogawa](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
+- [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
 
 # PhD Researchers
 - [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) 
