@@ -13,6 +13,7 @@ permalink: /papers/
 
 # Preprints
 * "Impact of metastable defect structures on carrier recombination in solar cells" [arXiv (2022)](https://arxiv.org/abs/2202.12212)
+* "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [arXiv (2022)](https://arxiv.org/abs/2204.13958)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 * "Electronic defects in metal oxide photocatalysts" [arXiv (2022)](https://arxiv.org/abs/2201.02808)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
