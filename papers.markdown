@@ -12,14 +12,16 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Impact of metastable defect structures on carrier recombination in solar cells" [arXiv (2022)](https://arxiv.org/abs/2202.12212)
+* "Free energy predictions for crystal stability and synthesisability" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/6297857a82f956b733cc5797)
+* "Switchable electric dipole from polaron localization in dielectric crystals" [arXiv (2022)](https://arxiv.org/abs/2205.11604)
 * "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [arXiv (2022)](https://arxiv.org/abs/2204.13958)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
-* "Electronic defects in metal oxide photocatalysts" [arXiv (2022)](https://arxiv.org/abs/2201.02808)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)
 0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
+0. "High power irradiance dependence of charge species dynamics in hybrid perovskites and kinetic evidence for transient vibrational stark effect in formamidinium" [Nanomaterials (2022)](https://www.mdpi.com/2079-4991/12/10/1616)
 0. "Perovskite synthesizability using graph neural networks" [npj Computational Materials (2022)](https://www.nature.com/articles/s41524-022-00757-z)
 0. "Machine learned calibrations to high-throughput molecular excited state calculations" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0084535)
 0. "Copper coordination polymers with selective hole conductivity" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/TA/D2TA00267A)
@@ -339,7 +341,7 @@ permalink: /papers/
 0. "A photoactive titanate with a stereochemically active Sn lone pair: Electronic and crystal structure of Sn<sub>2</sub>TiO<sub>4</sub> from computational chemistry" [Journal of Solid State Chemistry (2012)](https://www.doi.org/10.1016/j.jssc.2012.06.013)
 0. "Magnetic properties of Fe<sub>2</sub>GeMo<sub>3</sub>N; an experimental and computational study" [Journal of Materials Chemistry (2012)](https://www.doi.org/10.1039/c2jm32574h)
 # 2011
-0. "Determination of the Poisson ratio of (001) and (111) oriented thin films of In<sub>2</sub>O<sub>3</sub> by synchrotron-based x-ray diffraction" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.84.233301)
+0. "Determination of the Poisson ratio of (001) and (111) oriented thin films of In<sub>2</sub>O<sub>3</sub> by synchrotron-based X-ray diffraction" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.84.233301)
 0. "Thickness dependence of the strain, band gap and transport properties of epitaxial In<sub>2</sub>O<sub>3</sub> thin films grown on Y-stabilised ZrO2 (111)" [Journal of Physics: Condensed Matter (2011)](https://www.doi.org/10.1088/0953-8984/23/33/334211)
 0. "Structural diversity and electronic properties of Cu<sub>2</sub>SnX<sub>3</sub> (X = S,Se): A first-principles investigation" [Physical Review B (2011)](https://www.doi.org/10.1103/PhysRevB.84.075213)
 0. "Potential energy landscapes for anion Frenkel-pair formation in ceria and india" [Solid State Ionics (2011)](https://www.doi.org/10.1016/j.ssi.2010.08.010)
@@ -370,7 +372,7 @@ permalink: /papers/
 0. "Oxygen interstitial structures in close-packed metal oxides" [Chemical Physics Letters (2010)](https://www.doi.org/10.1016/j.cplett.2010.04.029)
 0. "On the problem of cluster structure diversity and the value of data mining" [Physical Chemistry Chemical Physics (2010)](https://www.doi.org/10.1039/c0cp00068j)
 0. "Experimental and density-functional study of the electronic structure of In<sub>4</sub>Sn<sub>3</sub>O<sub>12</sub>" [Physical Review B (2010)](https://www.doi.org/10.1103/PhysRevB.81.085110)
-0. "Electronic structure of In<sub>2</sub>O<sub>3</sub> and Sn-doped In<sub>2</sub>O<sub>3</sub> by hard x-ray photoemission spectroscopy" [Physical Review B (2010)](https://www.doi.org/10.1103/PhysRevB.81.165207)
+0. "Electronic structure of In<sub>2</sub>O<sub>3</sub> and Sn-doped In<sub>2</sub>O<sub>3</sub> by hard X-ray photoemission spectroscopy" [Physical Review B (2010)](https://www.doi.org/10.1103/PhysRevB.81.165207)
 0. "Electrodeposited aluminum-doped α-Fe<sub>2</sub>O<sub>3</sub> photoelectrodes: Experiment and theory" [Chemistry of Materials (2010)](https://www.doi.org/10.1021/cm903135j)
 0. "Delafossite-alloy photoelectrodes for PEC hydrogen production: a density functional theory study" [Proceedings of SPIE (2010).](https://www.doi.org/10.1117/12.859947)
 0. "Electronic, structural, and magnetic effects of 3d transition metals in hematite" [Journal of Applied Physics (2010)](https://www.doi.org/10.1063/1.3432736)
@@ -391,7 +393,7 @@ permalink: /papers/
 0. "Electronic, Energetic, and Chemical Effects of Intrinsic Defects and Fe-Doping of CoAl<sub>2</sub>O<sub>4</sub>: A DFT+U Study" [The Journal of Physical Chemistry C (2008)](https://www.doi.org/10.1021/jp711566k)
 0. "Electronic structure and phase stability of MgO, ZnO, CdO, and related ternary alloys" [Physical Review B (2008)](https://www.doi.org/10.1103/PhysRevB.77.245209)
 # 2007
-0. "Nature of electronic states at the Fermi level of metallic β-PbO<sub>2</sub> revealed by hard x-ray photoemission spectroscopy" [Physical Review B (2007)](https://www.doi.org/10.1103/PhysRevB.75.153102)
+0. "Nature of electronic states at the Fermi level of metallic β-PbO<sub>2</sub> revealed by hard X-ray photoemission spectroscopy" [Physical Review B (2007)](https://www.doi.org/10.1103/PhysRevB.75.153102)
 0. "Experimental and theoretical study of the electronic structures of α-PbO and β-PbO<sub>2</sub>" [Journal of Materials Chemistry (2007)](https://www.doi.org/10.1039/B612323F)
 0. "Surface sensitivity in lithium-doping of MgO: A density functional theory study with correction for on-site Coulomb interactions" [The Journal of Physical Chemistry C (2007)](https://www.doi.org/10.1021/jp070200y)
 0. "Polymorphism in bismuth stannate: A first-principles study" [Chemistry of Materials (2007)](https://www.doi.org/10.1021/cm0714279)
@@ -400,7 +402,7 @@ permalink: /papers/
 # 2006
 0. "Electronic origins of structural distortions in post-transition metal oxides: experimental and theoretical evidence for a revision of the lone pair model" [Physical Review Letters (2006)](https://www.doi.org/10.1103/PhysRevLett.96.157403)
 0. "A theoretical and experimental study of the distorted pyrochlore Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>" [Journal of Materials Chemistry (2006)](https://www.doi.org/10.1039/b606413b)
-0. "Electronic structure of the α and δ phases of Bi<sub>2</sub>O<sub>3</sub>: A combined ab initio and x-ray spectroscopy study" [Physical Review B (2006)](https://www.doi.org/10.1103/PhysRevB.73.235104)
+0. "Electronic structure of the α and δ phases of Bi<sub>2</sub>O<sub>3</sub>: A combined ab initio and X-ray spectroscopy study" [Physical Review B (2006)](https://www.doi.org/10.1103/PhysRevB.73.235104)
 # 2005
 0. "Experimental and theoretical study of the electronic structure of HgO and Tl<sub>2</sub>O<sub>3</sub>" [Physical Review B (2005)](https://www.doi.org/10.1103/PhysRevB.71.235109)
 0. "Why is lead dioxide metallic?" [Chemical Physics Letters (2005)](https://www.doi.org/10.1016/j.cplett.2005.06.023)
