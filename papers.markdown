@@ -19,6 +19,7 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Elucidating the origin of chiroptical activity in chiral 2D perovskites through nano-confined growth" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-31017-9)
 0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)
 0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
 0. "High power irradiance dependence of charge species dynamics in hybrid perovskites and kinetic evidence for transient vibrational stark effect in formamidinium" [Nanomaterials (2022)](https://www.mdpi.com/2079-4991/12/10/1616)
