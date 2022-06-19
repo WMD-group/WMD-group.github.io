@@ -13,12 +13,13 @@ permalink: /papers/
 
 # Preprints
 * "Free energy predictions for crystal stability and synthesisability" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/6297857a82f956b733cc5797)
+* "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 * "Switchable electric dipole from polaron localization in dielectric crystals" [arXiv (2022)](https://arxiv.org/abs/2205.11604)
-* "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [arXiv (2022)](https://arxiv.org/abs/2204.13958)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+* "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [Journal of Materials Chemistry A (2022)](https://doi.org/10.1039/D2TA02993F)
 0. "Elucidating the origin of chiroptical activity in chiral 2D perovskites through nano-confined growth" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-31017-9)
 0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)
 0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
