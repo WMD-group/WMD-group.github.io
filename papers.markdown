@@ -19,7 +19,7 @@ permalink: /papers/
 * "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
-0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)0. 
+0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a) 
 0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
 0. "Switchable electric dipole from polaron localization in dielectric crystals" [Physical Review Letters (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.017601)
 0. "Insight into the fergusonite–scheelite phase transition of ABO<sub>4</sub>-type oxides by density functional theory" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c04417)
