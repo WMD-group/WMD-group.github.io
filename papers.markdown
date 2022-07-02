@@ -12,17 +12,19 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Band versus polaron: charge transport in antimony chalcogenides" [arXiv (2022)](https://arxiv.org/abs/2206.15389)
 * "Free energy predictions for crystal stability and synthesisability" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/6297857a82f956b733cc5797)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
-* "Switchable electric dipole from polaron localization in dielectric crystals" [arXiv (2022)](https://arxiv.org/abs/2205.11604)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
-* "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2021)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
+* "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/60dde02ae7f2bffc28808c22)
 
 # 2022
+0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)0. 
+0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
+0. "Switchable electric dipole from polaron localization in dielectric crystals" [Physical Review Letters (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.017601)
+0. "Insight into the fergusonite–scheelite phase transition of ABO<sub>4</sub>-type oxides by density functional theory" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c04417)
 0. "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [Journal of Materials Chemistry A (2022)](https://doi.org/10.1039/D2TA02993F)
 0. "Elucidating the origin of chiroptical activity in chiral 2D perovskites through nano-confined growth" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-31017-9)
-0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a)
-0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
 0. "High power irradiance dependence of charge species dynamics in hybrid perovskites and kinetic evidence for transient vibrational stark effect in formamidinium" [Nanomaterials (2022)](https://www.mdpi.com/2079-4991/12/10/1616)
 0. "Perovskite synthesizability using graph neural networks" [npj Computational Materials (2022)](https://www.nature.com/articles/s41524-022-00757-z)
 0. "Machine learned calibrations to high-throughput molecular excited state calculations" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0084535)
@@ -34,7 +36,7 @@ permalink: /papers/
 0. "Cation disorder engineering yields AgBiS<sub>2</sub> nanocrystals with enhanced optical absorption for efficient ultrathin solar cells" [Nature Photonics (2022)](https://www.nature.com/articles/s41566-021-00950-4)
 0. "Role of ripples in altering the electronic and chemical properties of graphene" [Journal of Chemical Physics (2022)](https://aip.scitation.org/doi/10.1063/5.0073701)
 0. "Breaking the aristotype: featurization of polyhedral distortions in perovskite crystals" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02959)
-0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Features as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
+0. "Anharmonic lattice dynamics of superionic lithium nitride" [Journal of Materials Chemistry A (2022)](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA07631K) [Featured as [Hot Paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=57723f18-4939-4eb7-893b-f118bf5c7257)]
 0. "From atoms to cells: Multiscale modeling of LiNi<sub>x</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> cathodes for Li-ion batteries" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02028)
 0. "Pushing the boundaries of lithium battery research with atomistic modelling on diﬀerent scales" [Progress in Energy (2022)](https://iopscience.iop.org/article/10.1088/2516-1083/ac3894)
 # 2021
