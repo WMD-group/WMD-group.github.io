@@ -12,7 +12,6 @@ permalink: /team/
 
 # Senior Researchers
 - [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
-- [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
@@ -37,8 +36,9 @@ permalink: /team/
 - [Yifan Wu](https://www.imperial.ac.uk/materials)
 
 # Undergraduate Researchers 
-- [Savyasanchi Aggarwal](https://www.imperial.ac.uk/chemistry)
-- [Jongwoong Park (박종웅)](https://devcms.yonsei.ac.kr/engineering_en/index.do)
+- [Amelia Hu](https://www.imperial.ac.uk/materials)
+- [Anahita Manchala](https://www.materials.ox.ac.uk)
+- [Shirley Xu](https://www.imperial.ac.uk/materials)
 
 # Visitors
 - [Mohammad Vahdat](https://scholar.google.com/citations?user=82eUrb4AAAAJ&hl=en)
@@ -72,3 +72,4 @@ permalink: /team/
 - [Sunghyun Kim (김성현)](https://scholar.google.co.uk/citations?user=v438vEAAAAAJ&hl=en)
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
+- [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
