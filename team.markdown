@@ -12,7 +12,6 @@ permalink: /team/
 
 # Senior Researchers
 - [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
-- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Kanta Ogawa](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
@@ -73,3 +72,5 @@ permalink: /team/
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
+- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
+
