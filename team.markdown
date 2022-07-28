@@ -56,6 +56,7 @@ permalink: /team/
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
 - [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
+- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
@@ -72,5 +73,4 @@ permalink: /team/
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
-- [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 
