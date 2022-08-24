@@ -13,13 +13,14 @@ permalink: /papers/
 
 # Preprints
 * "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/62f51937e78f70b71237c131)
-* "Band versus polaron: charge transport in antimony chalcogenides" [arXiv (2022)](https://arxiv.org/abs/2206.15389)
 * "Free energy predictions for crystal stability and synthesisability" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/6297857a82f956b733cc5797)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 
 # 2022
-0. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32131-4)
+0. "Band versus polaron: charge transport in antimony chalcogenides" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01464)
+0. "Strong absorption and ultrafast localisation in NaBiS<sub>2</sub> nanocrystals with slow charge-carrier recombination" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32669-3)
+0. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32131-4)  [Featured as [Editor's Suggestion](https://www.nature.com/collections/bjiiabbacg)]
 0. "UnlockNN: Uncertainty quantification for neural network models of chemical systems" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.03700) 
 0. "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [Physical Review Materials (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.085401)  [Featured as [Editor's Suggestion](https://journals.aps.org/prmaterials/highlights)]
 0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a) 
