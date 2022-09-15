@@ -38,8 +38,9 @@ A selection of tools we use, some we like, and others we develop.
 * [DScribe](https://singroup.github.io/dscribe)
 * [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
-* [Megnet](http://megnet.crystals.ai)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
+* [Megnet](http://megnet.crystals.ai)
+* [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Sketch-Map](https://sketchmap.org) 
 
 #### Compositional Descriptors 
