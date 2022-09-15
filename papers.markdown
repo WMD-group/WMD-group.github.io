@@ -18,6 +18,9 @@ permalink: /papers/
 * "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 
 # 2022
+0. "Pressure-induced non-radiative losses in halide perovskite light-emitting diodes" [Journal of Materials Chemistry C (2022)](https://doi.org/10.1039/D2TC01490D)
+0. "Concluding remarks: emerging inorganic materials in thin-film photovoltaics" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD00135G)
+0. "Factors influencing halide vacancy transport in perovskite solar cells" [Discover Materials (2022)](https://link.springer.com/article/10.1007/s43939-022-00029-z)
 0. "Band versus polaron: charge transport in antimony chalcogenides" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01464)
 0. "Strong absorption and ultrafast localisation in NaBiS<sub>2</sub> nanocrystals with slow charge-carrier recombination" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32669-3)
 0. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32131-4)  [Featured as [Editor's Suggestion](https://www.nature.com/collections/bjiiabbacg)]
