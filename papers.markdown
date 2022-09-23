@@ -13,11 +13,11 @@ permalink: /papers/
 
 # Preprints
 * "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/62f51937e78f70b71237c131)
-* "Free energy predictions for crystal stability and synthesisability" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/6297857a82f956b733cc5797)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
-* "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [arXiv (2022)](https://arxiv.org/abs/2202.08167)
 
 # 2022
+0. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
+0. "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [Nature Computational Science (2022)](https://doi.org/10.1038/s43588-022-00297-y)
 0. "Pressure-induced non-radiative losses in halide perovskite light-emitting diodes" [Journal of Materials Chemistry C (2022)](https://doi.org/10.1039/D2TC01490D)
 0. "Concluding remarks: emerging inorganic materials in thin-film photovoltaics" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD00135G)
 0. "Factors influencing halide vacancy transport in perovskite solar cells" [Discover Materials (2022)](https://link.springer.com/article/10.1007/s43939-022-00029-z)
