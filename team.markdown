@@ -28,6 +28,7 @@ permalink: /team/
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Xia Liang](https://www.imperial.ac.uk/materials)
+- [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
@@ -38,9 +39,6 @@ permalink: /team/
 - [Amelia Hu](https://www.imperial.ac.uk/materials)
 - [Anahita Manchala](https://www.materials.ox.ac.uk)
 - [Shirley Xu](https://www.imperial.ac.uk/materials)
-
-# Visitors
-- [Mohammad Vahdat](https://scholar.google.com/citations?user=82eUrb4AAAAJ&hl=en)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
@@ -73,4 +71,3 @@ permalink: /team/
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
-
