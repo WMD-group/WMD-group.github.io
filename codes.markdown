@@ -9,6 +9,7 @@ A selection of tools we use, some we like, and others we develop.
 # Journal of Open Source Software
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
+* [ShakeNBreak: Navigating the defect configurational landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
 * [UnlockNN: Uncertainty Quantification for Neural Network Models of Chemical Systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)
 
@@ -21,7 +22,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
 #  Databases
-* [CoRE-MOF](https://zenodo.org/record/3370144) and [QMOF](https://github.com/arosen93/QMOF)
+* [CoRE-MOF](https://zenodo.org/record/3370144), [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [QMOF](https://github.com/arosen93/QMOF)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [CSD](https://www.psds.ac.uk/csd) 
@@ -35,12 +36,11 @@ A selection of tools we use, some we like, and others we develop.
 # Machine Learning Crystals
 * [Crystals.ai](https://crystals.ai)
 * [CGCNN](https://github.com/txie-93/cgcnn)
-* [DScribe](https://singroup.github.io/dscribe)
+* [DScribe](https://singroup.github.io/dscribe), [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
-* [Megnet](http://megnet.crystals.ai)
-* [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
+* [Megnet](http://megnet.crystals.ai), [DGL](https://github.com/dmlc/dgl)
 * [Sketch-Map](https://sketchmap.org) 
 
 #### Compositional Descriptors 
@@ -89,17 +89,15 @@ A selection of tools we use, some we like, and others we develop.
 * [Z2Pack](http://z2pack.ethz.ch) 
 
 # Solar Energy 
-* [Disordered perovskite structures](https://github.com/jarvist/Disordered-MAPI-Phonons) 
+* * [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites); [Disordered](https://github.com/jarvist/Disordered-MAPI-Phonons) 
 * [Driftfusion](https://github.com/barnesgroupICL/Driftfusion) 
 * [Eris](https://github.com/WMD-group/Eris) 
-* [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites)
 * [Starrynight](https://github.com/WMD-group/StarryNight)
 * [Solcore5](https://github.com/dalonsoa/solcore5) 
 
 # Phonons
 * [Alamode](https://alamode.readthedocs.io) 
-* [Phonopy](https://atztogo.github.io/phonopy/) 
-* [Phono3py](https://atztogo.github.io/phono3py/) 
+* [Phonopy](https://atztogo.github.io/phonopy), [Phono3py](https://atztogo.github.io/phono3py) 
 * [TDEP](https://ollehellman.github.io)
 
 #### Processing Tools
