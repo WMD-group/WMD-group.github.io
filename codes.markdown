@@ -89,7 +89,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Z2Pack](http://z2pack.ethz.ch) 
 
 # Solar Energy 
-* [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites); [Disordered](https://github.com/jarvist/Disordered-MAPI-Phonons) 
+* [Perovskite crystal structures](https://github.com/WMD-group/hybrid-perovskites), [Disordered](https://github.com/jarvist/Disordered-MAPI-Phonons) 
 * [Driftfusion](https://github.com/barnesgroupICL/Driftfusion) 
 * [Eris](https://github.com/WMD-group/Eris) 
 * [Starrynight](https://github.com/WMD-group/StarryNight)
