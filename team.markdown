@@ -20,16 +20,13 @@ permalink: /team/
 - [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
 
 # PhD Researchers
-- [Vincent Chung](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ) 
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
-- [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Xia Liang](https://www.imperial.ac.uk/materials)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
-- [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
@@ -55,6 +52,8 @@ permalink: /team/
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
 - [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
+- [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
+- [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
