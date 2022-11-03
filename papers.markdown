@@ -16,17 +16,21 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2022
+0. "Mixology of MA<sub>1–x</sub>EA<sub>x</sub>PbI<sub>3</sub> hybrid perovskites: phase transitions, cation dynamics, and photoluminescence" [Chemistry of Materials (2022)](https://doi.org/10.1021/acs.chemmater.2c02807)
 0. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
 0. "Effective lifetime of non-equilibrium carriers in semiconductors from non-adiabatic molecular dynamics simulations" [Nature Computational Science (2022)](https://doi.org/10.1038/s43588-022-00297-y)
 0. "Pressure-induced non-radiative losses in halide perovskite light-emitting diodes" [Journal of Materials Chemistry C (2022)](https://doi.org/10.1039/D2TC01490D)
 0. "Concluding remarks: emerging inorganic materials in thin-film photovoltaics" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD00135G)
+0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a) 
+0. "Materials design and bonding: general discussion" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd90058k)
+0. "Novel chalcogenides, pnictides and defect-tolerant semiconductors: general discussion" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD90057B)
+0. "Bulk and surface characterisation techniques of solar absorbers: general discussion" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD90056D)
 0. "Factors influencing halide vacancy transport in perovskite solar cells" [Discover Materials (2022)](https://link.springer.com/article/10.1007/s43939-022-00029-z)
 0. "Band versus polaron: charge transport in antimony chalcogenides" [ACS Energy Letters (2022)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01464)
 0. "Strong absorption and ultrafast localisation in NaBiS<sub>2</sub> nanocrystals with slow charge-carrier recombination" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32669-3)
 0. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-32131-4)  [Featured as [Editor's Suggestion](https://www.nature.com/collections/bjiiabbacg)]
 0. "UnlockNN: Uncertainty quantification for neural network models of chemical systems" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.03700) 
 0. "Low electronic conductivity of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO) solid electrolytes from first principles" [Physical Review Materials (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.085401)  [Featured as [Editor's Suggestion](https://journals.aps.org/prmaterials/highlights)]
-0. "Impact of metastable defect structures on carrier recombination in solar cells" [Faraday Discussions (2022)](https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00043a) 
 0. "Electronic defects in metal oxide photocatalysts" [Nature Reviews Materials (2022)](https://www.nature.com/articles/s41578-022-00433-0)
 0. "Switchable electric dipole from polaron localization in dielectric crystals" [Physical Review Letters (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.017601)
 0. "Insight into the fergusonite–scheelite phase transition of ABO<sub>4</sub>-type oxides by density functional theory" [Chemistry of Materials (2022)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c04417)
