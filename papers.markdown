@@ -12,6 +12,8 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
+* "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [arXiv (2022)](https://arxiv.org/abs/2211.00956)
 * "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/62f51937e78f70b71237c131)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
