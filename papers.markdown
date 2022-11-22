@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Identifying the ground state structures of point defects in solids" [arXiv (2022)](https://arxiv.org/abs/2207.09862)
 * "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
 * "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [arXiv (2022)](https://arxiv.org/abs/2211.00956)
 * "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/62f51937e78f70b71237c131)
