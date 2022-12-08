@@ -19,6 +19,7 @@ permalink: /papers/
 # 2023
 0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
 # 2022
+0. "ShakeNBreak: Navigating the defect configurational landscape" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.04817)
 0. "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [Journal of Physical Chemistry Letters (2022)](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02436)
 0. "Mixology of MA<sub>1–x</sub>EA<sub>x</sub>PbI<sub>3</sub> hybrid perovskites: phase transitions, cation dynamics, and photoluminescence" [Chemistry of Materials (2022)](https://doi.org/10.1021/acs.chemmater.2c02807)
 0. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
