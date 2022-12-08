@@ -14,9 +14,10 @@ permalink: /papers/
 # Preprints
 * "Identifying the ground state structures of point defects in solids" [arXiv (2022)](https://arxiv.org/abs/2207.09862)
 * "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
-* "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [arXiv (2022)](https://arxiv.org/abs/2211.00956)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
+# 2023
+0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
 # 2022
 0. "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [Journal of Physical Chemistry Letters (2022)](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02436)
 0. "Mixology of MA<sub>1–x</sub>EA<sub>x</sub>PbI<sub>3</sub> hybrid perovskites: phase transitions, cation dynamics, and photoluminescence" [Chemistry of Materials (2022)](https://doi.org/10.1021/acs.chemmater.2c02807)
