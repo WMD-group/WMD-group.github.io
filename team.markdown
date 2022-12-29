@@ -11,7 +11,6 @@ permalink: /team/
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 # Senior Researchers
-- [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Kanta Ogawa](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
@@ -21,7 +20,6 @@ permalink: /team/
 
 # PhD Researchers
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
-- [Ju Huang](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
@@ -54,6 +52,7 @@ permalink: /team/
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
+- [Ju Huang](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
@@ -70,3 +69,4 @@ permalink: /team/
 - [Miguel Rivera](https://scholar.google.co.uk/citations?user=jKqXsfAAAAAJ&hl=en)
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
+- [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)

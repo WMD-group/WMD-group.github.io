@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/63a4cda381e4ba3e29571133)
 * "Identifying the ground state structures of point defects in solids" [arXiv (2022)](https://arxiv.org/abs/2207.09862)
 * "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
