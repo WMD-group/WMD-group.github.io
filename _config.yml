@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Computational Chemistry & Physics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://http://wmd-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:  lonepair
-github_username:  wmd-group
+twitter_username:  
+github_username: wmd-group
+mastodon:
+- username: lonepair
+  instance: mstdn.social
 
 header_pages:
   - papers.markdown 
