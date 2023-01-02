@@ -39,3 +39,4 @@ We are an academic group working on the design and optimisation of advanced mate
 
 # Contact
 If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
+<a rel="me" href="https://mstdn.social/@lonepair"></a>
