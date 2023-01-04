@@ -17,9 +17,10 @@ permalink: /papers/
 * "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
-# 2023
-0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
+# 2023 
 0. "Stable Mott polaron state limits the charge density in lead halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01949)
+0. "Role of counterions in the structural stabilisation of redox-active metal-organic frameworks" [Chemistry - A European Journal (2023)](https://doi.org/10.1002/chem.202203843)
+0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
 # 2022
 0. "ShakeNBreak: Navigating the defect configurational landscape" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.04817)
 0. "An embedded interfacial network stabilizes inorganic CsPbI<sub>3</sub> perovskite thin films" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-35255-9)
