@@ -14,11 +14,11 @@ permalink: /papers/
 # Preprints
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
 * "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/63a4cda381e4ba3e29571133)
-* "Identifying the ground state structures of point defects in solids" [arXiv (2022)](https://arxiv.org/abs/2207.09862)
 * "Anharmonic and entropic stabilisation of cubic zirconia from first principles" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Identifying the ground state structures of point defects in solids" [npj Computational Materials (2023)](https://www.nature.com/articles/s41524-023-00973-1)
 0. "Stable Mott polaron state limits the charge density in lead halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01949)
 0. "Role of counterions in the structural stabilisation of redox-active metal-organic frameworks" [Chemistry - A European Journal (2023)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202203843)
 0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
