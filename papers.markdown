@@ -21,6 +21,7 @@ permalink: /papers/
 0. "Identifying the ground state structures of point defects in solids" [npj Computational Materials (2023)](https://www.nature.com/articles/s41524-023-00973-1)
 0. "Stable Mott polaron state limits the charge density in lead halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01949)
 0. "Role of counterions in the structural stabilisation of redox-active metal-organic frameworks" [Chemistry - A European Journal (2023)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202203843)
+0. "Reply to comment on “Environmental stability of crystals: A greedy screening” [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c03627)
 0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
 # 2022
 0. "ShakeNBreak: Navigating the defect configurational landscape" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.04817)
