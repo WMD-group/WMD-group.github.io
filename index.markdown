@@ -13,6 +13,11 @@ We are an academic group working on the design and optimisation of advanced mate
     <img width="58%" src="/images/chemnav.jpg"> 
 </p>
 
+
+# Open Positions
+
+* PhD studentship in the [Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/available-projects/) on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis" to start in October 2023.
+
 # Research Themes
 
 ## Fundamentals
