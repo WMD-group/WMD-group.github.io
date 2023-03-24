@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/641c8a8962fecd2a8350bc43)
 * "Models of orientational disorder in hybrid organic-inorganic piezoelectric materials" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/63f7418c897b18336f004b84)
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
 * "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/63a4cda381e4ba3e29571133)
