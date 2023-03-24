@@ -7,7 +7,7 @@ show_in_nav: false
 title: Navigating Materials Space with Computers 
 ---
 
-We are an academic group working on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre](https://thomasyoungcentre.org) at Imperial College London.
+We are an academic group at [Imperial College London](http://www.imperial.ac.uk) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics/).
 
 <p align="center" width="100%">
     <img width="58%" src="/images/chemnav.jpg"> 
@@ -15,6 +15,8 @@ We are an academic group working on the design and optimisation of advanced mate
 
 
 # Open Positions
+
+* Two postdoctoral postions in materials informatics. These are for initially for two years, but can be extended, with a starting salary of £43,093. A full job description and application form can be found [here](https://www.imperial.ac.uk/jobs/description/ENG02561/research-associates-materials-informatics).
 
 * PhD studentship in the [Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/available-projects/) on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis" to start in October 2023.
 
