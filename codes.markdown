@@ -17,7 +17,7 @@ A selection of tools we use, some we like, and others we develop.
 * [AFLOW](http://www.aflowlib.org)
 * [AiiDA](http://www.aiida.net) powers [Materials Cloud](https://www.materialscloud.org)
 * [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk) with [Recipes](https://asr.readthedocs.io)
-* [Atomate](https://hackingmaterials.github.io/atomate/) 
+* [Atomate](https://github.com/hackingmaterials/atomate), [Atomate2](https://github.com/materialsproject/atomate2)
 * [NOMAD](https://nomad-coe.eu) 
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
@@ -69,6 +69,7 @@ A selection of tools we use, some we like, and others we develop.
 * [Quantum Espresso](https://www.quantum-espresso.org)
 * [QUESTAAL](https://www.questaal.org) 
 * [VASP](https://www.vasp.at)
+* [xTB](https://github.com/grimme-lab/xtb)
 
 #### Processing Tools
 * [AMSET](https://github.com/hackingmaterials/amset) 
@@ -128,10 +129,10 @@ A selection of tools we use, some we like, and others we develop.
 
 # Point Defects
 * [CPLAP](https://github.com/jbuckeridge/cplap) 
-* [Doped](https://github.com/kavanase/doped) 
+* [Doped](https://github.com/SMTG-UCL/doped) 
 * [PyCDT](https://github.com/mbkumar/pycdt)
 * [PyLada](https://github.com/pylada/pylada-defects)
-* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) / [PY-SC-FERMI](https://github.com/bjmorgan/py-sc-fermi)
+* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi), [PY-SC-FERMI](https://github.com/bjmorgan/py-sc-fermi)
 * [sxdefectalign](https://sxrepo.mpie.de/projects/sphinx-add-ons/files?sort=filename) 
 
 # Python and Friends
