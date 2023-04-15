@@ -34,13 +34,14 @@ A selection of tools we use, some we like, and others we develop.
 * [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
 
 # Machine Learning Crystals
+* [ACE](https://github.com/ACEsuit/ACE1.jl), [Allegro](https://github.com/mir-group/allegro), [GAP](https://github.com/libAtoms/QUIP)
 * [Crystals.ai](https://crystals.ai)
-* [CGCNN](https://github.com/txie-93/cgcnn)
+* [CGCNN](https://github.com/txie-93/cgcnn), [MEGNet](http://megnet.crystals.ai), [DGL](https://github.com/dmlc/dgl)
 * [DScribe](https://singroup.github.io/dscribe), [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
-* [Gaussian Approximation Potentials](https://github.com/libAtoms/QUIP)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
-* [Megnet](http://megnet.crystals.ai), [DGL](https://github.com/dmlc/dgl)
+* [M3GNet](https://github.com/materialsvirtuallab/m3gnet), [CHGNet](https://github.com/CederGroupHub/chgnet)
+* [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 * [Sketch-Map](https://sketchmap.org) 
 
 #### Compositional Descriptors 
