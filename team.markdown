@@ -19,7 +19,6 @@ permalink: /team/
 - [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
 
 # PhD Researchers
-- [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
@@ -53,6 +52,7 @@ permalink: /team/
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
+- [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
