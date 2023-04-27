@@ -21,14 +21,14 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
-0. "Exploring the high-temperature stabilization of cubic zirconia from anharmonic lattice dynamics" [Crystal Growth & Design (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/636a8c7fb58850d7c1433d80)
-0. "Identifying the ground state structures of point defects in solids" [npj Computational Materials (2023)](https://www.nature.com/articles/s41524-023-00973-1)
+0. "Exploring the high-temperature stabilization of cubic zirconia from anharmonic lattice dynamics" [Crystal Growth & Design (2023)](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01458)
+0. "Identifying the ground state structures of point defects in solids" [npj Computational Materials (2023)](https://www.nature.com/articles/s41524-023-00973-1) [[Covered in Nature Physics](https://www.nature.com/articles/s41567-023-02049-9)]
 0. "Stable Mott polaron state limits the charge density in lead halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01949)
 0. "Role of counterions in the structural stabilisation of redox-active metal-organic frameworks" [Chemistry - A European Journal (2023)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202203843)
 0. "Reply to comment on “Environmental stability of crystals: A greedy screening” [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c03627)
 0. "Inhomogeneous defect distribution in mixed-polytype metal halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.2c02306)
 # 2022
-0. "ShakeNBreak: Navigating the defect configurational landscape" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.04817)
+0. "ShakeNBreak: Navigating the defect configurational landscape" [Journal of Open Source Software (2022)](https://joss.theoj.org/papers/10.21105/joss.04817) 
 0. "An embedded interfacial network stabilizes inorganic CsPbI<sub>3</sub> perovskite thin films" [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-35255-9)
 0. "Frenkel excitons in vacancy-ordered titanium halide perovskites (Cs<sub>2</sub>TiX<sub>6</sub>)" [Journal of Physical Chemistry Letters (2022)](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02436)
 0. "Mixology of MA<sub>1–x</sub>EA<sub>x</sub>PbI<sub>3</sub> hybrid perovskites: phase transitions, cation dynamics, and photoluminescence" [Chemistry of Materials (2022)](https://doi.org/10.1021/acs.chemmater.2c02807)
