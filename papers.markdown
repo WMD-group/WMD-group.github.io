@@ -21,6 +21,7 @@ permalink: /papers/
 
 # 2023 
 0. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://pubs.rsc.org/en/Content/ArticleLanding/2023/MH/D3MH00314K)
+0. "Models of polaron transport in inorganic and hybrid organic-inorganic titanium oxides" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00322)
 0. "Exploring the high-temperature stabilization of cubic zirconia from anharmonic lattice dynamics" [Crystal Growth & Design (2023)](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01458)
 0. "Identifying the ground state structures of point defects in solids" [npj Computational Materials (2023)](https://www.nature.com/articles/s41524-023-00973-1) [[Covered in Nature Physics](https://www.nature.com/articles/s41567-023-02049-9)]
 0. "Stable Mott polaron state limits the charge density in lead halide perovskites" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01949)
