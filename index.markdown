@@ -16,8 +16,6 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* Two postdoctoral postions in materials informatics. These are for initially for two years, but can be extended, with a starting salary of £43,093. A full job description and application form can be found [here](https://www.imperial.ac.uk/jobs/description/ENG02561/research-associates-materials-informatics).
-
 * PhD studentship in the [Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/available-projects/) on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis" to start in October 2023.
 
 # Research Themes
