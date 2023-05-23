@@ -12,7 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
+* "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
 * "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/645da750a32ceeff2d7fab08)
 * "Accessible chemical space for metal nitride perovskites" [arXiv (2023)](https://arxiv.org/abs/2304.05450)
