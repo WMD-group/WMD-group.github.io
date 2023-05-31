@@ -19,10 +19,10 @@ permalink: /papers/
 * "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [arXiv (2023)](https://arxiv.org/abs/2304.04714)
 * "Models of orientational disorder in hybrid organic-inorganic piezoelectric materials" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/63f7418c897b18336f004b84)
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
-* "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [ChemRxiv (2022)](https://chemrxiv.org/engage/chemrxiv/article-details/63a4cda381e4ba3e29571133)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [Journal of the American Chemical Society (2023)](https://pubs.acs.org/doi/10.1021/jacs.2c13336)
 0. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://pubs.rsc.org/en/Content/ArticleLanding/2023/MH/D3MH00314K)
 0. "Models of polaron transport in inorganic and hybrid organic-inorganic titanium oxides" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00322)
 0. "Exploring the high-temperature stabilization of cubic zirconia from anharmonic lattice dynamics" [Crystal Growth & Design (2023)](https://pubs.acs.org/doi/10.1021/acs.cgd.2c01458)
