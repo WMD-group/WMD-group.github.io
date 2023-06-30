@@ -14,13 +14,14 @@ permalink: /papers/
 # Preprints
 * "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
-* "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/645da750a32ceeff2d7fab08)
 * "Accessible chemical space for metal nitride perovskites" [arXiv (2023)](https://arxiv.org/abs/2304.05450)
 * "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [arXiv (2023)](https://arxiv.org/abs/2304.04714)
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [Journal of the American Chemical Society  (2023)](https://pubs.acs.org/doi/10.1021/jacs.3c04625)
+0. "From cubic to hexagonal: electronic trends across metal halide perovskite polytypes" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c01232)
 0. "Models of orientational disorder in hybrid organic-inorganic piezoelectric materials" [Journal of Materials Chemistry C (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc01835k)
 0. "Unraveling chirality transfer mechanism by structural isomer-derived hydrogen bonding interaction in 2D chiral perovskite" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-38927-2)
 0. "Interplay of static and dynamic disorder in the mixed-metal chalcohalide Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [Journal of the American Chemical Society (2023)](https://pubs.acs.org/doi/10.1021/jacs.2c13336)

@@ -16,7 +16,7 @@ permalink: /team/
 - [Kanta Ogawa](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
-- [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
+- [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
@@ -30,9 +30,7 @@ permalink: /team/
 - [Yifan Wu](https://www.imperial.ac.uk/materials)
 
 # Undergraduate Researchers 
-- [Amelia Hu](https://www.imperial.ac.uk/materials)
-- [Anahita Manchala](https://www.materials.ox.ac.uk)
-- [Shirley Xu](https://www.imperial.ac.uk/materials)
+- [Calysta Tesiman](https://www.imperial.ac.uk/materials)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
@@ -70,3 +68,4 @@ permalink: /team/
 - [Hui Yang](https://scholar.google.com/citations?hl=en&user=DyYbENEAAAAJ)
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
 - [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
+- [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
