@@ -45,7 +45,7 @@ permalink: /team/
 - [Puck van Gerwen](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en)
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
-- [Kazuki Morita](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
+- [Kazuki Morita(森田一軌)](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
