@@ -13,10 +13,9 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
     <img width="58%" src="/images/chemnav.jpg"> 
 </p>
 
-
 # Open Positions
 
-* PhD studentship in the [Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/available-projects/) on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis" to start in October 2023.
+* PhD studentship on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis". Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) with your CV for further details. 
 
 # Research Themes
 
@@ -32,7 +31,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 ## Materials
 * Metal halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
-* Multi-component chalcogenides (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, CuBiS<sub>2</sub>)
+* Multi-component chalcogenides (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, AgBiS<sub>2</sub>)
 * Electroactive metal-organic frameworks (e.g. Fe<sub>2</sub>(DSBDC), Cu<sub>3</sub>(HHTP)<sub>2</sub>)
 
 # Community Projects
@@ -44,4 +43,3 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Contact
 If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
-<a rel="me" href="https://mstdn.social/@lonepair"></a>

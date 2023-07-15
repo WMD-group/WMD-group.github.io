@@ -4,12 +4,12 @@ title: Codes
 permalink: /codes/
 ---
 
-A selection of tools we use, some we like, and others we develop.
+A selection of tools we use, some we like, and others we develop. Also see our [Github](https://github.com/WMD-group) and [Zenodo](https://zenodo.org/communities/wmd-group) groups.
 
 # Journal of Open Source Software
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
-* [ShakeNBreak: Navigating the defect configurational landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
+* [ShakeNBreak: Navigating the Defect Configurational Landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
 * [UnlockNN: Uncertainty Quantification for Neural Network Models of Chemical Systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)
 
@@ -25,8 +25,7 @@ A selection of tools we use, some we like, and others we develop.
 * [CoRE-MOF](https://zenodo.org/record/3370144), [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [QMOF](https://github.com/arosen93/QMOF)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
-* [CSD](https://www.psds.ac.uk/csd) 
-* [ICSD](https://www.psds.ac.uk/icsd) 
+* [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd) 
 * [HybriD3](https://materials.hybrid3.duke.edu)
 * [NIST-Jarvis](https://jarvis.nist.gov)
 * [NREL Materials Database](https://materials.nrel.gov)
@@ -34,24 +33,27 @@ A selection of tools we use, some we like, and others we develop.
 * [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
 
 # Machine Learning Crystals
-* [ACE](https://github.com/ACEsuit/ACE1.jl), [Allegro](https://github.com/mir-group/allegro), [GAP](https://github.com/libAtoms/QUIP)
+* [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
+* [FLARE](https://github.com/mir-group/flare) and [Allegro](https://github.com/mir-group/allegro)
 * [Crystals.ai](https://crystals.ai)
 * [CGCNN](https://github.com/txie-93/cgcnn), [MEGNet](http://megnet.crystals.ai), [DGL](https://github.com/dmlc/dgl)
 * [DScribe](https://singroup.github.io/dscribe), [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
+* [M2Hub](https://github.com/yuanqidu/M2Hub)
 * [M3GNet](https://github.com/materialsvirtuallab/m3gnet), [CHGNet](https://github.com/CederGroupHub/chgnet)
 * [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 * [Sketch-Map](https://sketchmap.org) 
 
-#### Compositional Descriptors 
+#### Compositional Descriptors and Models
 * [Crabnet](https://github.com/anthony-wang/CrabNet)
-* [Element Movers Distance](https://github.com/lrcfmd/ElMD/)
+* [ElementEmbeddings](https://github.com/WMD-group/ElementEmbeddings)
+* [Element Movers Distance](https://github.com/lrcfmd/ElMD)
 * [mat2vec](https://github.com/materialsintelligence/mat2vec)
 * [RooSt](https://github.com/CompRhys/roost)
 * [SkipAtom](https://github.com/lantunes/skipatom)
 
-# Structure Prediction
+# Crystal Structure Prediction
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS) 
 * [CALYPSO](http://www.calypso.cn) 
 * [p2ptrans](https://github.com/ftherrien/p2ptrans) 

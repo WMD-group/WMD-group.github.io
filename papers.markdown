@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Element similarity in high-dimensional materials representations" [arXiv (2023)](https://arxiv.org/abs/2307.00784)
 * "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
 * "Accessible chemical space for metal nitride perovskites" [arXiv (2023)](https://arxiv.org/abs/2304.05450)
@@ -20,6 +21,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Orbital engineering in Sillén–Aurivillius phase bismuth oxyiodide photocatalysts through interlayer interactions" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00932)
 0. "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [Journal of the American Chemical Society  (2023)](https://pubs.acs.org/doi/10.1021/jacs.3c04625)
 0. "From cubic to hexagonal: electronic trends across metal halide perovskite polytypes" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c01232)
 0. "Models of orientational disorder in hybrid organic-inorganic piezoelectric materials" [Journal of Materials Chemistry C (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc01835k)
@@ -443,7 +445,7 @@ permalink: /papers/
 0. "Electronic structure and phase stability of MgTe, ZnTe, CdTe, and their alloys in the B3, B4, and B8 structures" [Physical Review B (2009)](https://www.doi.org/10.1103/PhysRevB.79.245202)
 # 2008
 0. "Insights into the structure of the stable and metastable (GeTe)<sub>m</sub>(Sb<sub>2</sub>Te<sub>3</sub>)<sub>n</sub> compounds" [Physical Review B (2008)](https://www.doi.org/10.1103/PhysRevB.78.224111)
-0. "A comparative study of the electronic structures of SrCu2O<sub>2</sub> and PbCu2O<sub>2</sub> by density functional theory, high resolution X-ray photoemission and electron paramagnetic resonance spectroscopy" [Journal of Materials Chemistry (2008)](https://www.doi.org/10.1039/b719364e)
+0. "A comparative study of the electronic structures of SrCu<sub>2</sub>O<sub>2</sub> and PbCu<sub>2</sub>O<sub>2</sub> by density functional theory, high resolution X-ray photoemission and electron paramagnetic resonance spectroscopy" [Journal of Materials Chemistry (2008)](https://www.doi.org/10.1039/b719364e)
 0. "An ab initio study of reduction of V<sub>2</sub>O<sub>5</sub> through the formation of oxygen vacancies and Li intercalation" [The Journal of Physical Chemistry C (2008)](https://www.doi.org/10.1021/jp711334f)
 0. "Symmetry-induced transparency in conductive metal oxides for optoelectronics" [SPIE Newsroom (2008)](https://www.doi.org/10.1117/2.1200810.1368)
 0. "Nature of the band gap of In<sub>2</sub>O<sub>3</sub> revealed by first-principles calculations and X-ray spectroscopy" [Physical Review Letters (2008)](https://www.doi.org/10.1103/PhysRevLett.100.167402)
