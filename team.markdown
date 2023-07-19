@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <p align="center">
-    <img width="60%" src="/images/groupday_2018.jpg"> 
+    <img width="500" src="/images/groupday_2023.jpg"> 
 </p>
 
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
