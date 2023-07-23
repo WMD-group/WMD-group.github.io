@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* PhD studentship on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis". Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) with your CV for further details. 
+* PhD studentship on "Data-driven spectroelectrochemistry for water oxidation electrocatalysis". Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) with your CV for further details.  This is now open to international students and available to begin from October 2023.
 
 # Research Themes
 

@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Imperfections are not 0 K: free energy of point defects in crystals" [arXiv (2023)](https://arxiv.org/abs/2307.10451)
 * "Element similarity in high-dimensional materials representations" [arXiv (2023)](https://arxiv.org/abs/2307.00784)
 * "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
