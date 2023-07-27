@@ -22,6 +22,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Nature of the superionic phase transition of lithium nitride from machine learning force fields" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c01271)
 0. "Orbital engineering in Sillén–Aurivillius phase bismuth oxyiodide photocatalysts through interlayer interactions" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00932)
 0. "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [Journal of the American Chemical Society  (2023)](https://pubs.acs.org/doi/10.1021/jacs.3c04625)
 0. "From cubic to hexagonal: electronic trends across metal halide perovskite polytypes" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c01232)
