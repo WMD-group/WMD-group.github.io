@@ -12,7 +12,6 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Imperfections are not 0 K: free energy of point defects in crystals" [arXiv (2023)](https://arxiv.org/abs/2307.10451)
 * "Element similarity in high-dimensional materials representations" [arXiv (2023)](https://arxiv.org/abs/2307.00784)
 * "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
@@ -22,6 +21,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Imperfections are not 0 K: free energy of point defects in crystals" [Chemical Society Reviews (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/CS/D3CS00432E)
 0. "Nature of the superionic phase transition of lithium nitride from machine learning force fields" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c01271)
 0. "Orbital engineering in Sillén–Aurivillius phase bismuth oxyiodide photocatalysts through interlayer interactions" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00932)
 0. "Microscopic origin of electrochemical capacitance in metal-organic frameworks" [Journal of the American Chemical Society  (2023)](https://pubs.acs.org/doi/10.1021/jacs.3c04625)

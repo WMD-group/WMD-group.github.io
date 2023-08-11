@@ -26,9 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://http://wmd-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  
 github_username: wmd-group
-mastodon:
-- username: lonepair
-  instance: mstdn.social
 
 header_pages:
   - papers.markdown 
