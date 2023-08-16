@@ -15,12 +15,12 @@ permalink: /papers/
 * "Element similarity in high-dimensional materials representations" [arXiv (2023)](https://arxiv.org/abs/2307.00784)
 * "Structural dynamics descriptors for metal halide perovskites" [arXiv (2023)](https://arxiv.org/abs/2305.11617)
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
-* "Accessible chemical space for metal nitride perovskites" [arXiv (2023)](https://arxiv.org/abs/2304.05450)
 * "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [arXiv (2023)](https://arxiv.org/abs/2304.04714)
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Accessible chemical space for metal nitride perovskites" [Chemical Science (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC02171H)
 0. "Imperfections are not 0 K: free energy of point defects in crystals" [Chemical Society Reviews (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/CS/D3CS00432E)
 0. "Nature of the superionic phase transition of lithium nitride from machine learning force fields" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c01271)
 0. "Orbital engineering in Sillén–Aurivillius phase bismuth oxyiodide photocatalysts through interlayer interactions" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00932)
