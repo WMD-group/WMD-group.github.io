@@ -102,7 +102,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Phonons
 * [Alamode](https://alamode.readthedocs.io) 
 * [Phonopy](https://atztogo.github.io/phonopy), [Phono3py](https://atztogo.github.io/phono3py) 
-* [TDEP](https://ollehellman.github.io)
+* [TDEP](https://github.com/tdep-developers/tdep)
 
 #### Processing Tools
 * [ELATE](http://progs.coudert.name/elate)
