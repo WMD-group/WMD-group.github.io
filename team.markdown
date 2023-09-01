@@ -13,9 +13,10 @@ permalink: /team/
 # Senior Researchers
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
+- [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
+- [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en&oi=ao)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
-- [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers
@@ -69,3 +70,4 @@ permalink: /team/
 - [Alex Ganose](https://scholar.google.co.uk/citations?user=nVJFXWwAAAAJ&hl=en)
 - [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
 - [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
+- [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)

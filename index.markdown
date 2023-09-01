@@ -20,7 +20,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 # Research Themes
 
 ## Fundamentals
-* Inverse design of materials with predetermined properties 
+* Inverse design of materials using artificial intelligence  
 * Crystal thermodynamics and phase transformations
 * Ion, electron, and phonon transport in the solid state
 
