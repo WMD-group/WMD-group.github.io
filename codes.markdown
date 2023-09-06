@@ -62,6 +62,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Structure Analysis
 * [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
 * [PIEFACE](https://github.com/jcumby/PIEFACE)
+* [PDynA](https://github.com/WMD-group/PDynA)
 * [pyTilting](https://dwang5.github.io/PyTiltingDoc)
 * [spglib](http://spglib.github.io/spglib/)
 
