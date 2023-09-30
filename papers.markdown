@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Papers
+title: Publications
 permalink: /papers/
 ---
 
 <p align="center">
     <img width="23%" src="/images/cs-2020.png"> 
     <img width="23%" src="/images/com-2018.jpg"> 
-    <img width="23%" src="/images/mh-2021.jpg"> 
+    <img width="23%" src="/images/jpcc-2023.jpg"> 
     <img width="23%" src="/images/nrm-2022.jpg"> 
 </p>
 
 # Preprints
 * "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [arXiv (2023)](https://arxiv.org/abs/2305.11745)
-* "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [arXiv (2023)](https://arxiv.org/abs/2304.04714)
 * "Four-electron negative-U vacancy defects in antimony selenide" [arXiv (2023)](https://arxiv.org/abs/2302.04901)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [Small (2023)](https://doi.org/10.1002/smll.202303565)
 0. "Element similarity in high-dimensional materials representations" [Digital Discovery (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D3DD00121K)
 0. "Structural dynamics descriptors for metal halide perovskites" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c03377)
 0. "Models of oxygen occupancy in lead phosphate apatite Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.3c01651)
