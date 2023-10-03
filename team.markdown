@@ -12,14 +12,16 @@ permalink: /team/
 
 # Senior Researchers
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
+- [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
-- [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en&oi=ao)
+- [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers
+- [Panyalak Detrattanawichai](https://www.imperial.ac.uk/materials)
 - [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
@@ -29,9 +31,6 @@ permalink: /team/
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 - [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
-
-# Undergraduate Researchers 
-- [Calysta Tesiman](https://www.imperial.ac.uk/materials)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
