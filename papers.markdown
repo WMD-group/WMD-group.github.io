@@ -17,6 +17,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Alkali mono-pnictides: a new class of photovoltaic materials by element mutation" [PRX Energy (2023)](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.043002)
 0. "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [Small (2023)](https://doi.org/10.1002/smll.202303565)
 0. "Element similarity in high-dimensional materials representations" [Digital Discovery (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D3DD00121K)
 0. "Structural dynamics descriptors for metal halide perovskites" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c03377)
