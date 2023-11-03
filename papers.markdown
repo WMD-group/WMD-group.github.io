@@ -16,6 +16,8 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Searching for the rules of electrochemical nitrogen fixation" [ACS Catalysis (2023)](https://pubs.acs.org/doi/10.1021/acscatal.3c03951)
+0. "Observation of an exotic insulator to insulator transition upon electron doping the Mott insulator CeMnAsO" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-42858-3)
 0. "Mixed-cation vacancy-ordered perovskites (Cs<sub>2</sub>Ti<sub>1-x</sub>Sn<sub>x</sub>X<sub>6</sub>; X = I or Br): low-temperature miscibility, additivity, and tunable stability" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05204)
 0. "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [PRX Energy (2023)](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.043004)
 0. "Four-electron negative-U vacancy defects in antimony selenide" [Physical Review B (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.134102) [Featured as Editor's Suggestion]
