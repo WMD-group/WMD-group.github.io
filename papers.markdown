@@ -17,6 +17,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Phase transitions, dielectric response, and nonlinear optical properties of aziridinium lead halide perovskites" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02200)
 0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than)
 0. "Observation of an exotic insulator to insulator transition upon electron doping the Mott insulator CeMnAsO" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-42858-3)
 0. "Searching for the rules of electrochemical nitrogen fixation" [ACS Catalysis (2023)](https://pubs.acs.org/doi/10.1021/acscatal.3c03951)
