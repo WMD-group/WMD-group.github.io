@@ -12,11 +12,13 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Race to the bottom: Bayesian optimisation for chemical problems" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/656dfe74cf8b3c3cd7c611a5)
 * "Low-cost vibrational free energies in solid solutions with machine learning force fields" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/654cd9c42c3c11ed711023f0)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2023 
+0. "Metal–organic framework supercapacitors: challenges and opportunities" [Advanced Functional Materials (2023)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202308497)
 0. "Phase transitions, dielectric response, and nonlinear optical properties of aziridinium lead halide perovskites" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02200)
 0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than)
 0. "Observation of an exotic insulator to insulator transition upon electron doping the Mott insulator CeMnAsO" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-42858-3)
