@@ -9,6 +9,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Journal of Open Source Software
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
+* [PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles](https://github.com/WMD-group/PyTASER)
 * [ShakeNBreak: Navigating the Defect Configurational Landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
 * [UnlockNN: Uncertainty Quantification for Neural Network Models of Chemical Systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)
@@ -37,12 +38,12 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
 * [FLARE](https://github.com/mir-group/flare) and [Allegro](https://github.com/mir-group/allegro)
 * [Crystals.ai](https://crystals.ai)
-* [CGCNN](https://github.com/txie-93/cgcnn), [MEGNet](http://megnet.crystals.ai), [DGL](https://github.com/dmlc/dgl)
+* [CGCNN](https://github.com/txie-93/cgcnn), [MatGL](https://github.com/materialsvirtuallab/matgl)
 * [DScribe](https://singroup.github.io/dscribe), [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 * [M2Hub](https://github.com/yuanqidu/M2Hub)
-* [M3GNet](https://github.com/materialsvirtuallab/m3gnet), [CHGNet](https://github.com/CederGroupHub/chgnet)
+* [M3GNet](https://github.com/materialsvirtuallab/matgl), [CHGNet](https://github.com/CederGroupHub/chgnet)
 * [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 * [Sketch-Map](https://sketchmap.org) 
 
@@ -83,7 +84,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Galore](https://github.com/SMTG-UCL/galore)
 * [iFermi](https://github.com/fermisurfaces/IFermi) 
 * [kgrid](https://github.com/WMD-group/kgrid)
-* [Lobster](http://schmeling.ac.rwth-aachen.de/cohp/index.php?menuID=6)
+* [Lobster](http://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy/tree/main)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity) 
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) 
 * [Sumo](https://github.com/SMTG-UCL/sumo)
@@ -121,11 +122,11 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html) 
 
 #### Datasets
-* [Kyoto phonons](http://phonondb.mtl.kyoto-u.ac.jp) 
+* [Phonondb](https://github.com/atztogo/phonondb) 
 * [Our Phonons](https://github.com/WMD-group/Phonons)
 * [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html) 
 
-# Solid Solutions 
+# Alloys and Solid Solutions 
 * [ATAT](https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/) 
 * [CASM](https://github.com/prisms-center/CASMcode) 
 * [icet](https://icet.materialsmodeling.org) 
