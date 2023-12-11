@@ -23,7 +23,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
 #  Databases
-* [CoRE-MOF](https://zenodo.org/record/3370144), [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [QMOF](https://github.com/arosen93/QMOF)
+* [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF), [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd)
