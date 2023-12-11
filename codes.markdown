@@ -23,7 +23,8 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
 #  Databases
-* [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF), [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
+* [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF),
+* [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd)
@@ -32,6 +33,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [NIST-Jarvis](https://jarvis.nist.gov)
 * [NREL Materials Database](https://materials.nrel.gov)
 * [Open Quantum Materials Database](http://oqmd.org)
+* [Optimade API](https://www.optimade.org)
 * [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
 
 # Machine Learning Crystals
@@ -66,7 +68,8 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [PIEFACE](https://github.com/jcumby/PIEFACE)
 * [PDynA](https://github.com/WMD-group/PDynA)
 * [pyTilting](https://dwang5.github.io/PyTiltingDoc)
-* [spglib](http://spglib.github.io/spglib/)
+* [spglib](http://spglib.github.io/spglib)
+* [Zeo++](http://www.zeoplusplus.org)
 
 # Electronic Structure
 * [BigDFT](http://bigdft.org)
@@ -85,7 +88,8 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [iFermi](https://github.com/fermisurfaces/IFermi) 
 * [kgrid](https://github.com/WMD-group/kgrid)
 * [Lobster](http://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy/tree/main)
-* [Macrodensity](https://github.com/WMD-group/MacroDensity) 
+* [Macrodensity](https://github.com/WMD-group/MacroDensity)
+* [Packmol](https://m3g.github.io/packmol/)
 * [SetupKpoints](https://github.com/keeeto/SetupKpoints) 
 * [Sumo](https://github.com/SMTG-UCL/sumo)
 * [Surfaxe](https://github.com/SMTG-UCL/surfaxe)
