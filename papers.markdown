@@ -13,13 +13,13 @@ permalink: /papers/
 
 # Preprints
 * "Race to the bottom: Bayesian optimisation for chemical problems" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/656dfe74cf8b3c3cd7c611a5)
-* "Low-cost vibrational free energies in solid solutions with machine learning force fields" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/654cd9c42c3c11ed711023f0)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
 0. "Accelerated chemical science with AI" [Digital Discovery (2024)](https://pubs.rsc.org/en/Content/ArticleLanding/2024/DD/D3DD00213F)
 # 2023 
+0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
 0. "Metal–organic framework supercapacitors: challenges and opportunities" [Advanced Functional Materials (2023)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202308497)
 0. "Phase transitions, dielectric response, and nonlinear optical properties of aziridinium lead halide perovskites" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02200)
 0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than)
