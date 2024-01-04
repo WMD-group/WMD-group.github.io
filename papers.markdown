@@ -18,6 +18,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Open computational materials science" [Nature Materials (2024)](https://www.nature.com/articles/s41563-023-01699-7)
 0. "Accelerated chemical science with AI" [Digital Discovery (2024)](https://pubs.rsc.org/en/Content/ArticleLanding/2024/DD/D3DD00213F)
 # 2023 
 0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
