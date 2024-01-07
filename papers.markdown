@@ -13,6 +13,7 @@ permalink: /papers/
 
 # Preprints
 * "Mapping inorganic crystal chemical space" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/658ed6b966c138172948c664)
+* "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 * "Race to the bottom: Bayesian optimisation for chemical problems" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/656dfe74cf8b3c3cd7c611a5)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)

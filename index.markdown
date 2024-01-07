@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* We will have several PhD positions open for admission in October 2024 in the area of materials informatics for renewable energy applications, involving aspects of computational chemistry, physics and machine learning. Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) with your CV for further details.  
+* We will have a postdoctoral position opening in September 2024 in the area of materials informatics for renewable energy applications, involving aspects of computational chemistry, physics and machine learning. The advertisement will open soon. Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) for further details.  
 
 # Research Themes
 
@@ -35,10 +35,10 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 * Electroactive metal-organic frameworks (e.g. Fe<sub>2</sub>(DSBDC), Cu<sub>3</sub>(HHTP)<sub>2</sub>)
 
 # Community Projects
+* Open computational materials science [Nature Materials](https://www.nature.com/articles/s41563-023-01699-7)
 * Best practices in machine learning for chemistry [Nature Chemistry](https://www.nature.com/articles/s41557-021-00716-z)
 * Emerging inorganic solar cell efficiency tables [J Phys Energy](https://iopscience.iop.org/article/10.1088/2515-7655/abebca/meta)
 * Stability assessment and reporting for perovskite photovoltaics [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
-* Materials by design roadmap [J Phys D](https://iopscience.iop.org/article/10.1088/1361-6463/aad926)
 * Best practices in characterization of perovskite-inspired photovoltaics [Chemistry of Materials](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03852)
 
 # Contact
