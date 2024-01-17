@@ -19,11 +19,10 @@ permalink: /team/
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
+- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
 
 # PhD Researchers
 - [Panyalak Detrattanawichai](https://www.imperial.ac.uk/materials)
-- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
-- [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
 - [Xia Liang (梁夏)](https://www.imperial.ac.uk/materials)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
@@ -51,6 +50,7 @@ permalink: /team/
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang (黄菊)](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
+- [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
