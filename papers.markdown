@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv (2024)](https://arxiv.org/abs/2401.12127)
 * "Mapping inorganic crystal chemical space" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/658ed6b966c138172948c664)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 * "Race to the bottom: Bayesian optimisation for chemical problems" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/656dfe74cf8b3c3cd7c611a5)
@@ -20,6 +21,7 @@ permalink: /papers/
 
 # 2024
 0. "Open computational materials science" [Nature Materials (2024)](https://www.nature.com/articles/s41563-023-01699-7)
+0. "Molecularly engineered self-assembled monolayers as effective hole-selective layers for organic solar cells" [ACS Applied Energy Materials (2024)](https://pubs.acs.org/doi/10.1021/acsaem.3c02946)
 0. "Accelerated chemical science with AI" [Digital Discovery (2024)](https://pubs.rsc.org/en/Content/ArticleLanding/2024/DD/D3DD00213F)
 # 2023 
 0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
