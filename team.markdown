@@ -23,8 +23,8 @@ permalink: /team/
 
 # PhD Researchers
 - [Panyalak Detrattanawichai](https://www.imperial.ac.uk/materials)
-- [Chloe (Jiwoo) Lee (이지우)](https://uic.yonsei.ac.kr) 
-- [Xia Liang (梁夏)](https://www.imperial.ac.uk/materials)
+- [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
+- [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)

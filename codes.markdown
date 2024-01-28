@@ -22,10 +22,11 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [NOMAD](https://nomad-coe.eu) 
 * [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
-#  Databases
+#  Databases and Datasets 
 * [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF),
 * [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
+* [Crystals.ai](https://crystals.ai)  
 * [Crystallography Open Database](http://www.crystallography.net/cod/) 
 * [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd)
 * [Foundry-ML](https://foundry-ml.org)
@@ -37,17 +38,19 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
 
 # Machine Learning Crystals
-* [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
-* [FLARE](https://github.com/mir-group/flare) and [Allegro](https://github.com/mir-group/allegro)
-* [Crystals.ai](https://crystals.ai)
-* [CGCNN](https://github.com/txie-93/cgcnn), [MatGL](https://github.com/materialsvirtuallab/matgl)
 * [DScribe](https://singroup.github.io/dscribe), [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
+* [Matbench](https://matbench.materialsproject.org) and [Matbench-discovery](https://matbench-discovery.materialsproject.org)
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 * [M2Hub](https://github.com/yuanqidu/M2Hub)
+* [Sketch-Map](https://sketchmap.org) 
+
+#### Machine Learning Force Fields 
+* [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
+* [CGCNN](https://github.com/txie-93/cgcnn), [MatGL](https://github.com/materialsvirtuallab/matgl)
+* [FLARE](https://github.com/mir-group/flare) and [Allegro](https://github.com/mir-group/allegro)
 * [M3GNet](https://github.com/materialsvirtuallab/matgl), [CHGNet](https://github.com/CederGroupHub/chgnet)
 * [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
-* [Sketch-Map](https://sketchmap.org) 
 
 #### Compositional Descriptors and Models
 * [Crabnet](https://github.com/anthony-wang/CrabNet)

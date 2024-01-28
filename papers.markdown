@@ -27,7 +27,7 @@ permalink: /papers/
 0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
 0. "Metal–organic framework supercapacitors: challenges and opportunities" [Advanced Functional Materials (2023)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202308497)
 0. "Phase transitions, dielectric response, and nonlinear optical properties of aziridinium lead halide perovskites" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02200)
-0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than)
+0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than) [Cover feature](https://pubs.aip.org/aip/ape/issue/1/3)
 0. "Observation of an exotic insulator to insulator transition upon electron doping the Mott insulator CeMnAsO" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-42858-3)
 0. "Searching for the rules of electrochemical nitrogen fixation" [ACS Catalysis (2023)](https://pubs.acs.org/doi/10.1021/acscatal.3c03951)
 0. "Mixed-cation vacancy-ordered perovskites (Cs<sub>2</sub>Ti<sub>1-x</sub>Sn<sub>x</sub>X<sub>6</sub>; X = I or Br): low-temperature miscibility, additivity, and tunable stability" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05204)
