@@ -9,7 +9,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Journal of Open Source Software
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
-* [PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles](https://github.com/WMD-group/PyTASER)
+* [PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles](https://joss.theoj.org/papers/10.21105/joss.05999)
 * [ShakeNBreak: Navigating the Defect Configurational Landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
 * [SMACT: Semiconducting Materials by Analogy and Chemical Theory](https://joss.theoj.org/papers/10.21105/joss.01361)
 * [UnlockNN: Uncertainty Quantification for Neural Network Models of Chemical Systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)

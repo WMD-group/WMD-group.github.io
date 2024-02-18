@@ -21,9 +21,11 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.05999)
 0. "Open computational materials science" [Nature Materials (2024)](https://www.nature.com/articles/s41563-023-01699-7)
 0. "Molecularly engineered self-assembled monolayers as effective hole-selective layers for organic solar cells" [ACS Applied Energy Materials (2024)](https://pubs.acs.org/doi/10.1021/acsaem.3c02946)
 0. "Accelerated chemical science with AI" [Digital Discovery (2024)](https://pubs.rsc.org/en/Content/ArticleLanding/2024/DD/D3DD00213F)
+0. "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [Small (2024)](https://doi.org/10.1002/smll.202303565)
 # 2023 
 0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
 0. "Metal–organic framework supercapacitors: challenges and opportunities" [Advanced Functional Materials (2023)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202308497)
@@ -35,7 +37,6 @@ permalink: /papers/
 0. "Metal halide thermoelectrics: prediction of high-performance CsCu<sub>2</sub>I<sub>3</sub>" [PRX Energy (2023)](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.043004)
 0. "Four-electron negative-U vacancy defects in antimony selenide" [Physical Review B (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.134102) [Featured as Editor's Suggestion]
 0. "Alkali mono-pnictides: a new class of photovoltaic materials by element mutation" [PRX Energy (2023)](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.043002)
-0. "Dynamic local structure in caesium lead iodide: spatial correlation and transient domains" [Small (2023)](https://doi.org/10.1002/smll.202303565)
 0. "Element similarity in high-dimensional materials representations" [Digital Discovery (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D3DD00121K)
 0. "Structural dynamics descriptors for metal halide perovskites" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c03377)
 0. "Models of oxygen occupancy in lead phosphate apatite Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O" [ACS Energy Letters (2023)](https://pubs.acs.org/doi/10.1021/acsenergylett.3c01651)
