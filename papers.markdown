@@ -21,6 +21,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Band gap narrowing by suppressed lone-pair activity of Bi<sup>3+</sup>" [Journal of the American Chemical Society (2024)](https://pubs.acs.org/doi/10.1021/jacs.4c00150)
 0. "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.05999)
 0. "Open computational materials science" [Nature Materials (2024)](https://www.nature.com/articles/s41563-023-01699-7)
 0. "Molecularly engineered self-assembled monolayers as effective hole-selective layers for organic solar cells" [ACS Applied Energy Materials (2024)](https://pubs.acs.org/doi/10.1021/acsaem.3c02946)
