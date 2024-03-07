@@ -14,7 +14,6 @@ permalink: /team/
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
@@ -70,3 +69,4 @@ permalink: /team/
 - [Alexander Bagger](https://scholar.google.dk/citations?user=jCNCDRgAAAAJ&hl=da)
 - [Suhyun Yoo (유수현)](https://scholar.google.com/citations?user=VhIOTvcAAAAJ&hl=ko)
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
+- [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
