@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [arXiv (2024)](https://arxiv.org/abs/2403.08012)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
 * "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2402.04434)
 * "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv (2024)](https://arxiv.org/abs/2401.12127)
