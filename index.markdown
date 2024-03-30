@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* We will have a postdoctoral position opening in September 2024 in the area of materials informatics for renewable energy applications, involving aspects of computational chemistry, physics and machine learning. The advertisement will open soon. Please [e-mail](mailto:a.walsh[at]imperial.ac.uk) for further details.  
+* We have a new postdoctoral opening from October 2024 in the area of materials informatics for renewable energy applications, involving aspects of computational chemistry, physics and machine learning. For more information and application details see [here](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=18412&jobTitle=Research+Associate+in+Materials+Informatics++).
 
 # Research Themes
 
