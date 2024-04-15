@@ -8,6 +8,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Journal of Open Source Software
 * [CarrierCapture.jl: Anharmonic Carrier Capture](https://joss.theoj.org/papers/10.21105/joss.02102)
+* [doped: Python toolkit for robust and repeatable charged defect supercell calculations](https://joss.theoj.org/papers/10.21105/joss.06433)
 * [effmass: An Effective Mass Package](https://joss.theoj.org/papers/10.21105/joss.00797)
 * [PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles](https://joss.theoj.org/papers/10.21105/joss.05999)
 * [ShakeNBreak: Navigating the Defect Configurational Landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)

@@ -12,17 +12,17 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [arXiv (2024)](https://arxiv.org/abs/2403.08012)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
 * "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2402.04434)
 * "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv (2024)](https://arxiv.org/abs/2401.12127)
-* "Mapping inorganic crystal chemical space" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/658ed6b966c138172948c664)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 * "Race to the bottom: Bayesian optimisation for chemical problems" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/656dfe74cf8b3c3cd7c611a5)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/658ed6b966c138172948c664)
+0. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.06433)
 0. "Multi-objective quality-diversity for crystal structure prediction" [Genetic and Evolutionary Computation Conference (2024)](https://arxiv.org/abs/2403.17164)
 0. "Band gap narrowing by suppressed lone-pair activity of Bi<sup>3+</sup>" [Journal of the American Chemical Society (2024)](https://pubs.acs.org/doi/10.1021/jacs.4c00150)
 0. "A hole-selective self-assembled monolayer for both efficient perovskite and organic solar cells" [Langmuir (2024)](https://doi.org/10.1021/acs.langmuir.3c03610)
