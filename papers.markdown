@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.12955)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
 * "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2402.04434)
 * "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv (2024)](https://arxiv.org/abs/2401.12127)
