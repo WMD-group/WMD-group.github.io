@@ -12,6 +12,9 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" arXiv (2024)](https://arxiv.org/abs/2404.14598)
+* "Ligand field states control photocatalytic efficiency of transition metal oxides" ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
+* "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.12955)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
 * "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2402.04434)
@@ -22,7 +25,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
-0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/658ed6b966c138172948c664)
+0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 0. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.06433)
 0. "Multi-objective quality-diversity for crystal structure prediction" [Genetic and Evolutionary Computation Conference (2024)](https://arxiv.org/abs/2403.17164)
 0. "Band gap narrowing by suppressed lone-pair activity of Bi<sup>3+</sup>" [Journal of the American Chemical Society (2024)](https://pubs.acs.org/doi/10.1021/jacs.4c00150)
