@@ -20,7 +20,7 @@ permalink: /team/
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers
-- [Panyalak Detrattanawichai](https://www.imperial.ac.uk/materials)
+- [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
