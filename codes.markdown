@@ -21,7 +21,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk) with [Recipes](https://asr.readthedocs.io)
 * [Atomate](https://github.com/hackingmaterials/atomate), [Atomate2](https://github.com/materialsproject/atomate2)
 * [NOMAD](https://nomad-coe.eu) 
-* [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Matgenie](http://matgenie.materialsvirtuallab.org) with [Recipes](http://matgenb.materialsvirtuallab.org) 
+* [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Crystal Toolkit](https://next-gen.materialsproject.org/toolkit) with [Recipes](http://matgenb.materialsvirtuallab.org) 
 
 #  Databases and Datasets 
 * [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF),
