@@ -12,8 +12,8 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" arXiv (2024)](https://arxiv.org/abs/2404.14598)
-* "Ligand field states control photocatalytic efficiency of transition metal oxides" ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
+* "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
+* "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.12955)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
