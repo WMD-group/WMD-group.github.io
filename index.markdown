@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* We have a new postdoctoral opening from October 2024 in the area of materials informatics for renewable energy applications, involving aspects of computational chemistry, physics and machine learning. For more information and application details see [here](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=18412&jobTitle=Research+Associate+in+Materials+Informatics++).
+* Get in touch if you would like to host a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-opens-eu417-million-call-for-postdoctoral-fellowships) with us.
 
 # Research Themes
 
