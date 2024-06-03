@@ -17,13 +17,13 @@ permalink: /papers/
 * "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.12955)
 * "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
-* "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2402.04434)
 * "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv (2024)](https://arxiv.org/abs/2401.12127)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [Joule (2024)](https://doi.org/10.1016/j.joule.2024.05.004)
 0. "Race to the bottom: Bayesian optimisation for chemical problems" [Digital Discovery (2023)](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00234a)
 0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 0. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.06433)
