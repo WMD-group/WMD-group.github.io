@@ -16,12 +16,12 @@ permalink: /papers/
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.12955)
-* "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [arXiv (2024)](https://arxiv.org/abs/2403.03511)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 * "Roadmap on photovoltaic absorber materials for sustainable energy conversion" [arXiv (2023)](https://arxiv.org/abs/2310.19430)
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00054D)
 0. "Machine-learning structural reconstructions for accelerated point defect calculations" [npj Computational Materials (2024)](https://www.nature.com/articles/s41524-024-01303-9)
 0. "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [Joule (2024)](https://doi.org/10.1016/j.joule.2024.05.004)
 0. "Race to the bottom: Bayesian optimisation for chemical problems" [Digital Discovery (2023)](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00234a)
