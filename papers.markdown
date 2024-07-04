@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [arXiv (2024)](https://arxiv.org/abs/2407.03244)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
@@ -21,6 +22,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Has generative artificial intelligence solved inverse materials design?" [Matter (2024)](https://doi.org/10.1016/j.matt.2024.05.017)
 0. "Illuminating the property space in crystal structure prediction using Quality-Diversity algorithms" [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00054D)
 0. "Machine-learning structural reconstructions for accelerated point defect calculations" [npj Computational Materials (2024)](https://www.nature.com/articles/s41524-024-01303-9)
 0. "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [Joule (2024)](https://doi.org/10.1016/j.joule.2024.05.004)

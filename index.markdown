@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* Get in touch if you would like to host a [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-opens-eu417-million-call-for-postdoctoral-fellowships) with us.
+* No openings at the moment. PhD candidates will be considered from October 2024 (for admission in October 2025).
 
 # Research Themes
 
@@ -31,7 +31,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 ## Materials
 * Metal halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
-* Multi-component chalcogenides (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, AgBiS<sub>2</sub>)
+* Multi-component chalcogenide semiconductors (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, AgBiS<sub>2</sub>)
 * Electroactive metal-organic frameworks (e.g. Fe<sub>2</sub>(DSBDC), Cu<sub>3</sub>(HHTP)<sub>2</sub>)
 
 # Community Projects
