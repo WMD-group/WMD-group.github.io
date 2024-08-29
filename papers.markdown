@@ -20,6 +20,7 @@ permalink: /papers/
 * "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Cation-eutaxy-enabled III–V-derived van der Waals crystals as memristive semiconductors" [Nature Materials (2024)](https://www.nature.com/articles/s41563-024-01986-x)
 0. "Roadmap on established and emerging photovoltaics for sustainable energy conversion" [J. Phys. Energy (2024)](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404)
 0. "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [Nano Letters (2024)](https://doi.org/10.1021/acs.nanolett.4c01905)
 0. "Has generative artificial intelligence solved inverse materials design?" [Matter (2024)](https://doi.org/10.1016/j.matt.2024.05.017)
