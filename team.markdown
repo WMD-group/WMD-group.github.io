@@ -16,7 +16,6 @@ permalink: /team/
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Anthony Onwuli](https://www.imperial.ac.uk/materials)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
-- [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 
@@ -70,3 +69,4 @@ permalink: /team/
 - [Kasper Tolborg](https://scholar.google.com/citations?user=0avXp5oAAAAJ&hl=en)
 - [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
+- [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)

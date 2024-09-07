@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [arXiv (2024)](https://arxiv.org/abs/2408.16663)
 * "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [arXiv (2024)](https://arxiv.org/abs/2407.03244)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
