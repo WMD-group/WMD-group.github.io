@@ -18,9 +18,10 @@ permalink: /papers/
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
-* "What information is necessary and sufficient to predict materials properties using machine learning?" [arXiv (2022)](https://arxiv.org/abs/2206.04968)
 
 # 2024
+0. "Ionic species representations for materials informatics" [APL Machine Learning (2024)](https://doi.org/10.1063/5.0227009)
+0. "Interplay between strain and charge in Cu(In,Ga)Se<sub>2</sub> flexible photovoltaics" [npj Flexible Electronics (2024)](https://doi.org/10.1038/s41528-024-00347-7)
 0. "Cation-eutaxy-enabled III–V-derived van der Waals crystals as memristive semiconductors" [Nature Materials (2024)](https://www.nature.com/articles/s41563-024-01986-x)
 0. "Roadmap on established and emerging photovoltaics for sustainable energy conversion" [J. Phys. Energy (2024)](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404)
 0. "Anisotropic electron-phonon interactions in 2D lead-halide perovskites" [Nano Letters (2024)](https://doi.org/10.1021/acs.nanolett.4c01905)
