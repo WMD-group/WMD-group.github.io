@@ -20,6 +20,8 @@ permalink: /papers/
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
 # 2024
+0. "Electrochemical nitrogen reduction: the energetic distance to lithium" [ACS Energy Letters (2024)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.4c01638)
+0. "Na vacancy-driven phase transformation and fast ion conduction in W-doped Na<sub>3</sub>SbS<sub>4</sub> from machine learning force fields" [Chemistry of Materials (2024)](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00936)
 0. "Ionic species representations for materials informatics" [APL Machine Learning (2024)](https://doi.org/10.1063/5.0227009)
 0. "Interplay between strain and charge in Cu(In,Ga)Se<sub>2</sub> flexible photovoltaics" [npj Flexible Electronics (2024)](https://doi.org/10.1038/s41528-024-00347-7)
 0. "Cation-eutaxy-enabled III–V-derived van der Waals crystals as memristive semiconductors" [Nature Materials (2024)](https://www.nature.com/articles/s41563-024-01986-x)
