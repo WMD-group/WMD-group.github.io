@@ -11,10 +11,10 @@ permalink: /team/
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)
 
 # Senior Researchers
-- [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
+- [Ashna Jose](https://scholar.google.co.in/citations?user=L8eOeksAAAAJ&hl=en)
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Anthony Onwuli](https://www.imperial.ac.uk/materials)
+- [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
@@ -23,8 +23,14 @@ permalink: /team/
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
+- [Zhengyu Liu (刘政宇)](https://www.imperial.ac.uk/materials)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
+- [Kinga Mastej](https://www.imperial.ac.uk/materials)
 - [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
+
+# Visiting Researchers
+- [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
+- [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)

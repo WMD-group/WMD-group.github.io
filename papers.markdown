@@ -16,10 +16,10 @@ permalink: /papers/
 * "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [arXiv (2024)](https://arxiv.org/abs/2407.03244)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
-* "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6621005f91aefa6ce1d076b1)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
 # 2024
+0. "Revealing ion adsorption and charging mechanisms in layered metal-organic framework supercapacitors with solid-state nuclear magnetic resonance" [Journal of the American Chemical Society (2024)](https://pubs.acs.org/doi/10.1021/jacs.4c05330)
 0. "Electrochemical nitrogen reduction: the energetic distance to lithium" [ACS Energy Letters (2024)](https://pubs.acs.org/doi/full/10.1021/acsenergylett.4c01638)
 0. "Na vacancy-driven phase transformation and fast ion conduction in W-doped Na<sub>3</sub>SbS<sub>4</sub> from machine learning force fields" [Chemistry of Materials (2024)](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00936)
 0. "Ionic species representations for materials informatics" [APL Machine Learning (2024)](https://doi.org/10.1063/5.0227009)
