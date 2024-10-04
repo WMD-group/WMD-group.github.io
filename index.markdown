@@ -7,7 +7,7 @@ show_in_nav: false
 title: Navigating Materials Space with Computers 
 ---
 
-We are an academic group at [Imperial College London](http://www.imperial.ac.uk) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics/).
+We are an academic group at [Imperial College London](https://www.imperial.ac.uk/materials) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
 
 <p align="center" width="100%">
     <img width="58%" src="/images/chemnav.jpg"> 
@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](http://www.imperial.ac.uk)
 
 # Open Positions
 
-* No openings at the moment. PhD candidates will be considered from October 2024 (for admission in October 2025).
+* Two PhD openings are available for admission in October 2025. For general information on admissions, including scholarships see [here](https://www.imperial.ac.uk/materials/study/materialsphd). In the first instance, send your CV by [e-mail](mailto:a.walsh[at]imperial.ac.uk) and state the area of research you are interested in. The first round will close on Friday 8th November 2024.
 
 # Research Themes
 
