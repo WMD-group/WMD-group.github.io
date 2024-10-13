@@ -36,10 +36,10 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Community Projects
 * Open computational materials science [Nature Materials](https://www.nature.com/articles/s41563-023-01699-7)
+* “Roadmap on established and emerging photovoltaics for sustainable energy conversion [J Phys Energy Materials](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404)
 * Best practices in machine learning for chemistry [Nature Chemistry](https://www.nature.com/articles/s41557-021-00716-z)
 * Emerging inorganic solar cell efficiency tables [J Phys Energy](https://iopscience.iop.org/article/10.1088/2515-7655/abebca/meta)
 * Stability assessment and reporting for perovskite photovoltaics [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
-* Best practices in characterization of perovskite-inspired photovoltaics [Chemistry of Materials](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03852)
 
 # Contact
 If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
