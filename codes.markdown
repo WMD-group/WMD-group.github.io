@@ -48,12 +48,20 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [CGCNN](https://github.com/txie-93/cgcnn) and [MEGNet](https://github.com/materialsvirtuallab/megnet)
 * [DScribe](https://singroup.github.io/dscribe) and [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
-* [Matbench](https://matbench.materialsproject.org) and [Matbench-discovery](https://matbench-discovery.materialsproject.org)
+* [Matbench](https://matbench.materialsproject.org) 
 * [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
 * [SISSO](https://github.com/rouyang2017/SISSO)
 * [Sketch-Map](https://sketchmap.org)
 
-#### Machine Learning Force Fields 
+#### Compositional Descriptors and Models
+
+* [Aviary](https://github.com/CompRhys/aviary) from [RooSt](https://github.com/CompRhys/roost)
+* [Crabnet](https://github.com/anthony-wang/CrabNet)
+* [ElementEmbeddings](https://github.com/WMD-group/ElementEmbeddings)
+* [Element Movers Distance](https://github.com/lrcfmd/ElMD)
+* [SkipAtom](https://github.com/lantunes/skipatom) and [SkipSpecies](https://github.com/WMD-group/skipspecies)
+
+#### Machine Learning Force Fields (MLFF)
 
 * [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
 * [ANI](https://github.com/isayev/ANI1_dataset)
@@ -62,14 +70,12 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [MatGL](https://github.com/materialsvirtuallab/matgl) and [CHGNet](https://github.com/CederGroupHub/chgnet)
 * [PyXtal_FF](https://github.com/qzhu2017/pyxtal_ff)
 * [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
+* [SevenNet](https://github.com/MDIL-SNU/SevenNet)
 
-#### Compositional Descriptors and Models
+#### MLFF Benchmarks
 
-* [Aviary](https://github.com/CompRhys/aviary) from [RooSt](https://github.com/CompRhys/roost)
-* [Crabnet](https://github.com/anthony-wang/CrabNet)
-* [ElementEmbeddings](https://github.com/WMD-group/ElementEmbeddings)
-* [Element Movers Distance](https://github.com/lrcfmd/ElMD)
-* [SkipAtom](https://github.com/lantunes/skipatom)
+* [Matbench-discovery](https://matbench-discovery.materialsproject.org)
+* [MLIP-Arena](https://huggingface.co/spaces/atomind/mlip-arena)
 
 # Crystal Structure Prediction
 
