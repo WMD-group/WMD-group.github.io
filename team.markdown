@@ -63,7 +63,7 @@ permalink: /team/
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
-- [Rachel Otero-Crespo](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
+- [Rachel Crespo-Otero](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)
 - [Jonathan M. Skelton](https://scholar.google.co.uk/citations?user=FAK4WzwAAAAJ&hl=en)
 - [Daniel Fritsch](https://scholar.google.co.uk/citations?user=5ul21mQAAAAJ&hl=en&oi=ao)
