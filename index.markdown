@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* Two PhD openings are available for admission in October 2025. For general information on admissions, including scholarships see [here](https://www.imperial.ac.uk/materials/study/materialsphd). In the first instance, send your CV by [e-mail](mailto:a.walsh[at]imperial.ac.uk) and state the area of research you are interested in. The first round will close on Friday 8th November 2024.
+* There are no current openings. For postdoctoral candidates, the next call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) will be in Janauary 2025.  
 
 # Research Themes
 

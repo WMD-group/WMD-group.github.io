@@ -17,6 +17,7 @@ permalink: /team/
 - [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
+- [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
 
 # PhD Researchers
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
