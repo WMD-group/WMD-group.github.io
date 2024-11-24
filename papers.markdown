@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6706a93612ff75c3a1f8c995)
 * "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2410.10560)
 * "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [arXiv (2024)](https://arxiv.org/abs/2408.16663)

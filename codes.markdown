@@ -77,6 +77,12 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Matbench-discovery](https://matbench-discovery.materialsproject.org)
 * [MLIP-Arena](https://huggingface.co/spaces/atomind/mlip-arena)
 
+#### Generative AI
+
+* [CDVAE](https://github.com/txie-93/cdvae)
+* [Chemeleon](https://github.com/hspark1212/chemeleon)
+* [DiffCSP](https://github.com/jiaor17/DiffCSP)
+
 # Crystal Structure Prediction
 
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
