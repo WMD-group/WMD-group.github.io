@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6706a93612ff75c3a1f8c995)
 * "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2410.10560)
