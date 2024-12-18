@@ -15,12 +15,13 @@ permalink: /papers/
 * "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6706a93612ff75c3a1f8c995)
-* "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [arXiv (2024)](https://arxiv.org/abs/2410.10560)
 * "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [arXiv (2024)](https://arxiv.org/abs/2408.16663)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
+# 2025
+0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2024)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
 # 2024
 0. "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [Journal of Physical Chemistry C (2024)](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c04686)
 0. "Anomalous in-plane electrical anisotropy in elemental metal nanosheets" [Nature Synthesis (2024)](https://www.nature.com/articles/s44160-024-00669-4)
