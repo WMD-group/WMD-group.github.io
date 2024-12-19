@@ -21,7 +21,8 @@ permalink: /papers/
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
 # 2025
-0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2024)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
+0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
+0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 # 2024
 0. "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [Journal of Physical Chemistry C (2024)](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c04686)
 0. "Anomalous in-plane electrical anisotropy in elemental metal nanosheets" [Nature Synthesis (2024)](https://www.nature.com/articles/s44160-024-00669-4)
@@ -39,7 +40,6 @@ permalink: /papers/
 0. "Machine-learning structural reconstructions for accelerated point defect calculations" [npj Computational Materials (2024)](https://www.nature.com/articles/s41524-024-01303-9)
 0. "Upper efficiency limit of Sb<sub>2</sub>Se<sub>3</sub> solar cells" [Joule (2024)](https://doi.org/10.1016/j.joule.2024.05.004)
 0. "Race to the bottom: Bayesian optimisation for chemical problems" [Digital Discovery (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00234a)
-0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 0. "Multi-objective quality-diversity for crystal structure prediction" [Genetic and Evolutionary Computation Conference (2024)](https://dl.acm.org/doi/10.1145/3638529.3654048)
 0. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://joss.theoj.org/papers/10.21105/joss.06433)
 0. "Band gap narrowing by suppressed lone-pair activity of Bi<sup>3+</sup>" [Journal of the American Chemical Society (2024)](https://pubs.acs.org/doi/10.1021/jacs.4c00150)
