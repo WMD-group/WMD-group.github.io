@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Point defect formation at finite temperatures with machine learning force fields" [arXiv (2024)](https://arxiv.org/abs/2412.16741)
 * "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6706a93612ff75c3a1f8c995)
@@ -21,6 +22,8 @@ permalink: /papers/
 * "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
 # 2025
+0. "Electrostatic control of electronic structure in modular inorganic crystals" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.4c13637)
+0. "Electrochemical interface modelling for electrocatalytic materials design" [Current Opinion in Electrochemistry (2025)](https://doi.org/10.1016/j.coelec.2024.101638)
 0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
 0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 # 2024

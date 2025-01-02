@@ -94,6 +94,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Structure Analysis
 
+* [Avogadro](https://two.avogadro.cc)
 * [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
 * [Mercury](https://www.ccdc.cam.ac.uk/Community/csd-community/FreeMercury/)
 * [PDynA](https://github.com/WMD-group/PDynA)
