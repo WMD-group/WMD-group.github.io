@@ -32,6 +32,7 @@ permalink: /team/
 # Visiting Researchers
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
+- [Minhee Park (박민희)](https://scholar.google.com/citations?user=gRgL0loAAAAJ&hl=en&oi=ao)
 
 # Undergraduate Researchers
 - [Xinying Huang](https://www.imperial.ac.uk/materials)

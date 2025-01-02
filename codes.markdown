@@ -27,6 +27,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Databases and Datasets
 
+* [Alexandria](https://alexandria.icams.rub.de)
 * [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF)
 * [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
@@ -81,6 +82,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 * [CDVAE](https://github.com/txie-93/cdvae)
 * [Chemeleon](https://github.com/hspark1212/chemeleon)
+* [CrystaLLM](https://github.com/lantunes/CrystaLLM)
 * [DiffCSP](https://github.com/jiaor17/DiffCSP)
 
 # Crystal Structure Prediction
