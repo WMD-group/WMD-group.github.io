@@ -191,13 +191,20 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Point Defects
 
-* [CPLAP](https://github.com/jbuckeridge/cplap)
-* [Doped](https://github.com/SMTG-UCL/doped) and [ShakeNBreak](https://github.com/SMTG-Bham/ShakeNBreak)
-* [PyCDT](https://github.com/mbkumar/pycdt)
+#### Python
+* [Doped](https://github.com/SMTG-UCL/doped) 
 * [PyDefect](https://github.com/kumagai-group/pydefect)
-* [PyLada](https://github.com/pylada/pylada-defects)
-* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) and [PY-SC-FERMI](https://github.com/bjmorgan/py-sc-fermi)
+* [Py-SC-FERMI](https://github.com/bjmorgan/py-sc-fermi)
+* [ShakeNBreak](https://github.com/SMTG-Bham/ShakeNBreak)
+
+#### Fortran
+* [CPLAP](https://github.com/jbuckeridge/cplap)
+* [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) 
 * [sxdefectalign](https://sxrepo.mpie.de/projects/sphinx-add-ons/files?sort=filename)
+
+#### Carrier Trapping
+* [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl)
+* [NONRAD](https://github.com/mturiansky/nonrad)
 
 # Python and Friends
 
