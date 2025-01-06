@@ -19,9 +19,9 @@ permalink: /papers/
 * "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [arXiv (2024)](https://arxiv.org/abs/2408.16663)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
-* "Factors enabling delocalized charge-carriers in pnictogen-based solar absorbers: In-depth investigation into CuSbSe<sub>2</sub>" [arXiv (2024)](https://arxiv.org/abs/2401.02257)
 
 # 2025
+0. "Structural and electronic features enabling delocalized charge-carriers in CuSbSe<sub>2</sub>" [Nature Communications (2025)](https://arxiv.org/abs/2401.02257)
 0. "Electrostatic control of electronic structure in modular inorganic crystals" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.4c13637)
 0. "Electrochemical interface modelling for electrocatalytic materials design" [Current Opinion in Electrochemistry (2025)](https://doi.org/10.1016/j.coelec.2024.101638)
 0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
