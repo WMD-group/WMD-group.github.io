@@ -14,7 +14,6 @@ permalink: /team/
 - [Ashna Jose](https://scholar.google.co.in/citations?user=L8eOeksAAAAJ&hl=en)
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 - [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
@@ -30,7 +29,6 @@ permalink: /team/
 - [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
 
 # Visiting Researchers
-- [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
 - [Minhee Park (박민희)](https://scholar.google.com/citations?user=gRgL0loAAAAJ&hl=en&oi=ao)
 
@@ -62,6 +60,7 @@ permalink: /team/
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
+- [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 
 # Alumni: Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
@@ -84,3 +83,4 @@ permalink: /team/
 - [Benjamin Moss](https://scholar.google.com/citations?hl=en&user=_OZMM_8AAAAJ)
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
+- [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
