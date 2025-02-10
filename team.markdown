@@ -23,7 +23,7 @@ permalink: /team/
 - [Fintan Hardy](https://scholar.google.com/citations?user=eoYZqtkAAAAJ&hl=en&oi=ao)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
-- [Zhengyu Liu (刘政宇)](https://www.imperial.ac.uk/materials)
+- [Amy (Zhengyu) Liu (刘政宇)](https://www.imperial.ac.uk/materials)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 - [Kinga Mastej](https://www.imperial.ac.uk/materials)
 - [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
@@ -35,7 +35,7 @@ permalink: /team/
 # Undergraduate Researchers
 - [Xinying Huang](https://www.imperial.ac.uk/materials)
 - [Ryan Nduma](https://www.imperial.ac.uk/materials)
-- [Xinyin (Bill) Yi](https://www.imperial.ac.uk/materials)
+- [Bill (Xinyin) Yi](https://www.imperial.ac.uk/materials)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
