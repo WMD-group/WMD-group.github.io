@@ -26,6 +26,10 @@ permalink: /papers/
 0. "Electrochemical interface modelling for electrocatalytic materials design" [Current Opinion in Electrochemistry (2025)](https://doi.org/10.1016/j.coelec.2024.101638)
 0. "Sulfur vacancies limit the open-circuit voltage of Sb<sub>2</sub>S<sub>3</sub> solar cells" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.4c02722)
 0. "Anomalous in-plane electrical anisotropy in elemental metal nanosheets" [Nature Synthesis (2025)](https://www.nature.com/articles/s44160-024-00669-4)
+0. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/fd/d4fd90062f)
+0. "Discovering chemical structure: general discussion" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/fd/d4fd90061h)
+0. "Discovering trends in big data: general discussion" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/fd/d4fd90063d)
+0. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/fd/d4fd90064b)
 0. "Mapping inorganic crystal chemical space" [Faraday Discussions (2025)](https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00063c)
 # 2024
 0. "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>" [Journal of Physical Chemistry C (2024)](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c04686)

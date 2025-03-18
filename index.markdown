@@ -15,7 +15,7 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* There are no current openings. For postdoctoral candidates, the next call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) is open now, and [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. 
+* There are no current openings. For postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
 
 # Research Themes
 
