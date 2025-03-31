@@ -15,7 +15,9 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* There are no current openings. For postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
+* There are two openings for senior researchers: an [Encode: AI For Science](https://encode.pillar.vc/projects/inverse-materials-design) Fellowship to work on generative AI for materials, and an [Imperial Global Singapore](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/international-relations-office/public/imperial-global-singapore/Research-Fellow-in-Computational-Catalysis---Job-Description.pdf) Fellowship in computational catalysis. 
+
+* For other postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
 
 # Research Themes
 

@@ -13,6 +13,7 @@ permalink: /team/
 # Senior Researchers
 - [Ashna Jose](https://scholar.google.co.in/citations?user=L8eOeksAAAAJ&hl=en)
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
+- [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
