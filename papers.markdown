@@ -16,11 +16,11 @@ permalink: /papers/
 * "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6706a93612ff75c3a1f8c995)
-* "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [arXiv (2024)](https://arxiv.org/abs/2408.16663)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 
 # 2025
+0. "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [Nature Reviews Chemistry (2025)](https://www.nature.com/articles/s41570-025-00702-w)
 0. "Structural and electronic features enabling delocalized charge-carriers in CuSbSe<sub>2</sub>" [Nature Communications (2025)](https://www.nature.com/articles/s41467-024-55254-2)
 0. "Electrostatic control of electronic structure in modular inorganic crystals" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.4c13637)
 0. "Electrochemical interface modelling for electrocatalytic materials design" [Current Opinion in Electrochemistry (2025)](https://doi.org/10.1016/j.coelec.2024.101638)
