@@ -12,13 +12,13 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Point defect formation at finite temperatures with machine learning force fields" [arXiv (2024)](https://arxiv.org/abs/2412.16741)
 * "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 
 # 2025
+0. "Point defect formation at finite temperatures with machine learning force fields" [Chemical Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc08582e)
 0. "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [Energy & Environmental Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee04647a)
 0. "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [Nature Reviews Chemistry (2025)](https://www.nature.com/articles/s41570-025-00702-w)
 0. "Structural and electronic features enabling delocalized charge-carriers in CuSbSe<sub>2</sub>" [Nature Communications (2025)](https://www.nature.com/articles/s41467-024-55254-2)
@@ -189,7 +189,7 @@ permalink: /papers/
 0. "SMACT: Semiconducting materials by analogy and chemical theory" [Journal of Open Source Software (2019)](https://joss.theoj.org/papers/10.21105/joss.01361)
 0. "Computational design of photovoltaic materials" [Computational Materials Discovery, Chapter 6 (2019)](https://pubs.rsc.org/en/content/ebook/978-1-78262-961-0)
 0. "Crystal engineering of Bi<sub>2</sub>WO<sub>6</sub> to polar Aurivillius-phase oxyhalides" [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806)
-0. "Room temperature metallic conductivity in a metal–organic framework induced by oxidation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06898)
+0. "Room temperature metallic conductivity in a metal–organic framework induced by oxidation" [Journal of the American Chemical Society (2019)](https://pubs.acs.org/doi/abs/10.1021/jacs.9b06898) [Retracted due to measurement issue](https://pubs.acs.org/doi/10.1021/jacs.5c00681)
 0. "Investigation of charge-transfer interactions induced by encapsulating fullerene in a mesoporous tetrathiafulvalene-based metal-organic framework" [Beilstein Journal of Nanotechnology (2019)](https://www.beilstein-journals.org/bjnano/articles/10/183)
 0. "Heterostructure engineering of a reverse water gas shift photocatalyst" [Advanced Science (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201902170?af=R)
 0. "In situ observation of picosecond polaron self-localisation in α-Fe<sub>2</sub>O<sub>3</sub> photoelectrochemical cells" [Nature Communications (2019)](https://www.nature.com/articles/s41467-019-11767-9)
@@ -261,7 +261,7 @@ permalink: /papers/
 0. "Anharmonic origin of giant thermal displacements in the metal-organic framework UiO-67" [Journal of Physical Chemistry C (2017)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b04757)
 0. "Electronic structure design for nanoporous, electrically conductive zeolitic imidazolate frameworks" [Journal of Materials Chemistry C (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/TC/C7TC03150E)
 0. "MOFs modeling and theory: general discussion" [Faraday Discussions (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/fd/c7fd90045g#!divAbstract)
-0. "Metallic conductivity in a two-dimensional cobalt dithiolene metal-organic framework" [Journal of the American Chemical Society (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742)
+0. "Metallic conductivity in a two-dimensional cobalt dithiolene metal-organic framework" [Journal of the American Chemical Society (2017)](http://pubs.acs.org/doi/abs/10.1021/jacs.7b05742) [Retracted due to measurement issue](https://pubs.acs.org/doi/10.1021/jacs.4c13151)
 0. "Candidate photoferroic absorber materials for thin-film solar cells from naturally occurring minerals: enargite, stephanite, and bournonite" [Sustainable Energy & Fuels (2017)](http://pubs.rsc.org/en/content/articlelanding/2017/se/c7se00277g)
 0. "Heterogeneous catalytic hydrogenation of CO<sub>2</sub> by metal oxides: defect engineering – perfecting imperfection" [Chemical Society Reviews (2017)](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CS/C7CS00026J)
 0. "Perspective: Theory and simulation of hybrid halide perovskites" [Journal of Chemical Physics (2017)](http://aip.scitation.org/doi/full/10.1063/1.4984964)

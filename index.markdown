@@ -7,7 +7,7 @@ show_in_nav: false
 title: Navigating Materials Space with Computers 
 ---
 
-We are an academic group at [Imperial College London](https://www.imperial.ac.uk/materials) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
+We are an academic group at [Imperial College London](https://www.imperial.ac.uk/materials) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning at the atomic scale and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
 
 <p align="center" width="100%">
     <img width="58%" src="/images/chemnav.jpg"> 
@@ -15,9 +15,11 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* There are two openings for senior researchers: an [Encode: AI For Science](https://encode.pillar.vc/projects/inverse-materials-design) Fellowship to work on generative AI for materials, and an [Imperial Global Singapore](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/international-relations-office/public/imperial-global-singapore/Research-Fellow-in-Computational-Catalysis---Job-Description.pdf) Fellowship in computational catalysis. 
+* There is one opening for a senior researcher: an [Encode: AI For Science](https://encode.pillar.vc/projects/inverse-materials-design) Fellowship to work on generative AI for materials.
 
-* For other postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton Intertational Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
+* For other postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
+
+* For PhD candidates, the best time to get in touch with your CV and motivation is in October-December each year, for admission in the following academic year. 
 
 # Research Themes
 
