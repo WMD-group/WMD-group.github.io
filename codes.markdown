@@ -28,6 +28,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Databases and Datasets
 
 * [Alexandria](https://alexandria.icams.rub.de)
+* [Awesome Datasets](https://github.com/blaiszik/awesome-matchem-datasets/)
 * [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF)
 * [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
@@ -55,7 +56,6 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Sketch-Map](https://sketchmap.org)
 
 #### Compositional Descriptors and Models
-
 * [Aviary](https://github.com/CompRhys/aviary) from [RooSt](https://github.com/CompRhys/roost)
 * [Crabnet](https://github.com/anthony-wang/CrabNet)
 * [ElementEmbeddings](https://github.com/WMD-group/ElementEmbeddings)
@@ -63,7 +63,6 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SkipAtom](https://github.com/lantunes/skipatom) and [SkipSpecies](https://github.com/WMD-group/skipspecies)
 
 #### Machine Learning Force Fields (MLFF)
-
 * [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
 * [ANI](https://github.com/isayev/ANI1_dataset)
 * [DeepMD](https://github.com/deepmodeling/deepmd-kit)
@@ -74,21 +73,22 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SevenNet](https://github.com/MDIL-SNU/SevenNet)
 
 #### MLFF Benchmarks
-
 * [Matbench-discovery](https://matbench-discovery.materialsproject.org)
 * [MLIP-Arena](https://huggingface.co/spaces/atomind/mlip-arena)
 
 #### Generative AI
-
+* [ADiT](https://github.com/facebookresearch/all-atom-diffusion-transformer)
 * [CDVAE](https://github.com/txie-93/cdvae)
 * [Chemeleon](https://github.com/hspark1212/chemeleon)
 * [CrystaLLM](https://github.com/lantunes/CrystaLLM)
 * [DiffCSP](https://github.com/jiaor17/DiffCSP)
+* [Mattergen](https://github.com/microsoft/mattergen)
 
 # Crystal Structure Prediction
 
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
 * [CALYPSO](http://www.calypso.cn)
+* [Magus](https://gitlab.com/bigd4/magus)
 * [p2ptrans](https://github.com/ftherrien/p2ptrans)
 * [PyXtal](https://github.com/qzhu2017/pyxtal)
 * [USPEX](http://uspex-team.org/en/uspex)
@@ -123,7 +123,6 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [xTB](https://github.com/grimme-lab/xtb)
 
 #### Processing Tools
-
 * [AMSET](https://github.com/hackingmaterials/amset)
 * [BAPT](https://github.com/utf/bapt)
 * [BoltzTraP2](https://github.com/simonrh/boltztrap2)
@@ -162,7 +161,6 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [TDEP](https://github.com/tdep-developers/tdep)
 
 #### Processing Tools
-
 * [ELATE](http://progs.coudert.name/elate)
 * [IR and Raman spectra](https://github.com/JMSkelton/Phonopy-Spectroscopy)
 * [Julia-Phonons](https://github.com/jarvist/Julia-Phonons)
@@ -172,13 +170,11 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [RVO](https://github.com/WMD-group/rvo)
 
 #### Animations
-
 * [ASCII phonons](https://github.com/ajjackson/ascii-phonons)
 * [Molecular crystal phonons](https://github.com/JMSkelton/MolecularCrystalPhononAnimation)
 * [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html)
 
 #### Datasets
-
 * [Phonondb](https://github.com/atztogo/phonondb)
 * [Our Phonons](https://github.com/WMD-group/Phonons)
 * [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html)
@@ -204,9 +200,10 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SC-FERMI](https://github.com/jbuckeridge/sc-fermi) 
 * [sxdefectalign](https://sxrepo.mpie.de/projects/sphinx-add-ons/files?sort=filename)
 
-#### Carrier Trapping
+#### Carrier Trapping and Recombination
 * [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl)
 * [NONRAD](https://github.com/mturiansky/nonrad)
+* [Pyphotonics](https://github.com/sheriftawfikabbas/pyphotonics)
 
 # Python and Friends
 
