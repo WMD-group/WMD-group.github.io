@@ -18,6 +18,7 @@ permalink: /papers/
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 
 # 2025
+0. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c)
 0. "Point defect formation at finite temperatures with machine learning force fields" [Chemical Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc08582e)
 0. "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [Energy & Environmental Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee04647a)
 0. "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [Nature Reviews Chemistry (2025)](https://www.nature.com/articles/s41570-025-00702-w)

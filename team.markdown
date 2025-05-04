@@ -17,7 +17,6 @@ permalink: /team/
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
-- [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
 
 # PhD Researchers
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
@@ -85,3 +84,4 @@ permalink: /team/
 - [Kanta Ogawa (小川幹太)](https://scholar.google.com/citations?user=uZMY9bkAAAAJ&hl=zh-CN)
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
+- [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
