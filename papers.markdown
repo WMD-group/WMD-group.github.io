@@ -16,6 +16,7 @@ permalink: /papers/
 * "Exploration of crystal chemical space using text-guided generative artificial intelligence" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177)
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
+* "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [arXiv (2025)](https://arxiv.org/abs/2504.18089)
 
 # 2025
 0. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c)

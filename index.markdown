@@ -15,9 +15,7 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* There is one opening for a senior researcher: an [Encode: AI For Science](https://encode.pillar.vc/projects/inverse-materials-design) Fellowship to work on generative AI for materials.
-
-* For other postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) will open in April. The call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) has closed for this year.
+* For postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) is open, while the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
 
 * For PhD candidates, the best time to get in touch with your CV and motivation is in October-December each year, for admission in the following academic year. 
 
