@@ -15,6 +15,7 @@ permalink: /team/
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
+- [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
@@ -22,7 +23,6 @@ permalink: /team/
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
 - [Fintan Hardy](https://scholar.google.com/citations?user=eoYZqtkAAAAJ&hl=en&oi=ao)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
-- [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Amy (Zhengyu) Liu (刘政宇)](https://www.imperial.ac.uk/materials)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 - [Kinga Mastej](https://www.imperial.ac.uk/materials)

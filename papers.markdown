@@ -16,11 +16,13 @@ permalink: /papers/
 * "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [arXiv (2025)](https://arxiv.org/abs/2504.18089)
+* "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/681c29a650018ac7c5e33a83)
 
 # 2025
 0. "Exploration of crystal chemical space using text-guided generative artificial intelligence" [Nature Communications (2025)](https://www.nature.com/articles/s41467-025-59636-y)
 0. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c)
 0. "Point defect formation at finite temperatures with machine learning force fields" [Chemical Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc08582e)
+0. "Dual oxidation suppression in lead-free perovskites for low-threshold and long-lifespan lasing" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202418931)
 0. "Intrinsic point defect tolerance in selenium for indoor and tandem photovoltaics" [Energy & Environmental Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee04647a)
 0. "Multifaceted nature of defect tolerance in halide perovskites and emerging semiconductors" [Nature Reviews Chemistry (2025)](https://www.nature.com/articles/s41570-025-00702-w)
 0. "Structural and electronic features enabling delocalized charge-carriers in CuSbSe<sub>2</sub>" [Nature Communications (2025)](https://www.nature.com/articles/s41467-024-55254-2)
