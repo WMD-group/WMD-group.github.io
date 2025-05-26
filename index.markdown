@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 show_in_nav: false
-title: Navigating Materials Space with Computers 
+title: Computer-Accelerated Design of Functional Materials
 ---
 
-We are an academic group at [Imperial College London](https://www.imperial.ac.uk/materials) focused on the design and optimisation of advanced materials using high-performance computing. Our research on computational materials chemistry combines quantum mechanics with data-driven machine learning at the atomic scale and multi-scale modelling approaches. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) in the [Thomas Young Centre for the Theory & Simulation of Molecules & Materials](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
+We are a research group at [Imperial College London](https://www.imperial.ac.uk/materials) working at the intersection of quantum chemistry, machine learning, and materials science. We use high-performance computing to design and optimise materials from first principles to function. Our work spans atomistic simulations, data-driven modelling, and multi-scale theory. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) and is part of the [Thomas Young Centre](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
 
 <p align="center" width="100%">
     <img width="58%" src="/images/chemnav.jpg"> 
@@ -15,21 +12,21 @@ We are an academic group at [Imperial College London](https://www.imperial.ac.uk
 
 # Open Positions
 
-* For postdoctoral candidates, the [Marie Curie Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) is open, while the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
+* For postdoctoral candidates, the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
 
-* For PhD candidates, the best time to get in touch with your CV and motivation is in October-December each year, for admission in the following academic year. 
+* For PhD candidates, the best time to get in touch with your CV and motivation is in October-December for admission in the following academic year. 
 
 # Research Themes
 
 ## Fundamentals
-* Inverse design of materials using artificial intelligence  
-* Crystal thermodynamics and phase transformations
-* Ion, electron, and phonon transport in the solid state
+* Inverse materials design with artificial intelligence  
+* Thermodynamics and phase transitions in crystals  
+* Ion, electron, and phonon transport in solids  
 
 ## Applications
-* Crystal engineering for clean energy technologies
-* Photochemistry of solar cells 
-* Electrochemical energy storage and fuel production 
+* Crystal engineering for clean energy  
+* Light–matter interactions in solar cells  
+* Electrochemical systems for energy storage and conversion  
 
 ## Materials
 * Metal halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
