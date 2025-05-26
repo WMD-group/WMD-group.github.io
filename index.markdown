@@ -1,7 +1,7 @@
 ---
 layout: home
 show_in_nav: false
-title: Computer-Accelerated Design of Functional Materials
+title: Computer-Accelerated Design of Materials
 ---
 
 We are a research group at [Imperial College London](https://www.imperial.ac.uk/materials) working at the intersection of quantum chemistry, machine learning, and materials science. We use high-performance computing to design and optimise materials from first principles to function. Our work spans atomistic simulations, data-driven modelling, and multi-scale theory. The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) and is part of the [Thomas Young Centre](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
