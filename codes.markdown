@@ -79,7 +79,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 #### Generative AI
 * [ADiT](https://github.com/facebookresearch/all-atom-diffusion-transformer)
 * [CDVAE](https://github.com/txie-93/cdvae)
-* [Chemeleon](https://github.com/hspark1212/chemeleon)
+* [Chemeleon](https://github.com/hspark1212/chemeleon) / [Chemeleon-DNG](https://github.com/hspark1212/chemeleon-dng)
 * [CrystaLLM](https://github.com/lantunes/CrystaLLM)
 * [DiffCSP](https://github.com/jiaor17/DiffCSP)
 * [Mattergen](https://github.com/microsoft/mattergen)
@@ -88,6 +88,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
 * [CALYPSO](http://www.calypso.cn)
+* [Chemeleon](https://github.com/hspark1212/chemeleon) / [Chemeleon-DNG](https://github.com/hspark1212/chemeleon-dng)
 * [Magus](https://gitlab.com/bigd4/magus)
 * [p2ptrans](https://github.com/ftherrien/p2ptrans)
 * [PyXtal](https://github.com/qzhu2017/pyxtal)
