@@ -13,12 +13,12 @@ permalink: /papers/
 
 # Preprints
 * "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6759b06df9980725cfbc8cef)
-* "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [arXiv (2024)](https://arxiv.org/abs/2404.14598)
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [arXiv (2025)](https://arxiv.org/abs/2504.18089)
 * "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/681c29a650018ac7c5e33a83)
 
 # 2025
+0. "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [Nature Nanotechnology (2025)](https://doi.org/10.1038/s41565-025-01917-0)
 0. "Exploration of crystal chemical space using text-guided generative artificial intelligence" [Nature Communications (2025)](https://www.nature.com/articles/s41467-025-59636-y)
 0. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c)
 0. "Point defect formation at finite temperatures with machine learning force fields" [Chemical Science (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc08582e)
