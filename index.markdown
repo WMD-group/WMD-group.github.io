@@ -10,12 +10,6 @@ We are a research group at [Imperial College London](https://www.imperial.ac.uk/
     <img width="58%" src="/images/chemnav.jpg"> 
 </p>
 
-# Open Positions
-
-* For postdoctoral candidates, the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
-
-* For PhD candidates, the best time to get in touch with your CV and motivation is in October-December for admission in the following academic year. 
-
 # Research Themes
 
 ## Fundamentals
@@ -24,21 +18,26 @@ We are a research group at [Imperial College London](https://www.imperial.ac.uk/
 * Ion, electron, and phonon transport in solids  
 
 ## Applications
-* Crystal engineering for clean energy  
+* Crystal engineering for clean energy technologies   
 * Light–matter interactions in solar cells  
 * Electrochemical systems for energy storage and conversion  
 
 ## Materials
-* Metal halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
-* Multi-component chalcogenide semiconductors (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, AgBiS<sub>2</sub>)
+* Metal oxide semiconductors (e.g. In<sub>2</sub>O<sub>3</sub>, BiVO<sub>4</sub>)
+* Halide perovskites (e.g. CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>, Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub>)
+* Multi-component chalcogenides (e.g. Cu<sub>2</sub>ZnSnS<sub>4</sub>, AgBiS<sub>2</sub>)
 * Electroactive metal-organic frameworks (e.g. Fe<sub>2</sub>(DSBDC), Cu<sub>3</sub>(HHTP)<sub>2</sub>)
 
 # Community Projects
 * Open computational materials science [Nature Materials](https://www.nature.com/articles/s41563-023-01699-7)
-* Roadmap on established and emerging photovoltaics for sustainable energy conversion [J Phys Energy](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404)
 * Best practices in machine learning for chemistry [Nature Chemistry](https://www.nature.com/articles/s41557-021-00716-z)
 * Emerging inorganic solar cell efficiency tables [J Phys Energy](https://iopscience.iop.org/article/10.1088/2515-7655/abebca/meta)
 * Stability assessment and reporting for perovskite photovoltaics [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
 
+# Open Positions
+* For postdoctoral candidates, the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
+
+* For PhD candidates, the best time to get in touch with your CV and motivation is in October-December for admission in the following academic year. 
+
 # Contact
-If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk). 
+If you are interested in collaborating or joining the group, please get in touch by [e-mail](mailto:a.walsh[at]imperial.ac.uk).

@@ -14,9 +14,9 @@ permalink: /papers/
 # Preprints
 * "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
 * "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [arXiv (2025)](https://arxiv.org/abs/2504.18089)
-* "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/681c29a650018ac7c5e33a83)
 
 # 2025
+0. "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c07104)
 0. "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [Matter (2025)](https://doi.org/10.1016/j.matt.2025.102203)
 0. "Dynamic nanodomains dictate macroscopic properties in lead halide perovskites" [Nature Nanotechnology (2025)](https://doi.org/10.1038/s41565-025-01917-0)
 0. "Exploration of crystal chemical space using text-guided generative artificial intelligence" [Nature Communications (2025)](https://www.nature.com/articles/s41467-025-59636-y)
