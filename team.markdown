@@ -30,12 +30,10 @@ permalink: /team/
 
 # Visiting Researchers
 - [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
-- [Minhee Park (박민희)](https://scholar.google.com/citations?user=gRgL0loAAAAJ&hl=en&oi=ao)
 
 # Undergraduate Researchers
-- [Xinying Huang](https://www.imperial.ac.uk/materials)
+- [Dongin Kim](https://www.imperial.ac.uk/chemistry)
 - [Ryan Nduma](https://www.imperial.ac.uk/materials)
-- [Bill (Xinyin) Yi](https://www.imperial.ac.uk/materials)
 
 # Alumni: MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
