@@ -6,15 +6,13 @@ permalink: /papers/
 
 <p align="center">
     <img width="23%" src="/images/cs-2020.png"> 
-    <img width="23%" src="/images/com-2018.jpg"> 
+    <img width="23%" src="/images/nnano-2025.jpg"> 
     <img width="23%" src="/images/jpcc-2023.jpg"> 
     <img width="23%" src="/images/nrm-2022.jpg"> 
 </p>
 
-# Preprints
-* "Ligand field states control photocatalytic efficiency of transition metal oxides" [ChemRxiv (2024)](https://chemrxiv.org/engage/chemrxiv/article-details/6629b12991aefa6ce15ad933)
-
 # 2025
+0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
 0. "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.5c01267)
 0. "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c07104)
 0. "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [Matter (2025)](https://doi.org/10.1016/j.matt.2025.102203)
