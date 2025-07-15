@@ -11,8 +11,13 @@ permalink: /papers/
     <img width="23%" src="/images/nrm-2022.jpg"> 
 </p>
 
+# Preprints
+* "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [arXiv (2025)](https://arxiv.org/abs/2507.07926)
+* "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
+
 # 2025
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
+0. "Mapping cation-eutaxy ternary with a phenomenological model" [Nature Communications (2025)](https://doi.org/10.1038/s41467-025-60739-9)
 0. "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.5c01267)
 0. "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c07104)
 0. "Accelerating CO<sub>2</sub> direct air capture screening for metal-organic frameworks with a transferable machine learning force field" [Matter (2025)](https://doi.org/10.1016/j.matt.2025.102203)
