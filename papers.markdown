@@ -16,9 +16,11 @@ permalink: /papers/
 * "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [arXiv (2025)](https://arxiv.org/abs/2507.07926)
 * "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
 * "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
+* "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 
 # 2025
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
+0. "Solid-state synthesizability predictions using positive-unlabeled learning from human-curated literature data" [Digital Discovery (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00065c)
 0. "Mapping cation-eutaxy ternary with a phenomenological model" [Nature Communications (2025)](https://doi.org/10.1038/s41467-025-60739-9)
 0. "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.5c01267)
 0. "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c07104)
