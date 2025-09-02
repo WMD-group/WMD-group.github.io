@@ -17,6 +17,7 @@ permalink: /team/
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
+- [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers

@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [arXiv (2025)](https://arxiv.org/abs/2507.07926)
 * "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
@@ -71,7 +72,7 @@ permalink: /papers/
 0. "Low-cost vibrational free energies in solid solutions with machine learning force fields" [Journal of Physical Chemistry Letters (2023)](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03083)
 0. "Metal–organic framework supercapacitors: challenges and opportunities" [Advanced Functional Materials (2023)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202308497)
 0. "Phase transitions, dielectric response, and nonlinear optical properties of aziridinium lead halide perovskites" [Chemistry of Materials (2023)](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02200)
-0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than) [Cover feature](https://pubs.aip.org/aip/ape/issue/1/3)
+0. "Metal–organic framework electrocatalysis: More than a sum of parts?" [APL Energy (2023)](https://pubs.aip.org/aip/ape/article/1/3/036106/2920456/Metal-organic-framework-electrocatalysis-More-than) 
 0. "Observation of an exotic insulator to insulator transition upon electron doping the Mott insulator CeMnAsO" [Nature Communications (2023)](https://www.nature.com/articles/s41467-023-42858-3)
 0. "Searching for the rules of electrochemical nitrogen fixation" [ACS Catalysis (2023)](https://pubs.acs.org/doi/10.1021/acscatal.3c03951)
 0. "Mixed-cation vacancy-ordered perovskites (Cs<sub>2</sub>Ti<sub>1-x</sub>Sn<sub>x</sub>X<sub>6</sub>; X = I or Br): low-temperature miscibility, additivity, and tunable stability" [Journal of Physical Chemistry C (2023)](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05204)
@@ -138,7 +139,7 @@ permalink: /papers/
 0. "Pushing the boundaries of lithium battery research with atomistic modelling on diﬀerent scales" [Progress in Energy (2022)](https://iopscience.iop.org/article/10.1088/2516-1083/ac3894)
 # 2021
 0. "Stabilized tilted-octahedra halide perovskites inhibit local formation of performance-limiting phases" [Science (2021)](https://www.science.org/doi/10.1126/science.abl4890)
-0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
+0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) 
 0. "The interplay of interstitial and substitutional copper in zinc oxide" [Frontiers in Chemistry (2021)](hhttps://doi.org/10.3389/fchem.2021.780935)
 0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
@@ -148,7 +149,7 @@ permalink: /papers/
 0. "Phase diagram and cation dynamics of mixed MA<sub>1–x</sub>FA<sub>x</sub>PbBr<sub>3</sub> hybrid perovskites" [Chemistry of Materials (2021)](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c00885)
 0. "Insights into the electric double-layer capacitance of two-dimensional electrically conductive metal–organic frameworks" [Journal of Materials Chemistry A (2021)](https://doi.org/10.1039/D1TA04026J)
 0. "Hidden spontaneous polarisation in the chalcohalide photovoltaic Sn<sub>2</sub>SbS<sub>2</sub>I<sub>3</sub>" [Materials Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/MH/D1MH00764E)
-0. "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0049143) [Featured as [Editor's Pick](https://aip.scitation.org/topic/collections/editors-pick?SeriesKey=apl)]
+0. "Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0049143) 
 0. "Assessment of interstitial potentials for rapid prediction of absolute band energies in crystals" [Journal of Chemical Physics (2021)](https://aip.scitation.org/doi/10.1063/5.0044866)
 0. "Giant Huang-Rhys factor for electron capture by the iodine interstitial in perovskite solar cells" [Journal of the American Chemical Society (2021)](https://pubs.acs.org/doi/10.1021/jacs.1c03064)
 0. "Best practices in machine learning for chemistry" [Nature Chemistry (2021)](https://www.nature.com/articles/s41557-021-00716-z)
@@ -172,7 +173,7 @@ permalink: /papers/
 0. "Bandgap lowering in mixed alloys of Cs<sub>2</sub>Ag(Sb<sub>x</sub>Bi<sub>1-x</sub>)Br<sub>6</sub> double perovskite thin films" [Journal of Materials Chemistry A (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/TA/D0TA07145E)
 0. "Suppression of phase transitions and glass phase signatures in mixed cation halide perovskites" [Nature Communications (2020)](https://www.nature.com/articles/s41467-020-18938-z)
 0. "Energy spotlight: New insights into perovskites, CO<sub>2</sub> electrolysis, and 3D porous electrodes" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c02046)
-0. "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474) [[Cover feature](https://pubs.acs.org/loi/aelccp)]
+0. "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites" [ACS Energy Letters (2020)](https://doi.org/10.1021/acsenergylett.0c01474)
 0. "Assessing the defect tolerance of kesterite-inspired solar absorbers" [Energy & Environmental Science (2020)](https://doi.org/10.1039/D0EE02177F)
 0. "Polymorph exploration of bismuth stannate using first-principles phonon mode mapping" [Chemical Science (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/SC/D0SC02995E)
 0. "The holey grail of transparent electronics" [Matter (2020)](https://www.cell.com/matter/fulltext/S2590-2385(20)30435-5)
