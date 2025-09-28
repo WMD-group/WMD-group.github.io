@@ -15,28 +15,27 @@ permalink: /team/
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
 # PhD Researchers
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
+- [Mathilde Franckel]()
 - [Fintan Hardy](https://scholar.google.com/citations?user=eoYZqtkAAAAJ&hl=en&oi=ao)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Amy (Zhengyu) Liu (刘政宇)](https://www.imperial.ac.uk/materials)
+- [Kinga Mastej](https://scholar.google.com/citations?user=rHJeSVIAAAAJ&hl=pl)
 - [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
-- [Kinga Mastej](https://www.imperial.ac.uk/materials)
-- [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
+- [Masahiro Negishi (根岸優大)](https://scholar.google.co.uk/citations?user=MJpzQkwAAAAJ&hl=en&oi=ao)
 
 # Visiting Researchers
 - [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
 
 # Undergraduate Researchers
-- [Dongin Kim](https://www.imperial.ac.uk/chemistry)
 - [Ryan Nduma](https://www.imperial.ac.uk/materials)
 
-# Alumni: MPhil & PhD Graduates 
+# _Alumni:_ MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
@@ -49,7 +48,7 @@ permalink: /team/
 - [Puck van Gerwen](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en)
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
-- [Kazuki Morita(森田一軌)](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
+- [Kazuki Morita (森田一軌)](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
@@ -60,8 +59,10 @@ permalink: /team/
 - [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
+- [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
+- [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
 
-# Alumni: Postdocs & Fellows
+# _Alumni:_ Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
 - [Rachel Crespo-Otero](https://scholar.google.co.uk/citations?user=WQ2GSygAAAAJ&hl=en)
 - [Keith T. Butler](https://scholar.google.co.uk/citations?user=eruLmgUAAAAJ&hl=en)

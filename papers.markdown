@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
 * "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [arXiv (2025)](https://arxiv.org/abs/2507.07926)
