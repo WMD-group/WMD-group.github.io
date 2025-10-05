@@ -33,7 +33,10 @@ permalink: /team/
 - [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
 
 # Undergraduate Researchers
+- [Cecilia Li ](https://www.imperial.ac.uk/materials)
 - [Ryan Nduma](https://www.imperial.ac.uk/materials)
+- [Kevin Tang](https://www.imperial.ac.uk/materials)
+- [Hanzhi Zhu](https://www.imperial.ac.uk/materials)
 
 # _Alumni:_ MPhil & PhD Graduates 
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)

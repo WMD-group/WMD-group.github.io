@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
 * "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [arXiv (2025)](https://arxiv.org/abs/2509.20630)
 * "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
