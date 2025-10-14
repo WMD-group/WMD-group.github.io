@@ -14,7 +14,6 @@ permalink: /papers/
 # Preprints
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
-* "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [arXiv (2025)](https://arxiv.org/abs/2509.20630)
 * "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
@@ -22,6 +21,7 @@ permalink: /papers/
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 
 # 2025
+0. "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
 0. "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [Chemistry of Materials (2025)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01730)
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
 0. "Solid-state synthesizability predictions using positive-unlabeled learning from human-curated literature data" [Digital Discovery (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00065c)

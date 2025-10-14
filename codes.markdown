@@ -47,7 +47,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Machine Learning Crystals
 
-* [CGCNN](https://github.com/txie-93/cgcnn) and [MEGNet](https://github.com/materialsvirtuallab/megnet)
+* (Legacy) [CGCNN](https://github.com/txie-93/cgcnn) and [MEGNet](https://github.com/materialsvirtuallab/megnet)
 * [DScribe](https://singroup.github.io/dscribe) and [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
 * [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
 * [Matbench](https://matbench.materialsproject.org) 
@@ -63,23 +63,25 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SkipAtom](https://github.com/lantunes/skipatom) and [SkipSpecies](https://github.com/WMD-group/skipspecies)
 
 #### Machine Learning Force Fields (MLFF)
-* [ACE](https://github.com/ACEsuit/ACE1.jl) and [MACE](https://github.com/ACEsuit/mace)
+* [ACE](https://github.com/ACEsuit/ACE1.jl), [MACE](https://github.com/ACEsuit/mace), [GRACE](https://github.com/ICAMS/grace-tensorpotential)
 * [ANI](https://github.com/isayev/ANI1_dataset)
 * [DeepMD](https://github.com/deepmodeling/deepmd-kit)
-* [FLARE](https://github.com/mir-group/flare), [NequIP](https://github.com/mir-group/nequip), and [Allegro](https://github.com/mir-group/allegro)
-* [MatGL](https://github.com/materialsvirtuallab/matgl) and [CHGNet](https://github.com/CederGroupHub/chgnet)
+* [FLARE](https://github.com/mir-group/flare), [NequIP](https://github.com/mir-group/nequip), [Allegro](https://github.com/mir-group/allegro)
+* [MatGL](https://github.com/materialsvirtuallab/matgl), [CHGNet](https://github.com/CederGroupHub/chgnet)
 * [PyXtal_FF](https://github.com/qzhu2017/pyxtal_ff)
 * [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)
 * [SevenNet](https://github.com/MDIL-SNU/SevenNet)
 
-#### MLFF Benchmarks
+#### MLFF Benchmarks and Toolkits
 * [Matbench-discovery](https://matbench-discovery.materialsproject.org)
+* [MatCalc](https://github.com/materialsvirtuallab/matcalc)
 * [MLIP-Arena](https://huggingface.co/spaces/atomind/mlip-arena)
+* [TorchSim](https://github.com/TorchSim/torch-sim)
 
-#### Generative AI
+#### Generative AI for Materials 
 * [ADiT](https://github.com/facebookresearch/all-atom-diffusion-transformer)
 * [CDVAE](https://github.com/txie-93/cdvae)
-* [Chemeleon](https://github.com/hspark1212/chemeleon) / [Chemeleon-DNG](https://github.com/hspark1212/chemeleon-dng)
+* [Chemeleon](https://github.com/WMD-group/Chemeleon-Zoo)
 * [CrystaLLM](https://github.com/lantunes/CrystaLLM)
 * [DiffCSP](https://github.com/jiaor17/DiffCSP)
 * [Mattergen](https://github.com/microsoft/mattergen)
@@ -88,7 +90,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
 * [CALYPSO](http://www.calypso.cn)
-* [Chemeleon](https://github.com/hspark1212/chemeleon) / [Chemeleon-DNG](https://github.com/hspark1212/chemeleon-dng)
+* [Chemeleon](https://github.com/WMD-group/Chemeleon-Zoo)
 * [Magus](https://gitlab.com/bigd4/magus)
 * [p2ptrans](https://github.com/ftherrien/p2ptrans)
 * [PyXtal](https://github.com/qzhu2017/pyxtal)
