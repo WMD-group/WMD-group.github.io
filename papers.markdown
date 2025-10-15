@@ -21,6 +21,7 @@ permalink: /papers/
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 
 # 2025
+0. "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
 0. "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
 0. "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [Chemistry of Materials (2025)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01730)
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
