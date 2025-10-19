@@ -26,6 +26,7 @@ permalink: /papers/
 0. "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [Chemistry of Materials (2025)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01730)
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
 0. "Solid-state synthesizability predictions using positive-unlabeled learning from human-curated literature data" [Digital Discovery (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00065c)
+0. "Origins of electrical conductivity in 3D iron-tetrazole-based metal–organic frameworks" [Journal of Materials Chemistry C (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc02135a)
 0. "Mapping cation-eutaxy ternary with a phenomenological model" [Nature Communications (2025)](https://doi.org/10.1038/s41467-025-60739-9)
 0. "Chalcogen vacancies rule charge recombination in pnictogen chalcohalide solar-cell absorbers" [ACS Energy Letters (2025)](https://pubs.acs.org/doi/10.1021/acsenergylett.5c01267)
 0. "Defect tolerance via external passivation in the photocatalyst SrTiO<sub>3</sub>:Al" [Journal of the American Chemical Society (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c07104)
