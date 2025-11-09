@@ -12,17 +12,24 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
-* "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
-* "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
-* "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
+* "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
+* "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
+* "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
-
+* "Multimodal operando characterisation of iridium oxide-electrolyte interface for water oxidation" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68efa0205dd091524f8fde01)
+* "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
+* "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
+* "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
+# NeurIPS 
+* "Accurate band gap prediction in porous materials using delta-learning" [NeurIPS (2025)](https://openreview.net/forum?id=a3LKICpDO2)
+* "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
+* "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
+* "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
 # 2025
-0. "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
-0. "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
+0. "Learning crystallographic disorder: bridging prediction and experiment in materials discovery" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202514226)
+0. "Thermodynamics of sulfur vacancy formation in the chalcogenide perovskite BaZrS<sub>3</sub>" [Journal of Physical Chemistry C (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c00828)
 0. "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [Chemistry of Materials (2025)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01730)
 0. "Metal-centred states control carrier lifetimes in transition metal oxide photocatalysts" [Nature Chemistry (2025)](https://www.nature.com/articles/s41557-025-01868-y)
 0. "Solid-state synthesizability predictions using positive-unlabeled learning from human-curated literature data" [Digital Discovery (2025)](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00065c)

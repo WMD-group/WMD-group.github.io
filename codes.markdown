@@ -55,12 +55,13 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SISSO](https://github.com/rouyang2017/SISSO)
 * [Sketch-Map](https://sketchmap.org)
 
-#### Compositional Descriptors and Models
+#### Descriptors and Models
 * [Aviary](https://github.com/CompRhys/aviary) from [RooSt](https://github.com/CompRhys/roost)
 * [Crabnet](https://github.com/anthony-wang/CrabNet)
 * [ElementEmbeddings](https://github.com/WMD-group/ElementEmbeddings)
 * [Element Movers Distance](https://github.com/lrcfmd/ElMD)
 * [SkipAtom](https://github.com/lantunes/skipatom) and [SkipSpecies](https://github.com/WMD-group/skipspecies)
+* [xtalmet](https://github.com/WMD-group/xtalmet)
 
 #### Machine Learning Force Fields (MLFF)
 * [ACE](https://github.com/ACEsuit/ACE1.jl), [MACE](https://github.com/ACEsuit/mace), [GRACE](https://github.com/ICAMS/grace-tensorpotential)
@@ -75,7 +76,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 #### MLFF Benchmarks and Toolkits
 * [Matbench-discovery](https://matbench-discovery.materialsproject.org)
 * [MatCalc](https://github.com/materialsvirtuallab/matcalc)
-* [MLIP-Arena](https://huggingface.co/spaces/atomind/mlip-arena)
+* [MLIP-arena](https://huggingface.co/spaces/atomind/mlip-arena)
 * [TorchSim](https://github.com/TorchSim/torch-sim)
 
 #### Generative AI for Materials 

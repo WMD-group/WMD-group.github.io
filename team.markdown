@@ -21,7 +21,7 @@ permalink: /team/
 
 # PhD Researchers
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
-- [Mathilde Franckel]()
+- [Mathilde Franckel](https://scholar.google.co.uk/citations?user=x2HWbaIAAAAJ&hl=en&oi=ao)
 - [Fintan Hardy](https://scholar.google.com/citations?user=eoYZqtkAAAAJ&hl=en&oi=ao)
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Amy (Zhengyu) Liu (刘政宇)](https://www.imperial.ac.uk/materials)
@@ -34,7 +34,7 @@ permalink: /team/
 
 # Undergraduate Researchers
 - [Cecilia Li ](https://www.imperial.ac.uk/materials)
-- [Ryan Nduma](https://www.imperial.ac.uk/materials)
+- [Ryan Nduma](https://scholar.google.com/citations?user=ptLO2OMAAAAJ&hl=en)
 - [Kevin Tang](https://www.imperial.ac.uk/materials)
 - [Hanzhi Zhu](https://www.imperial.ac.uk/materials)
 
