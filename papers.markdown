@@ -22,11 +22,13 @@ permalink: /papers/
 * "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
+
 # NeurIPS 
 * "Accurate band gap prediction in porous materials using delta-learning" [NeurIPS (2025)](https://openreview.net/forum?id=a3LKICpDO2)
 * "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
 * "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
 * "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
+
 # 2025
 0. "Learning crystallographic disorder: bridging prediction and experiment in materials discovery" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202514226)
 0. "Thermodynamics of sulfur vacancy formation in the chalcogenide perovskite BaZrS<sub>3</sub>" [Journal of Physical Chemistry C (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c00828)
