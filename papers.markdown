@@ -15,7 +15,7 @@ permalink: /papers/
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
-* "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [arXiv (2025)](https://arxiv.org/abs/2508.14513)
+* "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [arXiv (2025)]https://arxiv.org/abs/2511.07158)
 * "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 * "Multimodal operando characterisation of iridium oxide-electrolyte interface for water oxidation" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68efa0205dd091524f8fde01)
@@ -30,6 +30,7 @@ permalink: /papers/
 * "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
 
 # 2025
+0. "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [PRX Energy (2025)](https://doi.org/10.1103/dxmb-8s96)
 0. "Learning crystallographic disorder: bridging prediction and experiment in materials discovery" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202514226)
 0. "Thermodynamics of sulfur vacancy formation in the chalcogenide perovskite BaZrS<sub>3</sub>" [Journal of Physical Chemistry C (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c00828)
 0. "Phase stability and transformations in lead mixed halide perovskites from machine learning force fields" [Chemistry of Materials (2025)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01730)
