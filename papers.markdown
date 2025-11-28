@@ -30,6 +30,8 @@ permalink: /papers/
 * "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
 
 # 2025
+0. "Operando ultraviolet–visible optical spectroelectrochemistry of surfaces" [Nature Reviews Methods Primers (2025)](https://www.nature.com/articles/s43586-025-00445-4)
+0. "Evaluating the potential of CsBiSCl<sub>2</sub> as a solar absorber" [EES Solar (2025)](https://pubs.rsc.org/ja-jp/content/articlelanding/2025/el/d5el00157a)
 0. "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [PRX Energy (2025)](https://doi.org/10.1103/dxmb-8s96)
 0. "Learning crystallographic disorder: bridging prediction and experiment in materials discovery" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202514226)
 0. "Thermodynamics of sulfur vacancy formation in the chalcogenide perovskite BaZrS<sub>3</sub>" [Journal of Physical Chemistry C (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c00828)
