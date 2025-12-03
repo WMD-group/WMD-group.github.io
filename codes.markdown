@@ -55,6 +55,10 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [SISSO](https://github.com/rouyang2017/SISSO)
 * [Sketch-Map](https://sketchmap.org)
 
+#### Scientific Agents
+* [Crystalyse](https://github.com/ryannduma/CrystaLyse.AI)
+* [MatAgent](https://github.com/izumitkhr/matagent)
+
 #### Descriptors and Models
 * [Aviary](https://github.com/CompRhys/aviary) from [RooSt](https://github.com/CompRhys/roost)
 * [Crabnet](https://github.com/anthony-wang/CrabNet)
