@@ -21,17 +21,19 @@ permalink: /papers/
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 * "Multimodal operando characterisation of iridium oxide-electrolyte interface for water oxidation" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68efa0205dd091524f8fde01)
 * "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
+* "Platonic representation of foundation machine learning interatomic potentials" [arXiv (2025)](https://arxiv.org/abs/2512.05349)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
-# NeurIPS 
-* "Accurate band gap prediction in porous materials using delta-learning" [NeurIPS (2025)](https://openreview.net/forum?id=a3LKICpDO2)
-* "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
-* "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
-* "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
-
+# 2026
+0. "Data-driven crystal structure prediction for ternary metal chalcogenides" [Chemistry of Materials (2026)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c02077)
+0. "A unified active learning framework for photosensitizer design" [Chemical Science (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc05749c)
 # 2025
 0. "Operando ultraviolet–visible optical spectroelectrochemistry of surfaces" [Nature Reviews Methods Primers (2025)](https://www.nature.com/articles/s43586-025-00445-4)
+0. "Accurate band gap prediction in porous materials using delta-learning" [NeurIPS (2025)](https://openreview.net/forum?id=a3LKICpDO2)
+0. "Continuous uniqueness and novelty metrics for generative modeling of inorganic crystals" [NeurIPS (2025)](https://arxiv.org/abs/2510.12405)
+0. "MLIP Arena: Advancing fairness and transparency in machine learning interatomic potentials via an open, accessible benchmark platform" [NeurIPS (2025)](https://arxiv.org/abs/2509.20630)
+0. "Towards dynamic benchmarks for autonomous materials discovery" [NeurIPS (2025)](https://openreview.net/forum?id=Cfj7uBu5dy)
 0. "Evaluating the potential of CsBiSCl<sub>2</sub> as a solar absorber" [EES Solar (2025)](https://pubs.rsc.org/ja-jp/content/articlelanding/2025/el/d5el00157a)
 0. "Dynamic vacancy levels in CsPbCl<sub>3</sub> obey equilibrium defect thermodynamics" [PRX Energy (2025)](https://doi.org/10.1103/dxmb-8s96)
 0. "Learning crystallographic disorder: bridging prediction and experiment in materials discovery" [Advanced Materials (2025)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202514226)
