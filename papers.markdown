@@ -20,7 +20,6 @@ permalink: /papers/
 * "Guidelines for robust and reproducible point defect simulations in crystals" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68d28f6ef2aff16770238309)
 * "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Research Square (2025)](https://www.researchsquare.com/article/rs-7022396/v1)
 * "Multimodal operando characterisation of iridium oxide-electrolyte interface for water oxidation" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68efa0205dd091524f8fde01)
-* "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687a0fd923be8e43d6de650a)
 * "Platonic representation of foundation machine learning interatomic potentials" [arXiv (2025)](https://arxiv.org/abs/2512.05349)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
@@ -28,6 +27,8 @@ permalink: /papers/
 # 2026
 0. "Data-driven crystal structure prediction for ternary metal chalcogenides" [Chemistry of Materials (2026)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c02077)
 0. "A unified active learning framework for photosensitizer design" [Chemical Science (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc05749c)
+0. "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [Chemical Science (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc08101g) 
+0. "Materials design for the future with AI assistance" [Nature Reviews Methods Primers (2026)](https://www.nature.com/articles/s43586-025-00467-y) 
 # 2025
 0. "Operando ultraviolet–visible optical spectroelectrochemistry of surfaces" [Nature Reviews Methods Primers (2025)](https://www.nature.com/articles/s43586-025-00445-4)
 0. "Accurate band gap prediction in porous materials using delta-learning" [NeurIPS (2025)](https://openreview.net/forum?id=a3LKICpDO2)
