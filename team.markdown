@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <p align="center">
-    <img width="500" src="/images/groupday_2023.jpg"> 
+    <img width="500" src="/images/groupday_2023.jpg" alt="Materials Design Group team photo from 2023">
 </p>
 
 - [Aron Walsh](https://scholar.google.co.uk/citations?user=Ktvn91gAAAAJ&hl=en)

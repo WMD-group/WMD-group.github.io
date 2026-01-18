@@ -18,8 +18,8 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Platforms and Toolkits
 
-* [AFLOW](http://www.aflowlib.org)
-* [AiiDA](http://www.aiida.net) powers [Materials Cloud](https://www.materialscloud.org)
+* [AFLOW](https://www.aflowlib.org)
+* [AiiDA](https://www.aiida.net) powers [Materials Cloud](https://www.materialscloud.org)
 * [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk) with [Recipes](https://asr.readthedocs.io)
 * [Atomate2](https://github.com/materialsproject/atomate2)
 * [NOMAD](https://nomad-coe.eu)
@@ -33,10 +33,10 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
 * [Crystalium](http://crystalium.materialsvirtuallab.org)
 * [Crystals.ai](https://crystals.ai)
-* [Crystallography Open Database](http://www.crystallography.net/cod/)
+* [Crystallography Open Database](https://www.crystallography.net/cod/)
 * [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd)
 * [Foundry-ML](https://foundry-ml.org)
-* [HybriD3](https://materials.hybrid3.duke.edu) and [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
+* [HybriD3](https://materials.hybrid3.duke.edu) and [2D Metal Halide Perovskites](https://www.pdb.nmse-lab.ru)
 * [MatNavi](https://mits.nims.go.jp/index_en.html)
 * [MPDS](https://www.mpds.io)
 * [NIST-Jarvis](https://jarvis.nist.gov)
@@ -94,7 +94,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Crystal Structure Prediction
 
 * [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
-* [CALYPSO](http://www.calypso.cn)
+* [CALYPSO](https://www.calypso.cn)
 * [Chemeleon](https://github.com/WMD-group/Chemeleon-Zoo)
 * [Magus](https://gitlab.com/bigd4/magus)
 * [p2ptrans](https://github.com/ftherrien/p2ptrans)
@@ -108,12 +108,12 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
 * [Mercury](https://www.ccdc.cam.ac.uk/Community/csd-community/FreeMercury/)
 * [PDynA](https://github.com/WMD-group/PDynA)
-* [PLATON](http://www.cryst.chem.uu.nl/platon/)
+* [PLATON](https://www.cryst.chem.uu.nl/platon/)
 * [pyTilting](https://dwang5.github.io/PyTiltingDoc)
 * [spglib](http://spglib.github.io/spglib)
-* [TOPOS](http://www.topospro.com)
+* [TOPOS](https://www.topospro.com)
 * [VESTA](http://jp-minerals.org/vesta/en/)
-* [Zeo++](http://www.zeoplusplus.org)
+* [Zeo++](https://www.zeoplusplus.org)
 
 # Electronic Structure
 
@@ -139,7 +139,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Galore](https://github.com/SMTG-UCL/galore)
 * [iFermi](https://github.com/fermisurfaces/IFermi)
 * [kgrid](https://github.com/WMD-group/kgrid)
-* [Lobster](http://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy)
+* [Lobster](https://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity)
 * [Packmol](https://m3g.github.io/packmol/)
 * [PyProcar](https://github.com/romerogroup/pyprocar)
@@ -150,7 +150,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [VASP-Examples](https://github.com/JMSkelton/VASP-Examples)
 * [VASPpy](https://github.com/bjmorgan/vasppy)
 * [VASPsol](https://github.com/henniggroup/VASPsol)
-* [Wannier90](http://www.wannier.org)
+* [Wannier90](https://www.wannier.org)
 * [Z2Pack](http://z2pack.ethz.ch)
 
 # Solar Energy
@@ -224,7 +224,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 # Publication Tools
 
-* [doi2bib](http://www.doi2bib.org)
+* [doi2bib](https://www.doi2bib.org)
 * [ffmpeg](https://www.ffmpeg.org)
 * [ImageMagick](https://www.imagemagick.org)
 * [mhchem](https://ctan.org/pkg/mhchem?lang=en)

@@ -5,10 +5,10 @@ permalink: /papers/
 ---
 
 <p align="center">
-    <img width="23%" src="/images/cs-2020.png"> 
-    <img width="23%" src="/images/nnano-2025.jpg"> 
-    <img width="23%" src="/images/jpcc-2023.jpg"> 
-    <img width="23%" src="/images/nrm-2022.jpg"> 
+    <img width="23%" src="/images/cs-2020.png" alt="Chemical Science journal cover 2020">
+    <img width="23%" src="/images/nnano-2025.jpg" alt="Nature Nanotechnology journal cover 2025">
+    <img width="23%" src="/images/jpcc-2023.jpg" alt="Journal of Physical Chemistry C cover 2023">
+    <img width="23%" src="/images/science-2026.jpg" alt="Science cover 2026">
 </p>
 
 # Preprints
@@ -25,6 +25,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "A hierarchical shell locks and stabilizes perovskite nanocrystals with near-unity quantum yield" [Science (2026)](https://www.science.org/doi/10.1126/science.ady1370)
 0. "Data-driven crystal structure prediction for ternary metal chalcogenides" [Chemistry of Materials (2026)](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c02077)
 0. "A unified active learning framework for photosensitizer design" [Chemical Science (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc05749c)
 0. "Optical spectroscopic determination of photoexcited small-polaron hopping in transition metal oxide photocatalysts" [Chemical Science (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/sc/d5sc08101g) 
@@ -161,7 +162,7 @@ permalink: /papers/
 # 2021
 0. "Stabilized tilted-octahedra halide perovskites inhibit local formation of performance-limiting phases" [Science (2021)](https://www.science.org/doi/10.1126/science.abl4890)
 0. "Self-trapping in bismuth-based semiconductors: Opportunities and challenges from optoelectronic devices to quantum technologies" [Applied Physics Letters (2021)](https://aip.scitation.org/doi/10.1063/5.0071763) 
-0. "The interplay of interstitial and substitutional copper in zinc oxide" [Frontiers in Chemistry (2021)](hhttps://doi.org/10.3389/fchem.2021.780935)
+0. "The interplay of interstitial and substitutional copper in zinc oxide" [Frontiers in Chemistry (2021)](https://doi.org/10.3389/fchem.2021.780935)
 0. "Atomistic models of metal halide perovskites" [Matter (2021)](https://authors.elsevier.com/a/1eAZX9CyxcxPFx)
 0. "Enhanced visible light absorption in layered Cs<sub>3</sub>Bi<sub>2</sub>Br<sub>9</sub> through mixed-valence Sn(II)/Sn(IV) doping" [Chemical Science (2021)](https://doi.org/10.1039/D1SC03775G)
 0. "Asymmetric carrier transport in flexible interface-type memristor enables artificial synapses with sub-femtojoule energy consumption" [Nanoscale Horizons (2021)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NH/D1NH00452B)

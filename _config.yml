@@ -23,7 +23,7 @@ email: a.walsh[at]imperial.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Computational Chemistry & Physics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://http://wmd-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wmd-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  
 github_username: wmd-group
 
@@ -36,6 +36,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

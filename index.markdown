@@ -9,7 +9,7 @@ We are a research group at [Imperial College London](https://www.imperial.ac.uk/
 The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) and is part of the [Thomas Young Centre](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
 
 <p align="center" width="100%">
-    <img width="58%" src="/images/chemnav.jpg"> 
+    <img width="58%" src="/images/chemnav.jpg" alt="Materials design concept showing the intersection of chemistry, physics, and machine learning">
 </p>
 
 # Research Themes
