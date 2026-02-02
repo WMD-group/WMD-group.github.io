@@ -34,7 +34,6 @@ permalink: /team/
 
 # Undergraduate Researchers
 - [Cecilia Li ](https://www.imperial.ac.uk/materials)
-- [Ryan Nduma](https://scholar.google.com/citations?user=ptLO2OMAAAAJ&hl=en)
 - [Kevin Tang](https://www.imperial.ac.uk/materials)
 - [Hanzhi Zhu](https://www.imperial.ac.uk/materials)
 
