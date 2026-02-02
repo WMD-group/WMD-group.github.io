@@ -30,7 +30,7 @@ permalink: /team/
 - [Masahiro Negishi (根岸優大)](https://scholar.google.co.uk/citations?user=MJpzQkwAAAAJ&hl=en&oi=ao)
 
 # Visiting Researchers
-- [Yea-Lee Lee (이예리)](https://scholar.google.com/citations?user=rDLIKk0AAAAJ&hl=ko)
+- [Thanasee (Seng) Thanasarnsarapong](https://www.ku.ac.th)
 
 # Undergraduate Researchers
 - [Cecilia Li ](https://www.imperial.ac.uk/materials)
