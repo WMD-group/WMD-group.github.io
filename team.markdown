@@ -15,7 +15,6 @@ permalink: /team/
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
-- [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
 
@@ -26,7 +25,6 @@ permalink: /team/
 - [Chloe (Jiwoo) Lee (이지우)](https://scholar.google.com/citations?user=ypmUUpEAAAAJ&hl=ko)
 - [Amy (Zhengyu) Liu (刘政宇)](https://www.imperial.ac.uk/materials)
 - [Kinga Mastej](https://scholar.google.com/citations?user=rHJeSVIAAAAJ&hl=pl)
-- [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 - [Masahiro Negishi (根岸優大)](https://scholar.google.co.uk/citations?user=MJpzQkwAAAAJ&hl=en&oi=ao)
 
 # Visiting Researchers
@@ -63,6 +61,7 @@ permalink: /team/
 - [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
 - [Yifan Wu (吴亦凡)](https://www.imperial.ac.uk/materials)
+- [Irea Mosquera-Lois](https://scholar.google.co.uk/citations?user=oIMzt0cAAAAJ)
 
 # _Alumni:_ Postdocs & Fellows
 - [Davide Tiana](https://scholar.google.co.uk/citations?user=4VjMg_cAAAAJ&hl=en)
@@ -87,3 +86,4 @@ permalink: /team/
 - [Seung-Jae Shin (신승재)](https://scholar.google.co.kr/citations?user=4LdztycAAAAJ&hl=en)
 - [Johan Klarbring](https://scholar.google.se/citations?user=TP9OGRYAAAAJ&hl=sv)
 - [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
+- [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
