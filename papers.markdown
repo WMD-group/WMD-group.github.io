@@ -17,12 +17,12 @@ permalink: /papers/
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](http://arxiv.org/abs/2512.00977)
 * "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [arXiv (2025)](https://arxiv.org/abs/2511.07158)
-* "Multimodal operando characterisation of iridium oxide-electrolyte interface for water oxidation" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68efa0205dd091524f8fde01)
 * "Platonic representation of foundation machine learning interatomic potentials" [arXiv (2025)](https://arxiv.org/abs/2512.05349)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Multimodal operando characterization of iridium oxide-electrolyte interface for alkaline water oxidation" [ACS Applied Materials & Interfaces (2026)](https://pubs.acs.org/doi/10.1021/acsami.5c22249)
 0. "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Nature Materials (2026)](https://www.nature.com/articles/s41563-026-02514-9)
 0. "Guidelines for robust and reproducible point defect simulations in crystals" [Nature Reviews Materials (2026)](https://www.nature.com/articles/s41578-025-00879-y)
 0. "A hierarchical shell locks and stabilizes perovskite nanocrystals with near-unity quantum yield" [Science (2026)](https://www.science.org/doi/10.1126/science.ady1370)
