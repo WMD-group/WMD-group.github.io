@@ -22,6 +22,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Data-driven exploration of AB<sub>2</sub>X<sub>4</sub> (X = O, S, Se, Te) spinel chemical space" [Digital Discovery (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00064a)
 0. "Multimodal operando characterization of iridium oxide-electrolyte interface for alkaline water oxidation" [ACS Applied Materials & Interfaces (2026)](https://pubs.acs.org/doi/10.1021/acsami.5c22249)
 0. "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Nature Materials (2026)](https://www.nature.com/articles/s41563-026-02514-9)
 0. "Guidelines for robust and reproducible point defect simulations in crystals" [Nature Reviews Materials (2026)](https://www.nature.com/articles/s41578-025-00879-y)
