@@ -13,7 +13,6 @@ permalink: /papers/
 
 # Preprints
 * "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
-* "Controlling electrode–electrolyte interactions to enhance capacitance" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/686ff38d43bc52e4ec4f6b91)
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](http://arxiv.org/abs/2512.00977)
 * "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [arXiv (2025)](https://arxiv.org/abs/2511.07158)
@@ -22,6 +21,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Controlling electrode–electrolyte interactions to enhance capacitance" [Journal of the American Chemical Society (2026)](https://pubs.acs.org/doi/10.1021/jacs.5c20988)
 0. "Data-driven exploration of AB<sub>2</sub>X<sub>4</sub> (X = O, S, Se, Te) spinel chemical space" [Digital Discovery (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00064a)
 0. "Multimodal operando characterization of iridium oxide-electrolyte interface for alkaline water oxidation" [ACS Applied Materials & Interfaces (2026)](https://pubs.acs.org/doi/10.1021/acsami.5c22249)
 0. "Key role of oxidising species driving water oxidation revealed by time resolved optical and X-ray spectroscopies" [Nature Materials (2026)](https://www.nature.com/articles/s41563-026-02514-9)
