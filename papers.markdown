@@ -12,15 +12,15 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Closing the synthesis gap in computational materials design" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/687ce72323be8e43d628846f)
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](http://arxiv.org/abs/2512.00977)
 * "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [arXiv (2025)](https://arxiv.org/abs/2511.07158)
-* "Platonic representation of foundation machine learning interatomic potentials" [arXiv (2025)](https://arxiv.org/abs/2512.05349)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Platonic representation of foundation machine learning interatomic potentials" [Nature Machine Intelligence (2026)](https://www.nature.com/articles/s42256-026-01235-7)
+0. "Closing the synthesis gap in computational materials design" [Nature Synthesis (2026)](https://www.nature.com/articles/s44160-026-01027-2)
 0. "Controlling electrode–electrolyte interactions to enhance capacitance" [Journal of the American Chemical Society (2026)](https://pubs.acs.org/doi/10.1021/jacs.5c20988)
 0. "Data-driven exploration of AB<sub>2</sub>X<sub>4</sub> (X = O, S, Se, Te) spinel chemical space" [Digital Discovery (2026)](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00064a)
 0. "Multimodal operando characterization of iridium oxide-electrolyte interface for alkaline water oxidation" [ACS Applied Materials & Interfaces (2026)](https://pubs.acs.org/doi/10.1021/acsami.5c22249)
