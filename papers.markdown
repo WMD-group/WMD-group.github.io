@@ -12,6 +12,7 @@ permalink: /papers/
 </p>
 
 # Preprints
+* "Kinetically arrested twin-domain state in formamidinium lead iodide" [arXiv (2026)](https://arxiv.org/abs/2605.00427)
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](http://arxiv.org/abs/2512.00977)
 * "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [arXiv (2025)](https://arxiv.org/abs/2511.07158)
