@@ -15,6 +15,7 @@ permalink: /team/
 - [Tianshu Li (李天姝)](https://scholar.google.com/citations?user=GoyX3XcAAAAJ&hl=en)
 - [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
+- [Junkil Park (박준길)](https://scholar.google.com/citations?user=rVGLAYIAAAAJ&hl=ko)
 - [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)
 
 # PhD Researchers
