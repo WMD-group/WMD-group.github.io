@@ -4,7 +4,7 @@ show_in_nav: false
 title: Computer-Accelerated Design of Materials
 ---
 
-We are a research group at [Imperial College London](https://www.imperial.ac.uk/materials) working at the intersection of quantum chemistry, machine learning, and materials science. We use high-performance computing to design and optimise materials from first principles to function. Our work spans atomistic simulations, data-driven modelling, and multi-scale theory. 
+We are a research group at [Imperial College London](https://www.imperial.ac.uk/materials) working at the intersection of quantum chemistry, machine learning, and materials science. We use high-performance computing to design and optimise materials from first principles to function. Our work spans atomistic simulations, data-driven modelling, and multi-scale theory, with a focus on open science.
 
 The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.walsh) and is part of the [Thomas Young Centre](https://thomasyoungcentre.org) and the [Centre for Processable Electronics](https://www.imperial.ac.uk/processable-electronics).
 
@@ -37,8 +37,6 @@ The group is led by [Professor Aron Walsh](http://www.imperial.ac.uk/people/a.wa
 * Stability assessment and reporting for perovskite photovoltaics [Nature Energy](https://www.nature.com/articles/s41560-019-0529-5)
 
 # Open Positions
-* For postdoctoral candidates, the next call for [Newton International Fellowships](https://royalsociety.org/grants/newton-international) will be in early 2026.
-
 * For PhD candidates, the best time to get in touch with your CV and motivation is in October-December for admission in the following academic year. 
 
 # Contact
