@@ -20,6 +20,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Continuous SUN (stable, unique, and novel) metric for generative modeling of inorganic crystals" [Machine Learning: Science and Technology (2026)](https://iopscience.iop.org/article/10.1088/2632-2153/ae7d85/meta)
 0. "Increasing symmetry under pressure: squeezing the 6s<sup>2</sup> lone pairs in BiVO<sub>4</sub>" [Chemistry of Materials (2026)](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6c00436)
 0. "Platonic representation of foundation machine learning interatomic potentials" [Nature Machine Intelligence (2026)](https://www.nature.com/articles/s42256-026-01235-7)
 0. "Closing the synthesis gap in computational materials design" [Nature Synthesis (2026)](https://www.nature.com/articles/s44160-026-01027-2)
