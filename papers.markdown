@@ -19,6 +19,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Data-driven design of metal-organic frameworks for photoelectrochemical reactions" [ACS Energy Letters (2026)](https://pubs.acs.org/doi/10.1021/acsenergylett.6c00550)
 0. "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [Nature Machine Intelligence (2026)](https://www.nature.com/articles/s42256-026-01262-4)
 0. "Emerging inorganic solar cell efficiency tables (version 3)" [JPhys Energy (2026)](https://iopscience.iop.org/article/10.1088/2515-7655/ae862a)
 0. "Continuous SUN (stable, unique, and novel) metric for generative modeling of inorganic crystals" [Machine Learning: Science and Technology (2026)](https://iopscience.iop.org/article/10.1088/2632-2153/ae7d85/meta)
