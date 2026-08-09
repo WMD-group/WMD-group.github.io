@@ -23,7 +23,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [ASE](https://wiki.fysik.dtu.dk/ase/) powers [Computational Materials Repository](https://cmr.fysik.dtu.dk) with [Recipes](https://asr.readthedocs.io)
 * [Atomate2](https://github.com/materialsproject/atomate2)
 * [NOMAD](https://nomad-coe.eu)
-* [Pymatgen](http://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Crystal Toolkit](https://next-gen.materialsproject.org/toolkit) with [Recipes](http://matgenb.materialsvirtuallab.org)
+* [Pymatgen](https://pymatgen.org) powers [Materials Project](https://materialsproject.org) and [Crystal Toolkit](https://next-gen.materialsproject.org/toolkit) with [Recipes](https://matgenb.materialsvirtuallab.org)
 
 # Databases and Datasets
 
@@ -31,27 +31,27 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Awesome Datasets](https://github.com/blaiszik/awesome-matchem-datasets/)
 * [CoRE-MOF](https://zenodo.org/record/3370144), [QMOF](https://github.com/arosen93/QMOF)
 * [CoRE-COF](https://core-cof.github.io/CoRE-COF-Database), [Curated COFs](https://www.materialscloud.org/discover/curated-cofs), [ReDD-COFFEE](https://archive.materialscloud.org/record/2023.13)
-* [Crystalium](http://crystalium.materialsvirtuallab.org)
+* [Crystalium](https://crystalium.materialyze.ai)
 * [Crystals.ai](https://crystals.ai)
 * [Crystallography Open Database](https://www.crystallography.net/cod/)
-* [CSD](https://www.psds.ac.uk/csd), [ICSD](https://www.psds.ac.uk/icsd)
+* [CSD](https://www.ccdc.cam.ac.uk/structures/), [ICSD](https://icsd.fiz-karlsruhe.de)
 * [Foundry-ML](https://foundry-ml.org)
-* [HybriD3](https://materials.hybrid3.duke.edu) and [2D Metal Halide Perovskites](https://www.pdb.nmse-lab.ru)
-* [MatNavi](https://mits.nims.go.jp/index_en.html)
+* [HybriD3](https://materials.hybrid3.duke.edu) and [2D Metal Halide Perovskites](http://www.pdb.nmse-lab.ru)
+* [MatNavi](https://mits.nims.go.jp/en/)
 * [MPDS](https://www.mpds.io)
 * [NIST-Jarvis](https://jarvis.nist.gov)
 * [Nomad Repository](https://nomad-coe.eu)
-* [NREL Materials Database](https://materials.nrel.gov)
-* [Open Quantum Materials Database](http://oqmd.org)
+* [NLR Materials Database](https://materials.nlr.gov)
+* [Open Quantum Materials Database](https://oqmd.org)
 * [Optimade](https://www.optimade.org)
 
 # Machine Learning Crystals
 
 * (Legacy) [CGCNN](https://github.com/txie-93/cgcnn) and [MEGNet](https://github.com/materialsvirtuallab/megnet)
 * [DScribe](https://singroup.github.io/dscribe) and [MOFDScribe](https://github.com/kjappelbaum/mofdscribe)
-* [Magpie](https://bitbucket.org/wolverton/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](http://scikit-learn.org)
+* [Magpie](https://github.com/zankzeke/magpie) built on [Weka](https://www.cs.waikato.ac.nz/ml/weka/) and [scikit-learn](https://scikit-learn.org)
 * [Matbench](https://matbench.materialsproject.org) 
-* [MatMiner](http://hackingmaterials.github.io/matminer) built on [scikit-learn](http://scikit-learn.org)
+* [MatMiner](https://hackingmaterials.github.io/matminer) built on [scikit-learn](https://scikit-learn.org)
 * [SISSO](https://github.com/rouyang2017/SISSO)
 * [Sketch-Map](https://sketchmap.org)
 
@@ -99,47 +99,47 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [Magus](https://gitlab.com/bigd4/magus)
 * [p2ptrans](https://github.com/ftherrien/p2ptrans)
 * [PyXtal](https://github.com/qzhu2017/pyxtal)
-* [USPEX](http://uspex-team.org/en/uspex)
+* [USPEX](https://uspex-team.org/en/uspex)
 * [XtalOpt](http://xtalopt.openmolecules.net)
 
 # Structure Analysis
 
 * [Avogadro](https://two.avogadro.cc)
-* [FINDSYM](https://stokes.byu.edu/iso/findsym.php)
+* [FINDSYM](https://iso.byu.edu)
 * [Mercury](https://www.ccdc.cam.ac.uk/Community/csd-community/FreeMercury/)
 * [PDynA](https://github.com/WMD-group/PDynA)
-* [PLATON](https://www.cryst.chem.uu.nl/platon/)
+* [PLATON](http://www.cryst.chem.uu.nl/platon/)
 * [pyTilting](https://dwang5.github.io/PyTiltingDoc)
-* [spglib](http://spglib.github.io/spglib)
+* [spglib](https://spglib.github.io/spglib)
 * [TOPOS](https://www.topospro.com)
-* [VESTA](http://jp-minerals.org/vesta/en/)
+* [VESTA](https://jp-minerals.org/vesta/en/)
 * [Zeo++](https://www.zeoplusplus.org)
 
 # Electronic Structure
 
 * [ABINIT](https://www.abinit.org)
-* [BigDFT](http://bigdft.org)
+* [BigDFT](https://bigdft.org)
 * [CP2K](https://www.cp2k.org)
-* [ELK](http://elk.sourceforge.net)
-* [FHI-AIMS](https://aimsclub.fhi-berlin.mpg.de)
+* [ELK](https://elk.sourceforge.io)
+* [FHI-AIMS](https://fhi-aims.org)
 * [GPAW](https://wiki.fysik.dtu.dk/gpaw/)
 * [ORCA](https://orcaforum.kofo.mpg.de)
 * [Quantum Espresso](https://www.quantum-espresso.org)
 * [QUESTAAL](https://www.questaal.org)
 * [VASP](https://www.vasp.at)
-* [WIEN2k](http://susi.theochem.tuwien.ac.at)
+* [WIEN2k](https://susi.theochem.tuwien.ac.at)
 * [xTB](https://github.com/grimme-lab/xtb)
 
 #### Processing Tools
 * [AMSET](https://github.com/hackingmaterials/amset)
 * [BAPT](https://github.com/utf/bapt)
-* [BoltzTraP2](https://github.com/simonrh/boltztrap2)
+* [BoltzTraP2](https://gitlab.com/sousaw/BoltzTraP2)
 * [Critic2](https://github.com/aoterodelaroza/critic2)
 * [ElectronicLatticeMatch](https://github.com/keeeto/ElectronicLatticeMatch)
 * [Galore](https://github.com/SMTG-UCL/galore)
 * [iFermi](https://github.com/fermisurfaces/IFermi)
 * [kgrid](https://github.com/WMD-group/kgrid)
-* [Lobster](https://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy)
+* [Lobster](http://www.cohp.de) and [LobsterPy](https://github.com/JaGeo/LobsterPy)
 * [Macrodensity](https://github.com/WMD-group/MacroDensity)
 * [Packmol](https://m3g.github.io/packmol/)
 * [PyProcar](https://github.com/romerogroup/pyprocar)
@@ -151,7 +151,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [VASPpy](https://github.com/bjmorgan/vasppy)
 * [VASPsol](https://github.com/henniggroup/VASPsol)
 * [Wannier90](https://www.wannier.org)
-* [Z2Pack](http://z2pack.ethz.ch)
+* [Z2Pack](https://z2pack.greschd.ch)
 
 # Solar Energy
 
@@ -165,11 +165,11 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 # Phonons
 
 * [Alamode](https://alamode.readthedocs.io)
-* [Phonopy](https://atztogo.github.io/phonopy), [Phono3py](https://atztogo.github.io/phono3py)
+* [Phonopy](https://phonopy.github.io/phonopy/), [Phono3py](https://phonopy.github.io/phono3py/)
 * [TDEP](https://github.com/tdep-developers/tdep)
 
 #### Processing Tools
-* [ELATE](http://progs.coudert.name/elate)
+* [ELATE](https://progs.coudert.name/elate)
 * [IR and Raman spectra](https://github.com/JMSkelton/Phonopy-Spectroscopy)
 * [Julia-Phonons](https://github.com/jarvist/Julia-Phonons)
 * [Modemap](https://github.com/JMSkelton/ModeMap)
@@ -180,16 +180,16 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 #### Animations
 * [ASCII phonons](https://github.com/ajjackson/ascii-phonons)
 * [Molecular crystal phonons](https://github.com/JMSkelton/MolecularCrystalPhononAnimation)
-* [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html)
+* [Phonon website](https://henriquemiranda.github.io/phononwebsite/phonon.html)
 
 #### Datasets
 * [Phonondb](https://github.com/atztogo/phonondb)
 * [Our Phonons](https://github.com/WMD-group/Phonons)
-* [Phonon website](http://henriquemiranda.github.io/phononwebsite/phonon.html)
+* [Phonon website](https://henriquemiranda.github.io/phononwebsite/phonon.html)
 
 # Alloys and Solid Solutions
 
-* [ATAT](https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/)
+* [ATAT](https://axelvandewalle.github.io/www-avdw/atat/)
 * [CASM](https://github.com/prisms-center/CASMcode)
 * [icet](https://icet.materialsmodeling.org)
 * [Transformer](https://github.com/JMSkelton/Transformer)
@@ -217,7 +217,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 
 * [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry)
 * [Datacamp](https://www.datacamp.com)
-* [DFT-Book](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
+* [DFT-Book](https://github.com/jkitchin/dft-book)
 * [Julia](https://julialang.org)
 * [Jupyter Lab](https://jupyter.org)
 * [Visual Studio Code](https://code.visualstudio.com)
