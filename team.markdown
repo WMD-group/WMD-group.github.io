@@ -28,14 +28,9 @@ permalink: /team/
 - [Masahiro Negishi (根岸優大)](https://scholar.google.co.uk/citations?user=MJpzQkwAAAAJ&hl=en&oi=ao)
 
 # Visiting Researchers
-- [Thanasee (Seng) Thanasarnsarapong](https://www.ku.ac.th)
+- [Ryoma Yamamoto (山本竜馬)](https://www.cms-mi.msl.titech.ac.jp/members)
 
-# Undergraduate Researchers
-- [Cecilia Li ](https://www.imperial.ac.uk/materials)
-- [Kevin Tang](https://www.imperial.ac.uk/materials)
-- [Hanzhi Zhu](https://www.imperial.ac.uk/materials)
-
-# _Alumni:_ MPhil & PhD Graduates 
+# _Alumni:_ MPhil & PhD Graduates
 - [Lee A. Burton](https://scholar.google.co.uk/citations?user=fEp-jzkAAAAJ&hl=en)
 - [Christopher H. Hendon](https://scholar.google.co.uk/citations?user=k1erO3EAAAAJ&hl=en)
 - [Adam J. Jackson](https://scholar.google.co.uk/citations?user=0aWeSroAAAAJ&hl=en)
@@ -48,15 +43,15 @@ permalink: /team/
 - [Puck van Gerwen](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en)
 - [Lucy D. Whalley](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en)
 - [Shomik Verma](https://scholar.google.com/citations?user=5zXE7AEAAAAJ&hl=en)
-- [Kazuki Morita (森田一軌)](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ) 
+- [Kazuki Morita (森田一軌)](https://scholar.google.com/citations?hl=en&user=rzZqLbcAAAAJ)
 - [Young-Kwang Jung (정영광)](https://scholar.google.co.kr/citations?user=gKwOFtUAAAAJ&hl=en)
 - [Matthew Okenyi](http://www.imperial.ac.uk/theory-and-simulation-of-materials)
 - [Liam Harnett](https://www.imperial.ac.uk/plastic-electronics-cdt)
 - [Ju Huang (黄菊)](https://scholar.google.com/citations?user=O4S9gP0AAAAJ&hl=en)
 - [Matthias Golomb](https://scholar.google.co.uk/citations?hl=en&user=aVhvoHsAAAAJ)
-- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en) 
+- [Seán Kavanagh](https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en)
 - [Young Won Woo (우용원)](https://scholar.google.co.uk/citations?hl=en&user=0A49DDsAAAAJ)
-- [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao) 
+- [Gabriel Krenzer](https://scholar.google.co.uk/citations?user=ZYvw2ZUAAAAJ&hl=en&oi=ao)
 - [Xinwei Wang (王欣伟)](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN)
 - [Anthony Onwuli](https://scholar.google.com/citations?user=6VZmdykAAAAJ&hl=en&oi=ao)
 - [Xia Liang (梁夏)](https://scholar.google.com/citations?user=H_WhefEAAAAJ&hl=en&oi=ao)
