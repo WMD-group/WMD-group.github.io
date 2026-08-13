@@ -12,13 +12,14 @@ permalink: /papers/
 </p>
 
 # Preprints
-* "Kinetically arrested twin-domain state in formamidinium lead iodide" [arXiv (2026)](https://arxiv.org/abs/2605.00427)
 * "Constant potential electrochemistry with multiscale quantum mechanical / machine learning simulations" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68ff0d283e6156d3be3e71df)
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](https://arxiv.org/abs/2512.00977)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "Kinetically arrested twin-domain state in formamidinium lead iodide" [Journal of the American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c09938)
+0. "GFN1-xTB-assisted machine learning for electronic structure screening of metal–organic frameworks" [Journal of Chemical Theory and Computation (2026)](https://doi.org/10.1021/acs.jctc.6c00979)
 0. "Data-driven design of metal-organic frameworks for photoelectrochemical reactions" [ACS Energy Letters (2026)](https://pubs.acs.org/doi/10.1021/acsenergylett.6c00550)
 0. "Guiding generative models to uncover diverse and novel crystals via reinforcement learning" [Nature Machine Intelligence (2026)](https://www.nature.com/articles/s42256-026-01262-4)
 0. "Emerging inorganic solar cell efficiency tables (version 3)" [JPhys Energy (2026)](https://iopscience.iop.org/article/10.1088/2515-7655/ae862a)
