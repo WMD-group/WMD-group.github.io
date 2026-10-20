@@ -14,6 +14,7 @@ A selection of tools we use, some we like, and others we develop. Also see our [
 * [PyTASER: simulating transient absorption spectroscopy (TAS) for crystals from first principles](https://joss.theoj.org/papers/10.21105/joss.05999)
 * [ShakeNBreak: navigating the defect configurational landscape](https://joss.theoj.org/papers/6545bcc1a0439b16360ace684ac5aa25)
 * [SMACT: semiconducting materials by analogy and chemical theory](https://joss.theoj.org/papers/10.21105/joss.01361)
+* [SMACT v4: enhanced screening and prediction tools for computational materials design](https://joss.theoj.org/papers/10.21105/joss.11015)
 * [UnlockNN: uncertainty quantification for neural network models of chemical systems](https://joss.theoj.org/papers/b00df538a159c4b6816ec24d4d1716fb)
 
 # Platforms and Toolkits

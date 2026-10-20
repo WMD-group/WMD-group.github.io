@@ -18,6 +18,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 
 # 2026
+0. "SMACT v4: enhanced screening and prediction tools for computational materials design" [Journal of Open Source Software (2026)](https://joss.theoj.org/papers/10.21105/joss.11015)
 0. "Antimony sulfide photovoltaics with high open-circuit voltage not limited by self-trapped excitons" [Nature Communications (2026)](https://www.nature.com/articles/s41467-026-76845-1)
 0. "Kinetically arrested twin-domain state in formamidinium lead iodide" [Journal of the American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c09938)
 0. "GFN1-xTB-assisted machine learning for electronic structure screening of metal–organic frameworks" [Journal of Chemical Theory and Computation (2026)](https://doi.org/10.1021/acs.jctc.6c00979)
