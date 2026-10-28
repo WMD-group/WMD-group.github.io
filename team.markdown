@@ -16,7 +16,7 @@ permalink: /team/
 - [Tingwei Li (李廷炜)](https://scholar.google.com.hk/citations?user=OnC9vtgAAAAJ&hl=en)
 - [Zhenzhu Li (李珍珠)](https://scholar.google.com/citations?user=zO1h0pQAAAAJ&hl=en)
 - [Junkil Park (박준길)](https://scholar.google.com/citations?user=rVGLAYIAAAAJ&hl=ko)
-- [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)
+- [Shuaishuai Yuan (袁帅帅)](https://scholar.google.com/citations?user=VV2o-ysAAAAJ&hl=en)
 
 # PhD Researchers
 - [Panyalak Detrattanawichai (ปัญลักษณ์ เดชรัตนวิไชย)](https://www.imperial.ac.uk/materials)
@@ -83,3 +83,4 @@ permalink: /team/
 - [Emma Wolpert](https://scholar.google.com/citations?user=3Vu3CHcAAAAJ&hl=en)
 - [Hyunsoo Park (박현수)](https://scholar.google.com/citations?user=J7392DIAAAAJ&hl=en)
 - [Lucas Garcia Verga](https://scholar.google.com/citations?user=5CUzMH4AAAAJ&hl=en)
+- [Lars Schaaf](https://scholar.google.com/citations?hl=en&user=Z18-6_YAAAAJ)

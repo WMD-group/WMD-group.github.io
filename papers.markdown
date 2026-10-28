@@ -16,6 +16,7 @@ permalink: /papers/
 * "Crystalyse: a multi-tool agent for materials design" [arXiv (2025)](https://arxiv.org/abs/2512.00977)
 * "Polarization domain mapping from 4D-STEM using deep learning" [arXiv (2025)](https://arxiv.org/abs/2510.00693)
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
+* "Chemical filters for ultra-high-throughput materials screening and generation" [arXiv (2026)](https://arxiv.org/abs/2607.17910)
 
 # 2026
 0. "SMACT v4: enhanced screening and prediction tools for computational materials design" [Journal of Open Source Software (2026)](https://joss.theoj.org/papers/10.21105/joss.11015)
