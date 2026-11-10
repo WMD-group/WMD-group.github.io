@@ -18,6 +18,7 @@ permalink: /papers/
 * "Unifying design for homogeneous and heterogeneous catalysis via d-band center alignment" [ChemRxiv (2025)](https://chemrxiv.org/engage/chemrxiv/article-details/68de96f05dd091524f8b36f0)
 * "Chemical filters for ultra-high-throughput materials screening and generation" [arXiv (2026)](https://arxiv.org/abs/2607.17910)
 * "Learning the chronology of materials discovery for synthesizability prediction" [arXiv (2026)](https://arxiv.org/abs/2610.36193)
+* "Quantitatively probing the tilt angle failures in 4D-STEM polarisation analysis" [arXiv (2026)](https://arxiv.org/abs/2611.06274)
 
 # 2026
 0. "SMACT v4: enhanced screening and prediction tools for computational materials design" [Journal of Open Source Software (2026)](https://joss.theoj.org/papers/10.21105/joss.11015)
